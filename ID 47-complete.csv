@@ -1,0 +1,947 @@
+"I apologize in advanced because I cuss a lot. Testing one, two."
+Can we put this on us?
+Yeah.
+"Fuck, how do you put this on?"
+How do you ...
+"Oh, no, no. I got it."
+There we go. Probably just too close though.
+"Oh, you're letting everybody know."
+Probably.
+Part of your experiment.
+hmm?
+What the fuck is going on?
+"You don't have it, what is count Vera vows. You don't have that initial."
+What are you talking about? It needs to be initialized 'cause it doesn't understand it.
+Yeah.
+Dave is telling me when you got it because this gon' be a long day.
+No.
+I wish Sarah was here.
+"See, I can't do anything 'cause they want the method to be a string. How do they expect to return an integer?"
+Was I right?
+About what?
+About what?
+Then what did you do wrong?
+Why didn't you include it in your main method before?
+"Oh, okay."
+Okay.
+"Oh, everything works for you, then?"
+"Got something going on over there, over Chad."
+I don't think it is.
+"How did you make public static the way it happened, like you didn't give it a title. How did it ..."
+"Like when you did public static void on the other assignments, you-"
+You just print it out right then and there and the If statements were in there or If statements weren't in there?
+"Oh, this just the system now."
+"But then, but you still didn't return anything."
+In the public static void.
+"Okay, okay, okay. So, you just ... for me to do this for a void, I have to include everything in the void? Like ask them the word-"
+"I'm gonna try that. I'm gonna try that. But like, you still have your main, right?"
+"Okay, so I just start from the beginning? Wait, it has to be ..."
+"And you included your variables in the title, right? That you'd use?"
+"So, how-"
+So how did you do that? Since I don't know how many I would use.
+String vowels.
+"So, why is it asking for a return type?"
+Yeah. 
+"But I'm not trying to return anything. Oh, wait. I know what it is, I know what it is."
+What she say?
+"I don't know why yours is working. Oh, did you just delete-"
+"There's nothing wrong with your class, I mean your, yeah. There's nothing wrong with your class. That's the only thing that's wrong with mine."
+"This. 'Cause it wants me to return it but there's nothing to return it to. I commented out of everything. Unless, that's the problem 'cause I saw you take it out, so."
+We're doing this all wrong.
+We can't use void.
+We can't use void?
+"Can you use void 'cause the main method has to be called, has to have the string in there. The main method has to be the string."
+"Oh, we don't get in trouble for it then because ..."
+"Okay. They was us, a numerical value, right? I cannot return an integer that's under a string method, I don't know how to do that. I don't know how to transfer, I don't understand."
+Do you see what I'm saying?
+"'Cause like, the word you put in is the string and I'm doing the math in the main method."
+"No, it won't let me return it."
+Yeah.
+That's the only issue.
+The split need.
+"No, pseudo code. I'm still trying to figure out first."
+Oh. That's easy.
+It's so fucking easy. It's so fucking ea- that's literally what [crosstalk 00:18:56]
+"'Cause this is, look, look. You see that, shit. You see those quotation marks?"
+"Yeah, like the If, [crosstalk 00:19:26]"
+"So, like you find index and then you get the letter, I think, and then you just place the variable that you have diverted to for that letter and then-"
+Huh?
+Okay.
+"Ugh. Dude, I'm not even doing a while loop statement for that. I'm on some different shit, but if it works, I'll tell you. Gimme ..."
+Can you do me a favor?
+Yeah.
+"Actually, you know what? I don't know what the issue is, it's not even asking me."
+Did she just say no string [crosstalk 00:21:47]
+Okay. I got you for the second one though.
+"Davis, I can't, I can't, I can't. I can't."
+"I can't. Nothing is wrong. It does not ask me for a word. You know what, I'll just do the second one. I'll just do the second one. Lord have mercy."
+She said not to use split and Instructure.
+"And sub string, okay."
+"Oh, wait. We gotta use a method for that."
+How do write a method that accepts both string and integers
+"It says, ""Write a method that accepts a string and an integer."""
+But what about the title of the ... 'cause that's how I did it for the last one. You do string-
+A variable and then you do the title of the method and then-
+I understand the logic for it but it wants us to make a method that inputs string and integers. 
+"Huh? It's what? You can? What? O C, yep. Cool?"
+"It's not cool 'cause we can't get this done, if I don't know how to do that."
+This is what happens when Sarah isn't here.
+What?
+But still. But still. I don't understand. I don't understand what's going on.
+"Well, no 'cause we were sane enough to pick a lab that's at a decent time not in eight o' clock in the morning."
+The first lab?
+"But like, the first lab?"
+"It's at eight. That's what I'm saying. 12's still too early for me. If I had a choice, if this lab, I would choose five o' clock for a lab. I'd never choose anything before five o' clock."
+I'm serious.
+No.
+Who are you texting?
+"[crosstalk 00:27:14] oh, you are texting ... hmm. It's the plug."
+It's the plug.
+Oh.
+"Did you literally just say, [inaudible 00:27:34] I need to go flip turn for the last activity."
+"I know but still, damn."
+"Yeah, but still damn. They won't even look at the program if you don't submit the flow chart. I hope you're hearing this."
+"It's like, either a zero or you don't ... wow."
+I'm gonna try something.
+Fuck.
+Ooh. Does that loop it?
+But does it loop it?
+"See, I have to have ... that doesn't loop it. Because if you do-"
+"See, I won't use a loop if I don't need to. Like if I can use contains the API and separate each character that I want to do and they see it as that."
+"Like, okay. Like in assignment two, did you do loop for H and G? I mean, G and I?"
+"Well, did you loop, yeah. Did you loop G and F actually?"
+
+Yeah.
+"Yeah, but I'm talking about the functions for G and F."
+"No, it's next Thursday. Our lab test."
+Yes.
+Yes.
+That's good.
+We all have a test on Friday.
+"Let me see. See, I don't understand why you had to do that."
+You being so complicated.
+
+You being so complicated.
+No.
+You do not.
+Is this for F?
+"See, all I did was just ..."
+"[00:33:20] I did total length of the sentence, subtracted by the length of the cutoff from spaces."
+Using a loop. Which is unnecessary.
+"I'm not hard on you, it's just ... the goal is not to do as much work as you need to."
+Okay. But do you understand the second part. You're welcome to.
+You can just use replace.
+"She said we can't use split, structure, or something else. I didn't hear her say it."
+Or we can ask David or Chris.
+What can we not use?
+Yeah.
+Turn it off.
+Hey Chris? What do you not use for the second part?
+We can use [inaudible 00:34:52]
+Yeah.
+
+"48, 47. [crosstalk 00:43:30]"
+[00:45:18] This is not [inaudible 00:45:20] today.
+"Look, I can probably do ABC. That's it."
+After that its gonna take me a while.
+So.
+"No, lets not think about that right now, lets just do A."
+So we already asked them something.
+So I think ... [crosstalk 00:45:57]
+So that's what I did to do an array of single letters.
+Put a space.
+Yeah.
+It ... no capital.
+"Yeah. Okay so what I think, since we don't know the range of it until the user inputs it, I think we could just do array equals math dot random, zero to nine. You know what I mean?"
+"Okay, so if I put in 40, there's gonna be 40 lists of numbers-"
+#NAME?
+But since we ... since the size of the array can change-
+"Yeah, but what I'm saying is that the user input can be different each time."
+"So we have to do it for all the sizes of it. So I think what you can do, which is do the variable array. Let me see."
+"So what is it, math dot random? Are you already looking it up?"
+Math dot random right? Capital M?
+No I don't.
+"Oh, I gotta do ... [inaudible 00:50:09]"
+What?
+The numbers in the array. You get it?
+That's 90.
+No. It says prompt user to input a size between 10 to 100. So the range is gonna change each time the user inputs something.
+So as them a range.
+And then you use the range for the size of the array. Yeah.
+"Yeah, its like reading a book."
+I forgot how to do math random.
+Oh here we go.
+This is zero to nine.
+Zero to nine.
+Looking at ...
+So you're gonna do math dot random. How many times?
+Exactly.
+"In the same, to randomize all the numbers in the array. So I'm assuming the way I'm doing it,"
+"Works because it takes in the input range, and then the variable for the array. The list of the array. So that's what I did. So I hope that's just-"
+Same. Look I'm [crosstalk 00:54:17]
+Ah.
+What?
+Mm-hmm (affirmative)
+Okay.
+
+And that's do tomorrow?
+Okay.
+Thank you.
+"Because you gotta ... okay, so [crosstalk 00:55:40] I made an array for the list of the range of the user inputted, right?"
+"So if it's 50 it's gonna be fifty to sixty, whatever. And then since we don't want to do that, what you just showed me, because we don't know how much, and it changes each time, and it tells us to randomize each list of numbers."
+
+"In the array. I think that if you put in the inputted number in the array list, it randomizes all the numbers in the list."
+"Okay, so do you understand B a little?"
+Yeah. So the max is gonna be a 9 number.
+"I mean if it's a big, big range, it should be a 9 in there, if you know what I mean? Whatcha laughing about?"
+I know.
+Yeah. I'm going to high school tomorrow.
+Do you know if they want to display?
+I don't know what that is.
+I think that was a shuffling thing.
+So I can't use index of.
+I can't use index of.
+What are you doing?
+Well why do you think it wouldn't work?
+That's why I'm looping it. But you're trying to find-
+So you do dot link? Like what she said?
+Okay. [crosstalk 01:03:48]
+Where's max?
+"No, we're not, wait."
+"Oh, like you're trying to find the-"
+"So if index of two has 9 and index of 5 has 9, it would take 2. Cause it's the lowest index with the highest number to it."
+But let me see how that works. Se we do the length of it.
+I think it should still work.
+It doesn't matter.
+No go back. Oh you have it.
+Why zero?
+Why zero?
+So we're making something new?
+But are you using-
+But how does the force statement know that?
+So explain it again?
+Array A.
+"Which is what the user input for the list, right?"
+"Okay, and then you made a force statement for it?"
+But array length is what?
+But array length ... length is what?
+Zero? Or the user input?
+But the user input number? Or the array?
+Are you sure?
+Cause that zero is hooking me up ...
+"That's what I'm saying. I was like, are you sure you're going to put in the user input?"
+"And if A is less, I mean if I is less than ..."
+We're gonna have to ask Sarah if we did [crosstalk 01:07:50]
+Yeah. That's the part that scared me. Cause I'm not sure if was gonna do the whole list.
+Fuck.
+I think this is what he meant.
+Oh shit I broke it. Oh no I didn't.
+"Sarah, do we need her?"
+So it said if ... so for array I is greater than the max.
+Why are the parenthesis like that? It kills me.
+What? Oh...
+"Yeah, why is it like that?"
+We're kinda guessing over here.
+I failed my chemistry test.
+Yes!
+"Oh no, I accepted that."
+"I'm mad at the chemistry exam because it was badly worded, he put our last question was something he did not teach [crosstalk 01:11:03] and yeah."
+Yeah.
+He was talking about theoretical yield or something?
+"[crosstalk 01:11:20] Put something down, fill up the while page... it's just math."
+It's just mad you know?
+Some of it was multiple choice[crosstalk 01:11:27]
+I did not know the last one.[crosstalk 01:11:32]
+Which is the one that he did not teach us. [crosstalk 01:11:35]
+I put in something random.
+Because it's a range.
+And I should know [inaudible 01:11:48]
+"Yeah, that's better than nothing. [crosstalk 01:11:52]"
+Yeah. I know. I still have to put in something random.
+Yeah.
+Cause you got one part of it right or something?
+Okay.
+So like for each time it does it for math.
+Basically.
+"Wait, so array size or the input- [crosstalk 01:14:13]"
+In math random-
+Yeah.
+Did you ask her about under the max? Okay.
+Okay so what was it?
+What's wrong with it?
+What did you put in?
+Can you go back to the ...
+"Is that the, wait, okay ..."
+Okay.
+Not yet. I think we can still go. Are you calling it a day?
+That's a sign.
+"Is it, okay, I didn't break it."
+So like for number C? That's in-
+"Yeah, that too. Do we just add up what's in the list and then divide it by..."
+Yeah. So like divide it by how much the list consists of. Like if the user-
+Can you come here? I can't see it.
+"That's C ... that's, that's B-"
+That's B.
+Dang.
+"Yeah, well-"
+"Yeah, I think so."
+"I always forget to do that. Okay so you did that part, right? Double max, same thing."
+"Yeah. So, I think what goes in the bracket is the highest number."
+Like your variable for-
+How is that messed up?
+"No, go over it. [crosstalk 01:20:56] go over it."
+"Just, over yeah. What it say?"
+Are your brackets in line?
+Thanks.
+Mm-hmm (affirmative)
+So I think I figured out-
+"I think that's supposed to be 9, cause it's the highest one. If that makes any sense to you."
+"Yeah it runs, it terminated."
+So now I have to find the index.
+I don't know how to do that.
+"No, 10-"
+"Why, Davis? Why?"
+So now we have to fond the index of that?
+"Index of max, that's it?"
+"It set it. Go back, go back."
+[crosstalk 01:23:37] yes.
+Is that a new method or something? I don't understand what that is?
+Mm-hmm (affirmative)
+"Wait, it's the same step which is extra one step."
+So how come it isn't-
+An index of X?
+"Oh, I have to do that first."
+[01:24:48] Why don't you just socialize? Dow whatever you teenager do nowadays.
+"I know, you got kids."
+How are you older than me.
+19
+One month.
+Oh okay.
+I never took you as a March person.
+I never took you as a-
+"Yeah. October, September."
+"Oh you lied, it is September."
+"You don't have to do the first thing again, I don't think so."
+I don't think so.
+Just watching the new Kim Possible movie.
+What?
+Its like a virgin.
+"Oh shit, okay, you want me to be the teacher now?"
+My voice is better than everybody here.
+Yeah. I always project. I can be loud.
+How does it work?
+Why are you always struggling? It doesn't work.
+"Oh, outside the for statement?"
+What happened?What happened?
+I think its because we only have a month left.
+Sort of. [crosstalk 01:28:48] what was the range you put in?
+30. It just keeps printing out ...
+So you kinda lied to me.
+So-
+Okay.
+Okay.
+Sure.
+It's not Friday yet man.
+"Oh are you going home? You gonna have a dinner, you gonna go out to eat?"
+You family don't care about you like that?
+Can you drive?
+Have you ever gotten a ticket? I feel like you're lying to me.
+"I feel like you're gonna get into an accident. A collision. I don't know, you be like, you be doing something on your phone, and ... I could see you doing that."
+No I did no wish upon you. I'm just saying if you saw a snake right now you'd flip. What if you were in the car-
+But what if you were in the car?
+I feel like you'd be like.
+"But I'm saying, the snake is outside the car, and you're driving."
+Are you sure?
+But you won't freak out?
+Did you hit it?
+Oh.
+No. Stop. Why are you looking up spider videos?
+Oh no.
+Australia is crazy bro.
+"The spider come into my car. That's when I would really freak out. Snakes don't freak me out, but spiders."
+So calculate the average of the array elements.
+I understand-[crosstalk 01:32:42]
+We're not going to display all of the array at once.
+We don't need to know what they are. We just need to add it up.
+I don't know?
+Cause I don't want to be array plus array plus array plus array.
+Ah.
+Does it say anything about taking the average of the array? Lemme see it. Let me see something here.
+I wonder if they're gonna really listen to this for an hour and thirty minutes.
+"Yeah, I'm pretty sure they have to, aint nobody finished with this."
+Really?
+There's always something going on with you.
+But yours don't work.
+My computer's better than yours.
+Yeah. It's touchscreen.
+Slow ass motherfucker.
+I'm leaving.
+Do my exit.
+"Uh, Davis! Davis!"
+"He, no he know he heard me."
+You're already standing up.
+
+They can hear me right?
+They can't?
+It's good right there.
+I hope they hear us.
+"Oh, that performs a binary search, question 7."
+"Damn it, it's 6."
+Mm-hmm (affirmative). Okay. It's different than 6.
+That's what I think it is.
+A bunch.
+"I think that's what we have to do, I think linear..."
+"Okay, but binary, you do?"
+"I don't know, you're the one that knows more than me."
+Okay. Then it's negative 1.
+"What the fuck. Dude, have you seen question 10?"
+What the fuck is...
+Uh-uh (negative).
+Wait.
+"Oh, that's what we're using, okay. I didn't even know we were using that, I was just so confused. What?"
+Okay.
+"It's mid minus 1. Oh, wait. Yeah. So high is the length minus one."
+Are we allowed to put this in Eclipse?
+Why? How?
+They don't have shit to do.
+So what're they saying?
+[crosstalk 00:07:41]
+"Just keep going down, a little more. It's like every day conversations, like, ""Hey, did you feed your cat today?"""
+I get the freaking notifications [crosstalk 00:08:22].
+"Yeah, I'm still waiting for the one useful [crosstalk 00:09:39]."
+[inaudible 00:10:11]
+"I think it was Tuesday, she was like, ""I'm going to take a nap in the classroom up above,"" or something, and if anyone wants to join..."
+A couple of years.
+Nothing.
+Yeah.
+"Is int k equals 3.5, is that going to be 3 or 4."
+Suppose int k equals 3.5. is that going to be 3 or 4? Because it's not a double.
+"No, it's just hypothetical, does it round up or down?"
+"No. Okay, you have an int, but you can't have 3.4 stored as an int, right? Because it's a decimal. Does it display 3?"
+"No, it displays something."
+"No, no, no."
+"Okay, if you literally just have int k equals 3.4 or 3.5, and then you have system.out k..."
+It goes to 4?
+"Is that 3, the second one?"
+But this isn't [inaudible 00:13:43]. This is the binary one for [crosstalk 00:13:45]
+[inaudible 00:13:49]
+"Oh, because A maybe [crosstalk 00:14:10]."
+Key of 6. 
+It's 2.
+I think it's binary. Because-
+Yeah.
+I'm trying to find this fucking book.
+"I don't care, I need the book."
+You're a fag. 
+"Okay, so basically, there was an online PDF of the book. And just today, it went offline and now it's gone, and so now I'm trying to find another one."
+"I have a paper copy at home, but..."
+Because it's at home and it's a big binder.
+"Okay, I asked you that and you told me no [crosstalk 00:20:17]."
+We just broke it.
+"What does key equal? So it's 2? No... It's 2. Step 4 is 2, right?"
+Okay.
+"Wait. Oh shit, y'all figured that out?"
+I thought they said it was wrong or something.
+Oh.
+Okay.
+It's 3?
+"Wait, what's step 5?"
+Quit being a little bitch.
+What's step 6?
+What's step 6?
+I don't-
+Mm-mm (negative).
+Step 2.
+"Literally step 2, I've got to figure this shit out."
+Mm-hmm (affirmative).
+7?
+What's the length of it minus 1?
+Okay.
+3.5
+Yeah.
+Okay. Okay
+33
+Yeah.
+"Okay, that makes sense now. I literally just didn't understand."
+"Okay, thank you."
+Yeah.
+The next one's multiple and neighboring.
+That's right. 
+"I found it, it's multiple neighboring."
+"I have no idea, what sort."
+You know?
+It's bubble or selection.
+Bubble.
+"Because this one, right above it, it says you only need to focus on bubble and selection, that's my hunch."
+"And if we just did that, then... Awe, shit."
+Hm?
+"No, there's more. "
+Tonight. She said she's not extending this?
+"Yeah, basically."
+"Dude, I don't understand this. "
+I'm just guessing.
+Did you get 16?
+"Wait, I think I got it."
+"Give me a second, but I think I got it."
+I just submitted.
+"Yeah, I got a 22 out of 29. And it doesn't tell you the right answers, so I can't help you."
+It doesn't tell me. It tells me if it's incorrect.
+"Okay. Question 4, if you put 3, that is wrong."
+"Question 6, if you put 6 that is wrong. 5 was negative 1."
+Yeah.
+Mm-hmm (affirmative). 
+"Yeah, just those two and then the last one."
+"8? Yeah, negative 1?"
+Negative 1.
+It didn't tell me.
+"It didn't me what was right, it just told me if it was right or not, yeah."
+47
+You're good.
+"So you have two numbers, one for the column, one for the row. Right?"
+And now you're going to put it in the array. 
+"Whoa, whoa, whoa. "
+"You know, I hope you're giving me good grades on the... when we do the exit document."
+Mm-hmm (affirmative). That survey.
+In order for us to get extra points.
+This is about your partners.
+Every time we've done one of these.
+"See, now I don't believe you."
+"You know the survey we have to do every time we do one of these, at the end of the class? And it says like, ""Does your partner... blah, blah, blah, blah, blah."""
+You didn't do yours.
+So did it work out?
+Boy.
+Don't... don't do that. Don't do that. It don't work.
+"Oh, you know why I think it doesn't work?"
+'Cause there's no numbers in there. 
+"So we just do a four statement, right?"
+How do you do a loop to random numbers again? Oh my God. 
+What is row?
+I'm so confused. What am I looking' at?
+"Yeah, but you gotta do it for every single... like the rows and the columns."
+Are you sure that's it?
+"To me, that doesn't make any sense."
+"'Cause like, you're trying to do C, right? Let's say C is the length of it."
+"So don't you do main array C, dot length?"
+Right.
+But you're just...
+But how do you know how to fill it with C? Or are you going to do that?
+"Yeah, 'cause I fill random numbers in."
+The row and the column.
+"Okay, so it has the blocks already, so if I just do one math random, it's going to do math random for everything already in it."
+No. Ten... plus two... ten plus two.
+"One through nine? Oh. Yeah, then ten plus one."
+Mm-hmm (affirmative).
+"'Cause you need another... yeah. Nevermind. Dang. So you already did the randomization, correct? So now you got system outed?"
+What do you mean? To display it?
+"No, you just do array to string."
+"System out... well, import arrays. "
+"Arrays, capital ""a,"" dot two string, capital ""s."" And then I guess main array."
+Oh my God. I don't know what's wrong. Look what I did last time.
+How about take away the arrays to string.
+"No. Do main array, no, hold on. Erase it. Erase that. Plus..."
+No. Get rid of the parentheses.
+"Yeah. So do main array plus quotation marks, no space between it. "
+"Yeah. Close it, close it. With the parentheses. Let's see if it works."
+"What? How did I fix this problem? How did I fix this problem? I know I fixed this problem, man, I'm serious."
+I did this.
+Do main array M. 
+Or one of your variables.
+"Yeah, you can do that. Just put it..."
+That or C. Is it together? Or does that C stand alone?
+Oh boy. I'm going to try it out.
+You know how like... I forgot how to display the actual thing and not the...
+"No, well, I'm Davis. I'm Davis."
+'Cause he got it.
+Oh! 
+"Wait, wait, wait. Is that a nine out of nine? No, it's not. It could be."
+"I was wrong. You might want to change that to nine. And it said ""two to nine,"" right?"
+"Okay, there's no problem with that, it's just... I get it. Okay. So let me understand the four statements, man. Let me understand the four statements."
+I just need to see it.
+"So for the second loop, you put main array row, from the initial... for the..."
+"You put that variable in the four loop, in the new four loop."
+Print out what you did.
+"Oh, okay. So... no, there we go. So you then you would do math random, right? You'd do main array, row, and column."
+"Did I say nine, right? Yeah, nine plus one."
+"So all you did was just system out, main array... I mean arrays, two string, main array right?"
+Okay.
+"Oh. I have to do it for them, right?"
+So just... what'd I do?
+So you guys know where I went this weekend?
+"You know where I did... like, where I went to this weekend?"
+I went to Western Carolina University.
+"I mean there's some stuff, that I was like, ""Oh, this is nice."""
+"I mean, there was a lake. There was a waterfall. There was hiking trails. Hey, that's what I'm saying. But like, I came like a warm day, a decent day. I was like, ""Okay, this isn't so bad."" But I was like, my friend, she lives in Scott. I'm like, ""This is shitty. Like, this is prison."" Scott. Scott Hall in Western Carolina. This place is shitty."
+"On the outside. But when you walk into the buildings, you're like..."
+"Yeah. Like, I was like, ""This is a nice place to go,"" but I was like, ""There's too many distractions because the drugs are too easy, the alcohol are too easy, like..."" "
+"No. But still, my friend was like, ""You want to go to a party?"" And I was like, ""Why?"""
+"Yeah, I was like, ""Why?"" And he's like, ""To do something."" I was like, ""Okay..."" She was like, ""We're going to Lamb. Or do you want to go to the Duck House?"" I was like, ""What're you talking about?"" So we went to the lamb, it was shitty. They played this country song that was made by Billy Ray Cyrus."
+I was like...
+"I don't hate it. It's just like, ""These people are shitty."" They're nice... they're nice, but the people are shitty."
+"I was like, I met some cool people, but I'm like, ""This place is shitty."" I was like, ""I can't go here."" Just the level of trashiness, there's a level of trashiness that I can't do."
+Really? I feel like App is... has more class. I feel like App...
+I thought App was more closer to civilization.
+App?
+"I feel like... I'm angry, it's because their classes are so easy."
+At Western.
+Yeah.
+"That's what I'm saying. I was like, people like my brother were saying, I was like, oh yeah, you know..."
+Yeah.
+I don't think...
+I don't...
+It's shitty. 
+It's so shitty.
+It's cheap.
+"I was like, ""You think you can walk to your classes? Or you could... if you think you could walk to another dorm, though, you might as well just drive up the hill."" I was like, ""I ain't doing this."""
+"I was like, ""I'm glad I didn't come here."" Don't go to Western."
+"You might, just for like a..."
+Where? App?
+"I don't know. You know, you always have that one guy that's like, ""I'm going to Clemson. I'm going to Clemson."""
+Maybe the person I knew was saying he was going to Clemson for years in school... no.
+Yeah. Only because his family went to Clemson.
+Oh. Oh. 
+"I'm glad Charlotte existed, because if I had to go to Western..."
+No! I'm just saying.
+I would've gone to App.
+Did you get into Wilmington? Huh?
+"No, I said if Charlotte didn't exist I would've gone to App."
+At least you got wait-listed. I got rejected from Wilmington.
+"Like, you have to play a sport to get into Wilmington."
+"That's what I heard. It was like, all the people I knew who got into Wilmington played a sport, and their GPAs weren't that good and their SATs..."
+No.
+"Yeah, that was a class, though."
+"Yeah, but like, if Charlotte didn't exist, I would've gone to App or do my best to transfer to NC State."
+"Now it is. It wasn't back then. No, not ECU. Have any of y'all been to ECU? It's too crazy."
+'Cause there's stuff to do. It is.
+Apparently a lot of people from Charlotte go to Western throughout the semester.
+"Yeah. There always like, ""There's nothing to do in Charlotte."" I was like, ""No, there's stuff to do in Charlotte. It's just that the people here are too stuck-up."" You'd have money. No, it's true. People here... like, if you lived in South Village, you'd be kind of stuck up. You can ask for him..."
+But there is stuff to do here in Charlotte. You just have to have money.
+Everybody's been telling me that. Should I live off campus?
+Like an apartment.
+"Like not under Charlotte, but an apartment."
+"I don't think... I think I'd be too lazy to cook for myself, you know?"
+Really?
+"Nah, I'd be too lazy to go on campus."
+I'd be too lazy.
+Nobody thrives on campus. You can ask Prim.
+You right.
+No it's not.
+No you don't. 'Cause nothing goes on in the campus. Even you got a bad attitude with some of the people on campus. The guy in our dorm that always talks about baseball. What's happening now?
+"I'm on B. Oh, print it out?"
+"Well, I'm on part B."
+"Davis, you told me wrong. Oh, is it... let me see yours."
+"Don't go to Western, Davis. I'm serious. You get raped. Like, there's only... I still can't get the images out of my head. You lie to me... oh, outside the four line... Right?"
+Let me see.
+No it didn't. I stopped it.
+What'd you do?
+Oh. So you're doing C? So you're doing columns?
+Don't... don't tell me. It reminds me of how much I have to cram before each...
+At least y'all get to sign up for classes.
+"Yeah, well, I can't sign up for the classes that I want because I don't have a major or a minor."
+"You know what, fuck you, Davis. Fuck you."
+"No, freshman. They're like, ""You have to declare a major to do these English classes."" I was like, ""Why?"""
+Yeah! As a minor. As a minor.
+"That's what I'm saying! No, I have to..."
+I don't have to declare a minor for English to take English classes because it's English.
+"Okay, Prim, I got this. I mean, Davis, I got this. Look-y here. Do another four loop. Why are you doing the method?"
+Did it ask for a method?
+"I mean, do it your own way."
+So what are you doing?
+Do you have super glue with you?
+Do you have super glue with you?
+"It's getting worse each day. Look, I got shitted in."
+I don't...
+You right.
+We have 30 minutes. 29 minutes. Don't we get out at 8:30?
+Oh.
+"Yeah, but do you just do the length of the main method? Or do you do the length of the column?"
+This is what I did. I took the main array of the column... but my frayed end doesn't have a value. But it should have a value after you get all this...
+My brain's not working.
+"So would it be system out? Don't you have to do that in there, though? 'Cause you're going to have to store it."
+I'm done. Mm-hmm (affirmative).
+When? On the weekend? 
+"On the weekend? Okay. Well, they got inspected... oh."
+Yeah.
+They had to wash it.
+Yeah.
+And they have to wash their clothes and everything. They have to wash everything. That's crazy. And the other room... everybody's out of it.
+Yeah. You might as well just close the whole room down and burn it. So are they still in Holshouser or?
+It's a dorm?
+What is it? A dorm?
+Where is Maple? I've never heard of this Maple.
+Belk Gym?
+I need to check for my FAFSA. Do you think I can change...
+"From like, living off campus... you think I can still change that?"
+"I mean, everybody's telling me, ""Oh, off campus is way cheaper."""
+"I mean, do you live in the city of Charlotte?"
+"See, but I'm..."
+But those are apartments from Charlotte.
+Those apartments from the other side of University Boulevard? It's not Charlotte?
+That's true.
+So that's why everybody was trying to get those apartments?
+"Wait, from the left... are we still on University Boulevard?"
+Is it on the left side? Like you turn... the main entrance is as you turn left? Is it really new? It's on this side?
+Yeah.
+Yeah.
+It's like past Circle K?
+"Okay, I've seen those."
+"Oh, I remember what the Maple is. I think... I remember some guy from my high school... it was owned by Charlotte but they had a pool and everything and it was basically..."
+"Well, he ain't no athlete, but it was Charlotte-owned. He had a living room, a bed, a kitchen. Like, it was basically a house."
+On campus?
+I'm talking about on Charlotte.
+Of this building?
+Where that at?
+Of what?
+Oh.
+I thought you meant of this building.
+Is it like in there? Or is it sticking out from the...
+So like the one right in front...
+Okay. I need to check that out.
+"It's cheaper if you have more roommates, right?"
+"So like, would I... if I had an apartment for the school year, do I still keep it throughout the summer? "
+That's good.
+"But I mean... I feel like if I drop the lease, somebody else will come and take the room."
+Can that happen?
+"To like, stop that room for you for the next year..."
+"Yeah, but if you want to come into the exact room and somebody signed it before you, that's your fault. They can't do anything about it?"
+So you have to sign it for each year? And would it...
+That's true.
+Oh. Okay.
+"'Cause how much is our board? Like $14,000?"
+Board.
+Board.
+Yeah.
+I'm not getting any FAFSA money. I'm broke as shit.
+For this whole year?
+"You do FAFSA for one year, right? Or you do two semesters?"
+"I think what it came out to is $22,000."
+"$22,000.00 "
+"No. $14,000. $14,000 I think."
+So how do you get more money than me and I'm broke as fuck?
+"Yeah, but my mom's like, ""This is too much."" I was like, ""No, no, no, no."" Shit, I don't know how it works."
+I can bring my car.
+"But that makes sense now, to bring my car if I live off campus."
+But you're still on campus.
+"Oh, so you want to get here by car."
+You really want to get hit by a car.
+Okay.
+Does anybody know of a place that has glue?
+Glue.
+I mean glue.
+"No, I mean on campus. I'm too lazy to go off campus."
+Are you sure they have it?
+"And expensive, too. "
+Like their shot glasses are $7.
+I'm just saying.
+"Are you done, Davis?"
+"No, I'm not like you."
+"Goodbye, recording."
+47
+Print it. Why do you always have a [crosstalk 00:00:42] of class projects?
+Why you always got packaged class project?
+[crosstalk 00:00:57] you.
+You don't know how to organize it?
+"No, I was confused of whether or not you were just supposed to put in five four-loop statements. We only-"
+"Or, it's just [crosstalk 00:01:21]."
+It just runs five times.
+Print it. Print it.
+"I'm not sure if got to use a ""for"" statement, though."
+It says comeout.out. Fuck.
+What are you doing another one for?
+"No, you just need one."
+"Yeah, because you already save all of it in that one variable."
+What'd I say? What'd I say?
+[crosstalk 00:03:42] myself. I'm creating sound effect. Yes.
+Do eight.
+Yeah.
+Do five. Do four.
+"Well, it says ""out of bounds""."
+"Wait, is it line nine? Is it line nine that's the problem?"
+Can't you ... It doesn't say-
+"See, I don't understand ... You do the random number, and she initialized it as num, right?"
+Is zero to nine.
+What'd you do?
+"Less than five, right?"
+"That's what you did, right?"
+"Sometimes, it runs. Then, sometimes-"
+Yeah.
+No fucking clue.
+[crosstalk 00:07:30]. I'ma ask her.
+What is yours printing? 
+[crosstalk 00:08:44] world creator? What? 
+Why does yours do that?
+That don't mean nothing.
+Keep printing the [crosstalk 00:09:15].
+"Maybe, it's the random numbers, because it says zero to nine. I'm doing it zero to nine. What?"
+See? You've got to know your number.
+"You can do the next part, because I don't know. We're basically doing the same thing, except we're starting with nine, and then we're going to do five. Then, we're going to do an ""if"" statement. We gon do this. We get this. We gon get out of here early. Let's do this."
+The wild statement? Is that what you talking about?
+You're not retarded.
+"Listen. If you were retarded, you'd be one of those people that don't show up to Maddie's calculus class."
+Excuse me.
+"Wait, wait. Does the user have to do anything? Oh, press enter."
+"I don't understand. You got the ones, the if's."
+"Wait, where's everybody?"
+Just the class.
+Are you going to come next?
+Are you going to come for the next classes? Is this your last class?
+"I know. [crosstalk 00:14:15], are you tired?"
+"No, you didn't."
+"No, you didn't."
+What time did you go to sleep?
+How do you go to sleep at 6:30 and wake up at 6:50?
+PM.
+"Then, you went to class in the morning."
+When did you wake up?
+Exactly. Have you ever worked in your life?
+Have you worked?
+What was your hours?
+Was it in the day time? Was the sun out?
+"Then, what time did you sleep?"
+"Oh my fucking God, no. If I was working, I had to go sleep around 10, 9."
+What is that? Are you cheating?
+"See, I don't understand how to do that wild statement, if we have to do one."
+I just want to see ...
+I'm actually stuck.
+"I did everything on the board, but I don't understand this game functions."
+Huh?
+No.
+No. I can't major in computer science and minor in secondary education. That is too much. What?
+Yeah.
+"Yeah. Then, I'll minor in English."
+"It'll be easier to be an English teacher. Or, [crosstalk 00:19:52] teacher-"
+"Money. What I look like to you, poor?"
+What are you doing?
+That's what I'm saying [crosstalk 00:20:10]. Do you know somebody rich?
+"Do you know somebody rich, Davis?"
+Everybody taking it. Everybody already on the [crosstalk 00:20:29].
+[crosstalk 00:20:34].
+"What, here?"
+I can be the side man.
+What does that have to do with anything?
+"Yes, they are. Especially in Hong Kong. In Thailand-"
+Yeah. 
+"Yeah, I'm pretty sure they are."
+"Oh, yeah. You told me about it. I think you told me about this."
+[crosstalk 00:21:38].
+Were you traumatized?
+"No, he [crosstalk 00:21:45]. Raise your hand, Davis. I'm tired of asking questions."
+"I just hate it when I go back, if you ever go, and be like, ""Are you still want to be a pharmacist?"""
+"That's what I was saying, because I didn't know what I wanted to be. I thought-"
+There's too much schooling to get ... I don't-
+"No, I heard it was actually two years."
+"Well, compared to schooling, no they don't."
+I'm pretty sure it was two years.
+"If none of that works out, I can always be like ..."
+What's it called?
+I know. The people on the airplane?
+Yes.
+She was going to join the mile high club.
+A full-fledged pharmacist?
+"Like, Dr. [inaudible 00:23:28] pharmacist. See, no, that's too ..."
+"Okay, [crosstalk 00:23:47]."
+No. That's the name I gave you.
+"What, do you don't believe me?"
+What is that?
+That's too much. Especially since I went to a bad high school.
+Yeah.
+"Yes, the best around [crosstalk 00:24:21], but it's still-"
+"He's [crosstalk 00:24:28] our chances of getting extra credit, that's what."
+You're going to get a C. You're going to get a A.
+Yeah. I'm struggling.
+No. Bum bum bum ...
+"No, and this school is stupid."
+They make you do presentations for no reason.
+I don't know what the fuck that is.
+No.
+"A [inaudible 00:25:27]? No. Biology is supposed to be reading the textbook, taking notes, and making sure you prepare for the test. That's all it is, memorization."
+"Not a presentation, not group work."
+I was just saying that because I didn't know what I wanted to be.
+What are you gon be?
+"You gon be what, a math major? Mathematician?"
+"No, she wouldn't get-"
+She gon be culture shocked.
+What [crosstalk 00:26:28] high school?
+Where'd you go?
+Lake Norman?
+"Like, the country?"
+"Like, Taylorsville country?"
+No.
+It's country.
+"See, but we don't-"
+"Yeah, but we don't give a shit about Morrisville, or Huntersville."
+"It's really country, right?"
+It's city.
+It's a town.
+"You tell me y'all got Smoothie King, a Chick-fil-A, McDonald's, Burger King, Subway, Jersey Mike's."
+"No, to be in a city."
+Relentless.
+"No, I don't think so."
+Google ...
+"I'm pretty sure he's look it up, if he knew how to."
+[crosstalk 00:28:04].
+Who is that?
+"See, but if I see this friend, I'm going to be like, ""What you relentless about?"" "
+"Still, if you go and get a tattoo, you gon have to explain why."
+"Yeah. Like, ""Why you got a eye?"""
+"Why [crosstalk 00:29:01] did it that way? He should've done it this way. He should've done it, like, right here."
+"That's what I'm saying, he should've done it, like, right here, or like this. Is he White?"
+Looks like an I.
+"Oh, my God. Do you want to me to do it? Put your [crosstalk 00:29:42]."
+"Yeah, but I don't understand how the key works. I don't understand interkey. You know what I mean? It just says ""please enter"", like press enter. You know what I'm saying?"
+"Like, I don't understand why it doesn't keep running until you win. Why does it stop when it says you didn't win, even though obviously, it doesn't line up?"
+Did I just hear what I heard? Did I hear what I just heard?
+"In the middle of the night, or just now?"
+What happened? Tell me. Tell me.
+"Joking, yeah."
+What? What the hell's going on in [Holhauser 00:31:34]? Have you noticed that people are still spitting on the fucking elevator.
+They have some nasty-ass motherfuckers in Holhauser.
+"I noticed the flood. It was, like-"
+When?
+"Was it ... Did we had a fire drill? Or, was it just outside?"
+No.
+Retarded. Retarded.
+"Is this a big guy? Or, is this ..."
+"Like, can he hold his liquor?"
+"Still, why people in Holhauser trifling?"
+I'm surprised he didn't get ...
+"Well, it depends. If they call campus police saying ..."
+If you're drunk in any level.
+I wonder how much that ticket was. $500? $600?
+So fucking ... I need to see this person. 
+Who was this person?
+"Wait, you got in trouble?"
+What ...
+Who came in?
+"Oh, you were in Hunt. I thought you were in Holhauser."
+"Yeah, I know, but you got in trouble in Holhauser? Or, you got in trouble at Hunt?"
+Why you open the door? I wasn't paying attention.
+That's extra.
+This was in geo?
+What you answered?
+That's so [crosstalk 00:37:02].
+"If you get in trouble again, they give you a ticket."
+Which is ...
+On who?
+Blame it on who?
+Is he 21?
+Inspection.
+Did you have that college experience?
+"Why don't you go back to high school, the high school experience?"
+"Oh, so you were about that life in high school?"
+"No, in high school."
+Yeah. You judged them [crosstalk 00:38:44].
+"Yeah, you judged them. "
+You want a hat?
+Was it over the years? I can't see. Yours don't run?
+"It's zero to four, not zero to five."
+What's this big deal about Tiger Woods?
+Won what?
+Of what?
+"What, you've been paying-"
+The only golf tournament that-
+It's a big deal because he won?
+Oh.
+What?
+Injuries? How do you get a injury in golf?
+Golf seems easy. Let me play.
+"We did all that, but what's confusing me-"

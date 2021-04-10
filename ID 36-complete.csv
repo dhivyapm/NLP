@@ -1,0 +1,913 @@
+"When you finish today, call me over, and I will [crosstalk 00:00:32] for you."
+This is ... How's it looking?
+Oh-
+15
+"Aw, dude. I hate flow charts. I find them to be ridiculous."
+You said who?
+Michael?
+"No, not me. I'm sorry."
+"Sorry. Oh, okay."
+What's up?
+"Well, yeah, because we're doing square, rectangle, triangle, yeah. That makes a lot of sense."
+[crosstalk 00:02:37] misspell the first word.
+Rec.
+Might be a little rough.
+"In this activity, you will write a program that will prompt a user to enter ... Look, they spelled ""enter"" wrong, to enter. That's rough."
+"Should we prompt them a list? Oh, no, nevermind."
+"Most likely, and its dimensions."
+The program will calculate the area of the shape. Should we ask them two different questions?
+Click that one.
+"Yes, that's a great help."
+It adds this [crosstalk 00:03:56].
+Just automatically?
+I figured that out a while ago. [inaudible 00:04:05].
+"All right, I'm saving it as a string. Is that correct?"
+"Save it as a string, right?"
+Char?
+Area.
+[crosstalk 00:05:02].
+"Oh, [crosstalk 00:05:20]. [inaudible 00:05:23]."
+"Is ""c"" capital in char?"
+"[crosstalk 00:06:04] was the input dot ... Oh, put an h."
+I'm sorry. Can I look at that real quick?
+"Oh, dot ... [crosstalk 00:06:53]."
+"Where does it ... Oh, dot, sorry. I'm so rusty with this one."
+"I need to practice that. [crosstalk 00:07:05]. Then, the second question, what are the dimensions?"
+Yes.
+"Thank you, thank you."
+"[crosstalk 00:07:31] flow chart, write four methods."
+There's so much ways.
+"We can do this program without a method, I just realized that, but we have to use a method, obviously, in this [crosstalk 00:08:10]."
+Public.
+[inaudible 00:08:19].
+are you using a double or a single?
+"A square, it would be ..."
+"Public static, and it'd be void. It wouldn't be ..."
+[crosstalk 00:08:54].
+"It'd be a void one, because we're returning the variable inside the [crosstalk 00:09:00]."
+It'd be a void?
+"Wait, did you declare square somewhere up there?"
+"I spelled public wrong, that's why."
+I kinda feel bad for a person that's going to have to listen through all this. It's a lot of listening.
+You have to initialize the scanner?
+Hang on.
+Trust me. You know more of what's going on than I do.
+"Yeah, if the-"
+"Wait, when does the method come in? I'm still confused about that part."
+"I have another question, I'm sorry. After you're done, let me just ask it."
+"[crosstalk 00:13:23] false. Here, [crosstalk 00:13:57]. Here, you have ""if"" [crosstalk 00:14:10]. You're just utilizing this [crosstalk 00:14:12] down here, and [crosstalk 00:14:12]."
+I'm just worrying about-
+Have you got the square part?
+Can you-
+I'm still getting an error at the public static part.
+Where would it go? I'm sorry.
+"Would the ""if"" statement be in the public static name?"
+method.
+It's not like running a.
+Happy with what?
+"Oh, I saw that. That's really cool. I'm proud."
+Moving up.
+There's also different settings you can change it.
+"All right, I think I have it, but it's still picking up an error somewhere."
+"This is what I have it as. I have shape r system of ""what are the dimensions"" [inaudible 00:20:24]. I'm using the same variables as I used here, because you can re-declare ..."
+Yes.
+"What is the ... That's what it was. Then, it goes int with equals input dot next int."
+"Aww, dang it. Now, I messed up the code."
+Okay.
+"Wait, wait, give me a second. Let me just fix something, and then ..."
+"Did you do it like ... Yes, perfect. What did you say about re-declare area in each one? Wait, that means just delete this one right here?"
+"Yeah, initialize."
+"You're going to have it as a double, yeah."
+[crosstalk 00:22:43] public static.
+"It's height times base, divided by two?"
+I was just thinking out loud about the area of a triangle. Don't judge.
+Are you on the circle one now?
+You finished triangle?
+What is the ... I knew that.
+"Okay, base."
+"[inaudible 00:24:34]. We're making the area double this time, right?"
+Area's going to be double?
+"okay, I have another question."
+"Actually, wait. No, nevermind. I think I just answered it. That means, in the public static, instead of saying ant, I have to declare as a public static double?"
+Do you want to test it out together?
+What?
+"See, like that?"
+"Yeah, okay. Well, that's not going to be that hard to change it. That means the input has to be double. Fuck."
+I'm doing [crosstalk 00:28:52].
+"Everything now is a double, except square. There it is. All right, whenever you want to test run, we can try."
+Ready?
+You want to test run it?
+You're doing c. What's your radius?
+78.5.
+Let's try a rectangle.
+Rectangle.
+"[crosstalk 00:29:46] to or, just in case."
+5 times 4. 20?
+"What'd you want to use, 4?"
+"16, okay."
+"Wait, I thought we did triangle."
+Copy and paste. That helps.
+"I'm going to start on the second one real quick. Hey, I have a question, Nick."
+Do they actually want us to make a flow chart?
+"You did, or you didn't?"
+"I'm going to talk to Sarah and ask her, because I really don't want to do a flow chart. It sucks."
+"I hate flow charts. I have to write a game for my C++ class. We're making a Simon Says game, and it's going to be over 500 lines of code."
+It's a actual game [crosstalk 00:31:00].
+"Yes, but the flow chart that we have to write is going to suck."
+Write four methods [crosstalk 00:31:12]. I'm going to ...
+"I'm just adding comments right now on mine, just in case."
+"Hey, Nick?"
+"Do you know if we can write it all on one code, or just ..."
+Mm-hmm.
+"Okay. So it's all the way in the back. Wait, when is this thing-"
+"Okay. Wait, when is this thing due? Just to double check about it. Whoa! It's due in 10 minutes. "
+"I clicked on the wrong document. So now I'm going to have to ... It's number 15, right?"
+"I think so, yeah. So it turns out that there is a ... For our C-Plus plus class, they're going to give us a compiler that we're going to use."
+I think we're using Linux or something.
+Oh. Okay.
+"Can you resend that email because when you sent it, I think Gmail was down and it didn't let me receive or send emails out."
+Almost done. It's due in 10 minutes. Let me just finish it real quick. Okay.
+Are you just going to ask them to enter a number?
+Why can't we just make an 'if' statement? That would be so much easier. 
+Oh wait. Okay. Enter. I think we'll do input [inaudible 00:35:58] to the next.
+"Ooh, I've gotta make it a double. Does it make it a double?"
+"So how would I know if it's negative? I mean, if it's a ..."
+Mm-hmm.
+"Oh! I know what I can do. Okay. So. Public ... [inaudible 00:37:14]. Hint. Oh Nick, can I borrow you for a second 'cause it's due in 10 minutes?"
+"I just have a quick question. Okay, so I'm doing the part two for seeing if it's even or odd. This is so far what I got, system out, enter and integer. That number. Input next. And then this is my class right here. Or this is the public scan."
+Okay. One second.
+"Even what I've done, is I just returned the integer modular two, and then do an if/and, or if statement of [crosstalk 00:38:05] zero one."
+"Okay. So you did if ... So, it'll be if what? "
+Where would the if statement go?
+"Here, write your thing and I'll see it real quick. Equal to [inaudible 00:38:36] of now. "
+[crosstalk 00:39:13]. Oh it's ...
+The number equals one?
+And if it's one it's odd?
+Okay great. [crosstalk 00:40:44]. Did you run it and check it?
+"Okay. Let me run mine real quick first. Four. C, five. No seven. Seven is not great. Seven assignment. [crosstalk 00:41:29]. Okay."
+I'm starting to like it.
+You helped me understand it better. Thank you so much by the way.
+So what do we ... Okay. And then submit. I need to talk to Sarah about this.
+No.
+Oh right now?
+Oh I didn't check. I'm sorry.
+"But yeah, that day the email wasn't working. I couldn't send anything. What's your name?"
+Oh yeah.
+Not yet. This is the first time I got this email from you.
+The other-
+These are just the sub-score?
+Okay.
+I'm gonna start this.
+Start [Sumner 00:43:07]. Thank you so much by the way. Awesome. I have a question. A quick question. So I just submitted the assignment but I didn't submit the flow chart. Do I have to take the picture of a flow chart and submit it?
+We don't have to do a flow chart right?
+We don't or we do?
+Fuck.
+I think so.
+Oh fuck. I should've asked Sarah.
+Yeah. It sucks ass. Excuse me for my language. [crosstalk 00:44:07]. Oh dang. I have to go swimming. Oh.
+Hmm?
+The submission page. I'm sorry.
+Okay. Modules.
+Where is it?
+Okay. Wait. Can you change the due date?
+It's due in like two minutes.
+Okay. Thanks.
+I have no ... [crosstalk 00:45:12]. Whenever he comes back.
+Yeah.
+Tomorrow's probably why I'm gonna go swimming.
+I'm excited.
+Hey. I'm still in class. [crosstalk 00:45:31]. Yeah it's ... I just finished the code. I'm about to get out right now. Yeah. I have to go back to get my stuff. Okay. Bye.
+Okay.
+Hmm?
+Oh yeah. Ask Sarah [crosstalk 00:45:57]. What is an interesting ... [crosstalk 00:46:03].
+Wait what? How is your feeling toward your team?
+Positive. I completely 
+Willing to change my behavior. Completely forgot about that. Let's get that back up. Submit. Done. 
+"Willing to listen and had selective attention. Wanting to participate and had [inaudible 00:46:25] and willing to involve, organize. I checked all these. Hopefully that's not bad."
+Excuse me. Sorry.
+Oh I did that too. I didn't realize it.
+Oh. Oh sorry.
+"Dang. Writing a flow chart for a method. I feel that's just gonna suck. Hey, does the book talk about writing flow charts for method?"
+"Writing flow charts for method. Like, is it different?"
+No.
+Okay. Two things. Is the change date gonna be ... Is this gonna be changed?
+Okay. Awesome. And can we get un-miked?
+Thank you.
+Sure.
+"The flow chart, the two mega flow chart for a method, is it ..."
+36
+Oh I have a quick question. Is Sarah not coming today?
+Okay. I have something to turn in to her.
+"It's that, what is it called? It's the shape things that I was supposed to-"
+Yeah that.
+"I mean, I submitted it online. I just want to-"
+Okay. You dropped something.
+Zero.
+Yeah.
+Oh my gosh. Sorry microphone. It's all good.
+That's ...
+The linked.
+Well ...
+"She explained it I think. And according to what I read on, what's this thing called? Stack over flow. So like she said, you do it on four and set it equal to the sentence link for it be a max. And just keep going, add by one until you've passed the sentence, the link. All right?"
+"Now, she said you can do an if statement or a switch. I did a switch. So A, E, I, O, U and any of those are met, you add one to the vowel. The vowel is set at zero. And if there's an I you'll add one and keep going until we reach the sentence link and that's when it stops. Until I reaches that sentence link. But I'm getting an error right here so it's still something. I don't know why."
+Hmm? Oh no. No the I tells you what ... Let me see. Wow. Okay.
+Yeah.
+Okay.
+"Oh. Okay. All right, one second."
+I can't even find pole everywhere. Methods with the same. Open pole everywhere. Open pole everywhere. Come on. Come on. Come on. Come on. Come on. Come on. On the plus side it's one of the shorter questions.
+Ooh. Dang. Okay. We can ...
+"I know. I switched. I wrote S-I-R-N and then I was like oh snap. I know, as long as ... Okay."
+Damn.
+What has happened in this grid? Counter ...
+I think it's four or five.
+Yeah I did that too. I think it's four. So that would be a four ...
+Index. Let's see what happens if I run it.
+Index.
+Four.
+What?
+Oh the c-
+The K.
+Oh [crosstalk 01:03:59].
+You're printing out the K and the K is only initialed in the four statement. You're supposed to print out the count not the K.
+Fuck.
+The resistance is pain.
+That was a trick question.
+No.
+Me too. [crosstalk 01:05:21].
+Shit man.
+Oh no. I said shit 'cause I don't know which one it is.
+"I would have a guess but it's a guess. If ... Hey, Nick. What did you put by any chance?"
+Which one did you put? [crosstalk 01:05:53]. I guess so. [crosstalk 01:06:01]. Why is …
+I guess so. Why is it not working? Wow.
+I think I figured it out.
+"So you were right. It wouldn't be link, it'd be character at that. That's what it would be."
+"Hey, how many vowels do you see in here? I'm sorry for interrupting."
+How many vowels do you see here?
+So it's A and what else?
+"Oh, thank you."
+"I was looking at it, I was saying words wrong."
+Okay.
+I got zero.
+Tell me how it goes.
+"Okay. She wants it all to be in method, right?"
+Yeah.
+Yeah.
+Okay. I think [crosstalk 01:11:11].
+Number equals number.
+I'm a little stuck.
+"I got it to work, right? But not in the method."
+"Yeah, so this is my method right here."
+"How would I call it back again, here?"
+Okay. I did that. The vowels are right here. Is that what you're talking about?
+The vowel?
+"So I would do ent, count, equals zero."
+Oh. Thank you.
+I got it now.
+"Okay, let's see... v, cat. Course."
+"V, cat. Okay."
+The string has...
+Okay. I'm just writing the pseudocode right now.
+Wow! My pseudocode.
+Huh? Wow. Okay. You can now use split method. I was just reading about split method.
+It has been a hell of a day.
+"Well, there goes one!"
+Substrings? What do you mean?
+"Okay, I think I know what you're talking about."
+Ow.
+"Yeah, I'm having a back problem right now. It hurts."
+Yeah.
+Can I see how your flowchart looks?
+"Okay. Yeah, could you send that to me? Thank you so much."
+Good question.
+"No, probably not. No. I was wrong."
+How did you do number two? I'm sorry.
+Yeah.
+Mm-hmm (affirmative).
+Yeah.
+What would my method return back? A string?
+"Yeah, it's a nested loop, so I do four, this, i, equals..."
+I don't think I'm gonna know how to do the substrings.
+"I'm not sure if I'm gonna be able to do substrings. I've never tried it, I don't think so."
+Could do cloak on that.
+"Ask him can we do substrings, then."
+"That seems much easier, but how would we put it in a method?"
+"Oh! So I read this in C++. You can do two returns. There is a way that it returns its code twice if you do it in a loop. No, I'm not sure, but I read it somewhere."
+"If we can do the split way, whatever way you were just talking about, I think I can figure that part out. Can I take a picture of that?"
+"Oh, not that, the substring."
+Yes. Thanks.
+That's not good.
+There goes 100 dollars. I have a ques-... never mind. Perfect.
+"It said you can't use a split, but..."
+Okay. We can't use a substring?
+"Okay, then I think I missed the loop of before."
+Okay.
+That still raises the question of how I return two different things.
+What does this thing do?
+"Okay, couple minutes. Oh, it would equal split... equal to..."
+Everything I'm seeing says use a substring.
+"Okay. I've got something, but I'm not sure if it's right."
+How's it looking?
+"So far, all I have is the two four loops and then that's it."
+I think the easiest way to make two... maybe two methods.
+Call them both [inaudible 01:34:08].
+In one method?
+Says in a method of substrings. Yeah.
+Oh. So you do public static void?
+I have a question.
+"I was wondering, is there a chance you can change the due date for 11:59 instead of 8:15 if that'd be possible?"
+Yes.
+"Yeah, the due time."
+"To 11:59, to today midnight, just a couple more hours."
+Okay. Thank you so much.
+"Okay, can you walk me through what you just did?"
+Mm-hmm (affirmative).
+"Sorry, could you start from the top, cause, so you did public static void?"
+"Split, okay. String, okay. And after that, what would you do?"
+Length equals...
+Okay.
+And then string second?
+Okay.
+"Okay, split, and then..."
+"So, then, first is equal to first index."
+"Oh, sorry. First is equal to..."
+First is equal to first dot...
+Plus.
+"Sentence, sent one. Sent one dot chart at. And then index at index, or I. "
+And then you close that four loop?
+Okay.
+So then A would equal split?
+"Oh, okay. Since I already declared it?"
+Less than length. Okay. Second? Critical second.
+Nope nope. Okay.
+What's the [inaudible 01:40:28]. System out print line.
+What about this part right here?
+Is there nothing in the main?
+Okay.
+First ... Sorry for keeping you by the way.
+Okay.
+Sent.
+"Yeah. It equals to split, and then-"
+"Oh, this is so confusing. I need to use better variables."
+Yeah. The cat. That's two into the string. No. Two. Hell. Oh.
+Let me show you.
+Yeah. Okay. That is that. 
+Now time to do the ... What's this shit's called?
+Flow chart.
+"Okay. Cool. I finally got it finished. I'm just gonna submit it ... Yeah, I'm just gonna submit the flowchart. Yeah. My teammate helped me so much."
+Okay.
+"Alright. Oh, Nick sent me his flow chart. Would you like to look at it? Because I'm about to head out right now. I'll finish it later."
+"Okay. Yeah, I'll probably do the flow chart when I get home, because I have swimming in 10 minutes, and I've gotta get to my dorm and get my swimming suit on. Swimming suit."
+Swimming gear.
+Fuck. I forgot something.
+Exit form.
+Thank you so much again for all your help.
+"You're coming on Thursday, right?"
+"Oh. Well good luck, and have fun."
+You finished the flow chart already?
+Yeah.
+36
+"If you want, you can change array A dot length, just to put size."
+"Yeah, because like ... Oh, not less than or equal to, just less than size."
+Less than or equal to size. Yes. I'm so sorry.
+Link. That one's safer.
+Okay.
+"Because they're declaring the size, so that's what I did. Size. I just did size."
+"That's what I did right there, just put in size, and then define the max as right there. I mean, to fill it in."
+Yeah.
+"Don't forget ins. So parentheses ins. Because I forgot that, and I was like staring at it for a good minute."
+Careful.
+Calculate the average.
+"Let me see. No, you're right. You've got an open parentheses right here by the way. Put parenthesis at the beginning of math."
+"Parentheses, and then keep going, times nine, close parentheses."
+Nine.
+Because they would go use it from zero to nine.
+"Sorry, we all have those. She wants the average-"
+"I'm probably not gonna display the array. Oh yeah, we should definitely display the array. I'll do the display the array. I'm sorry."
+And then you do my-
+"Possibly, yeah."
+I think it'd probably be in the same one. Yeah.
+"Okay, yeah. This might be it. Output, 10."
+Yeah. And then I'll do int array equals my [inaudible 01:59:24]. Okay. Let's see. Next? [inaudible 01:59:51] array. Okay. All. Oh. Okay. Have you displayed it yet?
+Okay. I think I just figured it out.
+Mm-hmm (negative).
+"Here, if this one works then no. Wait. Let me just take this out. Okay. There it is. Wait, let me leave a space."
+Okay.
+And now it should be ... There's the array.
+"Yeah, in the same one where we did."
+"Yeah. No print line, just print."
+Alright. Send. [crosstalk 02:02:19] this is what I did.
+"I put that before the four loop, and I just did that."
+Okay.
+I pulled it up from my old code.
+"Also when we get into 2 dimensional arrays or multidimensional arrays, it's basically the same thing. You just add another four loop."
+So it's a calculate the average of all of the arrays.
+Are you good?
+"I believe so, yeah."
+Yep.
+Yes.
+"Mm-hmm (affirmative). From the max. It's basically the same thing as a max, except you're adding them."
+Yep.
+"No, you want it to be in the four loop. Or outside I think, it might work too. But I have mine inside the four loop. Actually no, you're right. No."
+"Yeah, you're right. Average stays out."
+Yeah.
+"Sorry, I forgot to output the max."
+10?
+"Yes, that is correct. Good eye."
+Okay.
+"Yeah, it's definitely an integer. I haven't done a double-"
+New array is [inaudible 02:11:05] beautiful.
+Which one are you on?
+I just finished that one if you need help on it.
+I just finished that one if you need help on it.
+But it should basically be the same thing as the other ones.
+They're all almost identical.
+Shuffle. Oh. That shuffle one might be a little rough.
+Array A.
+[crosstalk 02:12:14].
+What have You done? Okay. Let's see.
+Red light?
+Just [inaudible 02:13:15] before you put it back!
+Well at a stretch.
+It's all so self explanatory. [crosstalk 02:13:58].
+The high values?
+The high values.
+"It's greater than average. I'm sorry, could you ... 'Cause this is going to drive me crazy. Could you press sensor right there?"
+Right here.
+Between ... Yeah. Right there.
+"Okay Thank you. You just write system output, high average."
+"Also, that's not correct. So, you might want to do INT number, equals array I."
+Right.
+"That's a number, not an array right there, you're putting in an array?"
+"Let me see. I might have arrayed it wrong. Find the average, copy and tender array, okay, you are correct. I am wrong."
+"But the system output when you output it, you output it in the fore loop."
+So it can run.
+"And I need to do that too, 'cause I didn't realize that. [crosstalk 02:15:57]. Print."
+"Um, yeah. Also, I'm not sure about the size of it. 'Cause it wouldn't be the same length as the other one. "
+I apologize again.
+Let's see if it works.
+Okay. It does not work.
+The high value.
+Wait. I think I had it. Right. I'm going to try something. [crosstalk 02:18:07]. High value. High value equals-
+I believe it says we have to same them to a new array. 
+It's much easier to print them than to save to an array. Or something.
+Thank you.
+"That's what I have. Here, let me try it again. I value equals array. Like that?"
+Okay. [crosstalk 02:21:59]. Awesome. We're killing it!
+I guess.
+"I know how to shuffle like the first one, change the first one to become the last one. "
+Really?
+"We use the same numbers, just different order. I don't think we should run it in random."
+Random generates a random number.
+So we're going to generate another random number.
+Okay.
+What? No. Okay.
+Do we set it equal to the new one? Like do we make a new array or is it just the same array?
+But we shuffle the things? So. [crosstalk 02:24:00]. I think I got it. Okay. Okay. Awesome. Oh. Wrong. Awesome.
+Now the-
+"Mine is, ""My Array.""And this is probably going to be-"
+Yeah.
+Just create another array.
+Your array.
+"So like we can't name it, we have to name it Target."
+Okay.
+"Probably the first type of source, array the second half of the target array."
+Yeah. It's the multiples.
+I think I have an idea of it. I hope so.
+Isn't it size divided by two?
+Target. Okay. Probably the first half of the source into the second.
+"So, let's just cut the first half of the first array into the second half of the target array. Let it run. There it goes."
+"So, do I just generate the first half? Randomly?"
+How?
+"Okay. Target equals target, correct? Why did you do I plus halfway?"
+Oh. Okay.
+So then you write it I plus halfway?
+Okay. How do we show the-
+And then that equals array A.
+"Is that size, or should that be halfway?"
+Mm-hmm (affirmative).
+"What I'm actually wondering is, is it okay if it shows zero? I guess it is?"
+"So, new array INT target and you're right about size. Size divided by two? Four INT A equals zero, A is less than size divided by two, A plus plus-"
+No. No. No. No. Target is the same size.
+Yes.
+Target is size.
+Yeah.
+Yeah.
+Yes. I think the zero should be fine at the top of there?
+I have a cool question.
+With the target array?
+Have you checked the math by the way?
+"On like this. Never mind. I think the math is alright 'cause I can add up all my numbers and divide them, so I can see my math."
+Just based on math-
+I'm going to do this while we wait.
+Good work today.
+Let's go home.
+It's all done.
+Yeah.
+Arrays?
+"Like you said, I think we're definitely going to use them everyday, or mostly with everything."
+"Hiya, Sarah. Can we get a mike, I'm sorry."
+Right here?
+"Literally under the section title, 7.7."
+"Oh, when a method returns an array the reference."
+Okay.
+What question do I have an answer for? Oh.
+Okay. [inaudible 02:45:33]
+"Hey we got the question 2 right, that's awesome."
+I was worried about that one.
+That's-
+Not good. Okay.
+Page 258 in the book.
+When it tells you where the page is?
+Me too.
+I found it.
+So.
+The argument is a reference of a ...
+Can be [inaudible 02:46:39] Same as the method. Same?
+Same as a ray being past. Yep. That what [inaudible 02:46:58] Perfect. Okay. [inaudible 02:47:05] method follows the value of A.
+That's initialize that ten.
+And-
+[inaudible 02:47:20] and so the method of 1 is the [inaudible 02:47:23]
+Numbers one [crosstalk 02:47:36]
+And A would be ... there is no A.
+"Wait, let me look at it again. Yeah there is no A."
+Method then.
+Yeah. Okay. Back in the main method but after the [inaudible 02:48:02]
+Really?
+"Okay. So. Before the method is called, alright. A is placed in int num. Int and num equals 1. A is equal to 1."
+I think. So. Okay. B-O. I think it's equal to 2. But double check that BO is equal to 2-0.
+Okay.
+What?
+[inaudible 02:49:10] into the method. The values change in the method. That value will also be updated in the name. It's worded weird.
+What's up?
+What page are you looking at?
+Of a permanent method?
+Lets see.
+"[inaudible 02:49:42] passed to a method, all the value will also be backed up in the method. In the main. [inaudible 02:50:02]"
+A?
+"Wait, what's A?"
+What question are you on? I'm sorry.
+Okay.
+Really?
+Back in the main after-
+Okay. That sounds correct. From what I heard I think. I have no idea.
+Okay so that's false?
+"Alright, so 5 is false and 6 is true?"
+Passed by the reference.
+Write the output for the [inaudible 02:51:22] pay attention to the spacing as well.
+Oh. Okay.
+[inaudible 02:52:08] carry the 2. Okay.
+The method does nothing.
+"[02:52:20]That's what I'm confused about, the one that says increase mine, it does nothing."
+Wait.
+I know it increased mine though something.
+What about theirs?
+I have an idea.
+Lets see.
+Okay. I got it but I don't know how I got it. I mean I ran it but I don't understand.
+11 and 5.
+But I'm not sure how?
+"Oh. So with mine it only adds 1, making 10 to 11. And with theirs it does nothing like you said, making 5 with 5."
+Wow.
+Yeah.
+[inaudible 02:54:40] by takes an array [inaudible 02:54:48] I think I know ... actually nevermind.
+That's the one I'm thinking about. Cause ... okay.
+This one doesn't make sense at all.
+"Yeah. Increased data doesn't return a value. That's not true. Cause they both return a value. Increased there doesn't implement a value, [inaudible 02:55:25] the array. I don't think that ones true. I think the only one that makes logical sense is."
+Okay.
+What's the difference between these 2 programs? You may refer to 7.5 copying the arrays in the next question. 7.5.
+Okay. So program and the value of list 2 are copied into list 1.
+Yeah. Let me just look at 7.5.
+Yeah. Its easy to get these ones switched up actually. Let me see the choices. Copies the reference of list 2 to list 1 there for if anything changes in list 1 or list 2 both. This will update to be the same. Yes.
+Okay. Wait.
+That's what I put for program one. The values of list 1 are copied into list 1. The values of list 2 are copies into list 1.
+But. Damn. That's hard. Okay can you explain your logic behind that one so I can understand it a little?
+Okay.
+Copies the reference-
+Okay.
+"Awesome. Alright now, lets see. The method that you use to [inaudible 02:58:02] the values of the [inaudible 02:58:11] presuming the values of the array [inaudible 02:58:11]."
+"Yeah, I'm reading the second choice. You have first one is make a copy of the past array?"
+Yep.
+Beautiful.
+Alright one more.
+That's not fun.
+[02:59:11] Yeah me too. I think mine might've interfere a little.
+"Okay, activity 2."
+[inaudible 02:59:34]
+Working in an array is ... define the array [inaudible 03:00:32] okay.
+"Yeah, no I wrote this code before actually."
+Well. String. Activity 18. [inaudible 03:01:17] string name.
+How many names?
+"No. Okay? Write a search method, right?"
+Put null.
+Enter the nums.
+One plus two. [crosstalk 03:02:38]
+String? And ... equals the output line. Actually no.
+Equals ...
+Input ...
+Next line ...
+Yes.
+You are very correct.
+"Yeah, I'm having trouble with my 4 loop. I dunno why."
+Oh. Nope.
+I'm having trouble with a 4 loop.
+Mm-hmm (affirmative) I'm not sure why though. Enter-
+Hey. Name A. Input dot. The name A. Input dot next [inaudible 03:04:50]
+Oh. No.
+Hey could you look at this? Cause I can't figure out what's wrong with it.
+Okay. So my string's named A. I mean the string is named. Name A equals new dot next line?
+Scan?
+"Oh, sorry."
+"Oh thank you, fixed it."
+Okay.
+"Uh-huh (affirmative) alright, now that's filled out."
+I hate searching for strings.
+I hate searching for strings.
+Sort it?
+I think I'm gonna use the other one.
+I think I'm gonna use the other string. I mean that search method. So there's 2?
+One where it has to be sorted and the other one where its not?
+That's-
+The one I'm gonna use-
+Linear one. Linear yeah.
+"Okay, so. Its gonna be a public ..."
+Where we returning an integer right?
+Int. Name. Search. Name.
+"Oh, see ya."
+What is?
+It's ... yeah. That's what I'm doing.
+If ...
+Names. Yous aid if name equals what?
+"Yeah. I just forgot how to write the equals part. Sorry, if your first ... if your ..."
+So a is the name-
+Of I equals-
+How do you write that? Names dot equals this?
+Return I?
+"Wait, what's going on?"
+I'm getting an error. Right here. It says the method must return a result.
+Yes. No it's inside the 4 loop.
+"That wouldn't make a difference. Oh it did, okay."
+If K is greater than -1? [inaudible 03:13:55]
+Search plus the index plus K.
+"Q, W, E, R, T, Y, U, I. Q. Other thing? Q."
+Awesome. Alright it works.
+Did you actually-
+-put 10 names?
+I just put QWERTYI.
+I just did Q. Enter W. Enter P. Enter. I don't think I can think of 10 names.
+I don't even think I can-
+[inaudible 03:16:23]
+Okay. Oh wow it's almost class.
+"Sarah, whenever you're ready, we're ready."
+Yep.
+
+36
+They had it... you got to search for it by the way. You have to go here and search for it. It's page 800 and something. 
+"800... give me a second, let me find it. Yeah. 887. Bubble sword. It has all the sword stairs. "
+You found it?
+"You're on number 15, right? "
+Okay. That one's a little something. 
+"All right, so."
+"Oh, okay. "
+Okay. So here. Pull up the graph real quick.
+Go to number 15. 
+"So, the first one should be five, three, two, eight, and then the second one is three, five, two, eight. Right? And then to get the third one, you switch..."
+The five and the two. All right. Five.
+"Then the next one will be the... hold up. Put the eight. Yeah, that's weird."
+Just leave it for now and then we can sort it out. There we go. Just tab into it.
+"Yeah. Okay. And then the second one you'd switch two, and then three and then five. No, no, not the two and the three. I'm sorry, yeah. Two. That's two. Yeah, I'm an idiot."
+"That's still three. So that's three. Tab. Those two, the other one's eight."
+And then five. And then give me a second.
+"So if you just switch. Oh, no."
+"Yeah, I'm gonna pull it up."
+Yes.
+My video's not working. Okay.
+"Let me watch that. Could you go back... oh, nevermind."
+"Okay, so then this one will be two, three, five, eight. And then two, three, five, eight."
+Wait.
+"No, I think you have that one wrong."
+"Wait, no. Oh, damn this is so confusing."
+"We get three tries, by the way."
+Yeah. So this is what I proposed. This is my proposal.
+"Three, two, five, eight. Three, two, five, eight. Two, three, five, eight. Two, three, five, eight."
+"That's most likely not correct, but... you should try something similar but different. And then we'll see which one is correct."
+"Oh, man."
+"Well, if you're wrong, then I'm wrong."
+"You need a space by them. Separate using a space only, so it doesn't come out as wrong."
+"So wait, it doesn't change anything?"
+Okay.
+Okay.
+Check that.
+Six.
+Eight. Okay. So then...
+Oh.
+"Okay. I gotcha. So it would be two, three, five, six, seven, nine, eight."
+"Three, five, six, seven, eight, nine."
+That's it?
+"Come on, please on my first try."
+27 out of 29.
+I have no idea. Are you serious?
+What did you get for number nine and eight?
+Okay. Could you keep that up?
+"I mean, I got everything right."
+"I mean, I have them right here."
+Because you are allowed to look back at your old answers. The text editor lets you do that.
+"You don't have to keep it up no more. Actually, no. No, nevermind. I'm good for now."
+Okay.
+"Negative one. Zero wasn't sorted. Just checking... has returned. Yup. I got eight and nine. Those were my first choices but then I changed it. Because the answer before, I put that it was a binary, so now I was like, okay, it's binary, so it's not in order."
+"Man, I wish they would keep my right answers so I don't have to go through all this."
+The e-text?
+What do you mean?
+Wouldn't the book be considered e-text?
+Nope.
+"Bubble. Three. Okay. Two. Five. Eight. Three, two, five, eight. Two, three, five, eight. Two, three, five, eight. Did you look at this? See this group?"
+I really don't want to do this again.
+"Selective sort. Aw, I can't copy it. I have to do these. Five, eight, seven, nine, six. Five, two, three, five, six, seven, nine, eight. Two, three, five, six, seven, nine, eight. One, two, three, five, six, seven, eight, nine. Six, eight, eight, nine, eight, nine, nine, nine."
+"So that's it, I think."
+Beautiful.
+Yeah.
+36
+You know at some point in my life I thought 36 was three plus six.
+"Update, 36 is not three plus six."
+I feel like one day I'm gonna attach it to my necklace. This thing should look good.
+I think it'd leave a mark cause gold is soft.
+"That's why back then people used to bite gold and if it left a tooth mark, then it's real."
+Banana. Banana. Banana. 
+"Every couple of minutes, I'm going to say it. "
+Banana.
+Hm? 
+Banana. Banana. 
+Man the person that's going to listen to this isn't going to hear banana several times. They're not going to want to listen to 36 anymore. 
+Are you serious?
+"No I haven't looked at it yet. Ah, it doesn't look easy, it looks pretty... it's not too bad I don't know, let me look at it, define a two dimensional array in data and name it main array. "
+"What? Oh yeah, I don't like it. Damn, everyone says it's easy but I don't know what part of it are you all saying that's easy. It's not hard but it's not easy. "
+"Yeah so, prior peeling it."
+I just call it by activity 20. 
+Deploying Moo.
+"No no, numbers don't have to be first. What did you call it and I'll tell you."
+Did you leave the space between 2D and array?
+"Ah, no problem."
+Wait what?
+"I guess so. So, for the 4 loop you want us to use Array.link instead of-? Okay."
+"I get that. Okay. Define a 2 dimensional array, that data type, name it main array. Main array."
+"First, okay. Second- "
+I don't think so.
+"Times 9 plus 1. I need to remember that one, math not random. Okay. Times 9 plus 1. Okay, and there goes my array being filled. "
+"Wait, what? How do we declare the size of the array, who declares it?"
+"No no no, who declares it? How do we decide what size it is? Is it randomly generated?"
+"Two random gen arrays between 2 and 8 to define the dimensions, oh between 2 and 9. "
+"2, okay and now I'm supposed to fill the array, I've got it now. "
+Dang there was something here that I read about a random generating .
+What?
+Yes.
+So it's times 8 plus 2?
+Cool beans. 
+"Actually no, it goes row-"
+"Mm-hmm (affirmative), I'm just right now storing the random values in the ready twist."
+Did you say-?
+"Mm-mm (Negative), I think it's in int."
+"It says from what to what, because I don't have it pulled up right now. "
+It's from 1 to 9?
+"Because the highest they'll go is 8, and then plus one is, okay. I got it. Oh yeah yeah you're right, okay. Wait, so why is this one 8 plus 2 and not 9 plus 2?"
+"This one, why is it 8 plus 2 and not 9 plus 2?"
+"Yes. So watch this. That will be from 0 to 8, correct?"
+"Yes, and then I add-"
+... Plus 2-
+"Ah, okay, I think so. I have no idea, this here?"
+The parenthesis?
+That makes a difference?
+"Oh, nope. "
+Yeah I understand. All right so there. I have built up my array. 
+"Fill the main array between 1 and 9, and then print array formatting, for an example past two rows for the, okay. I got you. Now fill array and ..."
+"So printed out it's going to be that or equals 0, or mentions. So stone.how.print line. So print."
+Okay now-
+Let's see cal queue waiting. I have . Calculate the numbers in each column of the array and store them in a.
+"Wait, calculate average numbers in each column, and store them in some variable, guess what the data type should be, when you store it. Shouldn't they be double?"
+Okay.
+"All right, int average equals 0. Ah darn. Wrong one. "
+Column 3-4.
+Average
+Isn't that what we've been doing?
+Okay.
+Oh man. 
+Hello.
+Sum up right columns.
+"Okay on the, oh and then make 2 variables, int total."
+Plus equals-
+"No, main array. Row, column."
+Divided by what? What do you divide it by to get average? Divided by ... by adding ...
+We're calculating the average in each column. So divide it by column. 
+By array. .Array ...
+"Okay. I think I got it, maybe. If you get it, tell me so I can show you mine and then we can switch out and see which one is which."
+Fuck. 
+Okay I think I got it.
+"The average for column ... Shit. Mine doesn't do it correctly, it does something, it just doesn't do it right. "
+"So this is what mine does. Console, that's mine. I don't understand where it got column 0, column 1, column 2, column 0, column 1, column 2. Yeah so pump ..."
+"Oh that's it, that's it."
+What? 
+Yeah I know.
+I'm looking at it.
+Yeah. 
+"Get the sum of the first, but I think I copied it wrong or something? Summing elements by column. "
+What the fuck.
+"Oh .link. I think I've got it. .linked, I think that might do it. I just want it to be column."
+Wow.
+"Hey, can I see how you calculated the average? Because ... Hm? "
+Yeah.
+"Divided by rows? Okay so wait this is what I have, could you look at it? So, that's what I have for the average. Here."
+"Oh okay, so I would do... "
+Yeah. I haven't got to that one yet. Okay. 
+"Yeah, oh could you? "
+"Oh, I can't, could you move that?"
+Yeah. 
+"So you did double average to find that, in column? What's this right here?"
+Okay-
+"That's what I did, is that correct or no? Or would that be outside the other one?"
+"Yeah, okay. "
+This one?
+The total?
+"And I get the average by total dividing what? I think so, total divided by... Let's see if this works. "
+Would it be like that?
+"How come I keep getting an error? Linked, oh nevermind. Okay let me run this real quick. Yeah. Thank you. Austin. Wait that's correct?"
+The average for column 0 is 2? 
+"6 plus, yeah it's 2. Okay."
+And then we're just supposed to find the max? 
+In the column? 
+Thank you. How are you looking so far?
+Would the if statement go in the 4 loops? 
+"Okay, so it'd go here. fine where you are, yeah."
+"Yup, oh how did you get the max average, I'm sorry I'm still working on that one."
+Okay. 
+"Okay, and that's outside of the nested loop?"
+So if max average is greater than?
+"Oh, okay. Then max average equals. "
+And then outside of all of that.
+We print it out-?
+I think my column-
+"So 0, 1, 2, 3, 4, 5, 6."
+"Could you add this for me? 5 plus 4 is 9, plus 2 is 11, plus 2 is 13, plus 4 is 17, plus 4 is 21?"
+"21 divided by 1, 2, 3, 4, 5, 6, is not 124."
+"Good question. Here, can I see, has yours worked?"
+"Okay, can I see what's you-"
+I'm not sure.
+"Oh, yup. Yeah you're right. All right now let's check it one more time."
+Yeah
+What's up?
+How come?
+"Yeah there's nothing higher than 9, okay so here. "
+This is my int average equals 0. Right?
+"Int column equals 0. Column main array 0 .link column. Then int row, row, main array .linked row plus plus?"
+Matrix row column.
+Total over matrix.linked? So sum over that?
+"So wait what? Okay, wait. Here, what if I just put total inside my 4 loop. Like that."
+"Me neither, it looks exactly the same except that one part, and in code it's always the smallest part. "
+"Ah yes, you're right, that's why. Yes, thank you."
+"All right well, time to submit this bad boy. Is that all we had to do?"
+"Banana, banana, banana, banana, banana. Banana. "
+So I found out what I made on my lab exam. 
+1-0-2.
+Yeah.
+"I had to go ask her though, because they haven't been posted yet. "
+This was activity 20?
+Hey Sarah can we get a mic whenever you're ready?
+Sarah. 
+It's all right.
+Can we get a mic?
+
+36
+"Mm-hmm (affirmative), yeah."
+Keynote: 3 plus 6 is not 36.
+Oh yeah.
+"And I forgot how you do method. Give me a second, I'm going to look through this thing. Oh my gosh. I didn't want to forget little details. It sucks."
+I'll just look at previous activities I did.
+"Oh, I got it. I was so close. Okay, so let's do input."
+Import java.util.scanner.
+"Nope. Nope. So it's public static... Okay. Okay, I got it."
+"I know, it was like..."
+We do this...
+It would help if I scrub the system.
+And it fills it with user input.
+Should I fill the two dimensional array in the main method?
+Array?
+How would I go about doing that?
+In the main? I mean in the...
+Yeah.
+All right.
+Wait.
+int i equals zero.
+"Oh, it goes array.link. Right."
+"Can I take a picture of that? Or, what activity was that on actually?"
+Okay. I'll just pull that up.
+Are you sure it's activity 20?
+"Oh, yeah."
+Let's take a picture of that and just do it.
+Call z several times.
+8?
+"No, I ran only one time, so..."
+Yes.
+We do?
+"Oh, from activity 20?"
+19? 18?
+"Let me see. Oh, I'm doing the wrong one. Oh no, no, no, no. Fudge. I messed up."
+Never mind.
+Activity 18.
+Figure out...

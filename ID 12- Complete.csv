@@ -1,0 +1,262 @@
+12
+"All right, on the average. What did they average?"
+ All right... I think I understand. Location. If [inaudible 00:00:53] is greater than [inaudible 00:00:57].
+
+ Yep.
+"Four, six."
+Yeah. Whoops. [inaudible 00:02:09].
+Wait are you sorting or...
+"Yeah, yeah, I see that."
+"Wait why are you... no, index equals..."
+Mm-hmm (affirmative)
+But that's not the index.
+It's just like panel whatever. You can't use the index. You need another variable.
+"So, I use count off of the count and then I use the index."
+It's the thing you're iterating. So...
+"Index plus plus, you'll just be uh... count equals index. Or whatever you're viewing for the..."
+"Yeah. Uh, wait..."
+"Wait, shuffle all elements of the short array and then target..."
+I don't know what those last ones are supposed to do.
+Hm?
+You need at least-
+"Well you need at least that many elements to guarantee that... well, technically you need that many elements to guarantee that you have enough space in your array."
+"Since you don't whether it's beforehand, they imply you better use your vector here, if there are vectors in Java, but since array, you can't change-"
+"Yeah, so it's probably not vectors. And uh... both sides... over two. And then it targets something..."
+Okay I think I'm done.
+Uh-huh (affirmative)
+Yeah.
+Yeah...
+Why?
+Yeah.
+"Yeah, you need a separate variable for..."
+High number. The J.
+"I'm assuming that it wants it in like, consecutive. Not like at a certain index."
+Uh...
+Yeah.
+You just...
+Yeah.
+"Um, zero four. Average is three. Okay, so that's... so there's size four, so size three. Last two. That's odd. That should a low. "
+"It's not doing what I want it to do. Oh, that's why. That's why."
+Yeah.
+That is not right. Oh size the... I don't know what I'm getting wrong here though.
+[crosstalk 00:14:02]
+"Oh, I didn't... that's what I did. Did it. All right yeah, I just didn't reset the value."
+Yeah.
+It's annoying though.
+"No no, I did. N target equals... I just write... use the same variable you had tied to it. Size."
+No.
+Use what you used for the-
+Yeah so just put the size.
+All right.
+Oh I don't think I submitted.
+Yeah.
+"Uh, I used count."
+"Whatever you're iterating, it's gonna end up being count is less than array size divided by two."
+Is there an exit form?
+Change arrays. Now.
+No.
+It didn't even say to print the last one. Yeah.
+I don't- yeah.
+Or you get docked.
+"Wait, start is... no start is [inaudible 00:18:12] I got that right."
+"Oh you're probably index out of balance, so start is wrong. So it should be wrong. So it should not be..."
+Yeah.
+I mean that's how mine looked.
+Yeah.
+All right.
+Let me try to get to the bus.
+You good?
+I think I've lost any of these.
+No idea.
+12th. All right.
+"Okay. I think I ... yeah, this size [inaudible 00:00:27]. And we just need another folder."
+I is less than B. [minus plus 00:00:56].
+All right. [inaudible 00:02:30].
+"All right, I think I did it."
+I don't know how to do this.
+"I'm trying to print out the array, but it's not working."
+"Okay, screw it. I am doing this. [inaudible 00:03:54]"
+"Yeah, it's printing a reference. I forget how to get the actual object."
+"Okay, yeah. I'm done."
+I just outputted the array.
+You have to switch to dimension one and dimension ... right now.
+Yeah.
+"[inaudible 00:06:57] array out of bounds. So, run it again."
+I don't know.
+"I'm going to check yours out once I finish mine, but I'm basically almost done."
+"You can try switching dimension one and dimension two, then. That's the only thing I can think ... in your folder."
+That's fucking weird.
+All right. Maximum average parameter.
+All right.
+Just do a minus one.
+Do a minus one.
+That's that wouldn't work. I don't ... want to ask David?
+It only gives you the [inaudible 00:12:01] screw that up.
+"Because you get the two dimensions from that, right? And then that sets those as the ..."
+Zero.
+We gave it minus one.
+How's that? [crosstalk 00:13:05]
+Mine is like that.
+that's pretty much what mine looks like. It's a weird one.
+What?
+I'm basically done.
+Yeah.
+
+Yeah.
+"Oh, [inaudible 00:14:22]"
+"Yeah, I got you. Okay, cool. All right."
+"Basically, it's how you pace that [inaudible 00:14:52]."
+"No, you [inaudible 00:14:58] fill it out."
+"Yeah. Basically, all you do is ... let's see. So, I made a new array, and averaged both [inaudible 00:15:15] the second value."
+And I basically just switched the second value for the first value.
+"So, instead, dimension two's on the outside, and dimension one on the inside. That should do it."
+Mm-hmm (affirmative).
+"And you have to do that, [inaudible 00:16:11] loop too."
+"Yeah, close that check into the [inaudible 00:16:25]."
+Hmm?
+"So, you go at manual entry."
+"Manual entry. And then bracket, dimension two. Dimension one."
+Yeah.
+Hmm?
+"So, go back to your first folder."
+"And ... wait, what are you trying to print?"
+Print the array?
+"First, you got to print the array. All right."
+Really?
+"They made it confusing. It's really not. Yeah, it's not [inaudible 00:17:50] try to implement this."
+Right. [inaudible 00:18:16]
+"Yeah, the [inaudible 00:18:29] you just copy-paste the first loop. Wait, what are you trying to ... I mean, that works."
+Just do it outside the print.
+"No, you have to swap them."
+Yeah.
+These are [inaudible 00:19:22].
+"Oh, you don't use dimension one and dimension two."
+You use J [crosstalk 00:19:28]
+The average?
+"Oh, I screwed up."
+You got to switch them. You got to switch. [inaudible 00:20:05]
+Yeah. That's why it ... yeah.
+"I think dimension one. Yeah, dimension two."
+"Okay, so I, J, I, add I. I ..."
+"I plus one? No, J plus one?"
+"Yeah. J ... no, just J. Because it goes from zero to ... hang on."
+wait. Size of the column would be [inaudible 00:21:29]
+Yeah.
+This one is on the inside. That's like the vertical ... that's how I'm interpreting it.
+That was basically all formatting.
+Yeah. But we've done that before.
+All right.
+"So, basically all this is is [inaudible 00:22:55] basically the same loop over and over again."
+Hmm?
+Wait. You have to have an outside folder.
+Check for [inaudible 00:23:24] value.
+"Yeah, pretty much done."
+12
+All right. I was trying to do something with... [inaudible 00:00:30] (silence)
+"[inaudible 00:01:18] here, here, here. "
+Yeah. 
+That one and then that. I think we were supposed to do the average. Yeah. (silence) Yeah. [inaudible 00:02:28] Over here and over here. I'm wearing a wire right now. I'm wearing a wire. (silence)
+[crosstalk 00:03:09]
+Easy. Line up that. 
+Yeah. 
+"All right, I'm done with the second part. "
+"Well, no. "
+No. Let me ask him that-
+"Two, three. Two, three, four, five, six. 3.5. six, seven, 21. 21 divided by six is-"
+"Wait, what?"
+"Yeah, right. The [As 00:05:18] were objects and in this is passed by reference. "
+All right. [crosstalk 00:05:51]
+"Wait, you don't have to. "
+That's fine. As long as I... I try to get it out around the time the bus comes-
+"Because I'm not walking all the way across campus. Times 26. Plus... okay, where's the [ash key 00:07:16] table? Ash key. I'm just going to do lower case letters. [crosstalk 00:07:39] "
+"There probably is. If you do it outside, yeah, if you-"
+"Yeah, do it in the class. "
+For character or like what characters do you want? 
+All right. 
+"That's done. All right, I finished the character aim. It was really simple. It was literally the same thing as the [ant 00:08:38] area. I take out that and change your RA to character and change... and put that next to Math.random and then pass it through. "
+"Yeah, basically what I'm about to do is I'm just going to copy/paste this. Search character. So, yeah. Basically your body is going to stay the same. Yeah, you might have to change the... Huh, that's weird. M characters. Oh, wow. That's it? So I can filter M characters. [crosstalk 00:10:22]"
+I need the-
+"Oh, yeah. No, I did double. I don't think it matters there. "
+Yeah.
+Yeah. But I guess the other stuff we've done is basically the same structure. We just [crosstalk 00:11:20] different things from that structure. Because all these go through every element and the [range 00:11:27]. 
+So I'm actually done. [crosstalk 00:11:49] 
+"Equals... yeah, yeah. "
+It doesn't matter if we're-
+It doesn't matter for methods. 
+"Yeah. Return value. [crosstalk 00:12:54] All right, methods. All right, so if... [crosstalk 00:13:28]"
+"Yeah, just [inaudible 00:15:03]. All right. "
+I didn't hear it. 
+For... I returned it. 
+"I don't think it matters, though. "
+All right. 
+What? 
+"Oh, wait. I don't need two. [inaudible 00:17:00] And then array, array plus two. Then [crosstalk 00:17:18] sum is two. "
+"It's slightly more difficult than what we did before. Aw, man. I have to... "
+Yeah. 
+"Okay, search equals [inaudible 00:18:12]. [crosstalk 00:18:20] Oh, oh. Oh. Oh. I was doing something really stupid. "
+Hold on. I was trying to do the second method when I was supposed to do the first. 
+"So it's yeah, times 26. I think it was plus 61."
+"Yep, that's what I put. "
+"All right, that's good. "
+"Oh, fuck. [crosstalk 00:22:16] Oh, okay. Yep. Mm-hmm (affirmative). [crosstalk 00:22:16] Does not equal 31 in this. [crosstalk 00:22:16] Nine. All right. I think I am done. One, one. Three, that's good. Two, two. Arrange. [inaudible 00:23:52] zero. At the top, lower 12. Ah. [crosstalk 00:24:12] "
+"One, one. Wait. I'm going to search for A. All right. All right. I think that's it. I should probably output the arrays, though. "
+Output the array. 
+"Yeah. Wait, what? Where did my thing go? "
+Control C. 
+"Ah. Okay, so this is what I'm going to do. [inaudible 00:26:11] out to print. There should be... [crosstalk 00:26:25] Plus one space. Plus... [crosstalk 00:26:46] Okay, and then control C. "
+Review. It looks [inaudible 00:27:12]. 
+I had the wrong [ash key 00:27:12] values.
+Yeah. Value. 
+"I put the hedge value, not the decimal value. So it's actually 97. "
+"Two and two. Two, three, four, five. Each side of this work here, everything is zero to three. Equal. Okay, yeah so I am done now. Yeah. "
+"So, it's really the same thing as... Well you-"
+"When you assign the value to I and J, I personally did it through the [inaudible 00:29:22]. "
+"You can't return two values, so array one. Put this in there. "
+And you're going to pass back [inaudible 00:29:45]. 
+"No, no. "
+This times two. 
+Yeah. 
+So value zero would be the I value. 
+Yeah. Just put value. 
+"Yeah. Oh, okay. Then you break and you go down. "
+"Oh, I didn't put it. Dumb ass. In your outside folder-"
+"So down here. No, one more. Then view it if index of search zero does not equal negative one."
+"Yeah. No, you break. Yeah. "
+You have to do it twice because if not it'll keep going to the folder. Down here-
+"No, you don't. Yeah, this index search zero. "
+You can in array. 
+What?
+I got it. It happened to me earlier. I put the wrong... I didn't have boxes in front of that and I was trying to return an array. 
+The array...
+Hmm?
+"All this does is you break out of the second four loop, but that is going to break on its own if it's not in there. "
+So you initialize your first initial search through negative one for both values. What'd you think of the test today?
+Yeah. 
+You had the whole page of determinants?
+"You know, I'm pretty sure you can type it into your calculator, like, to get it so that a determinant equals five. I had five.  "
+"Yeah, AAC and II. "
+Yeah. 
+I only screwed up on the times 10. 
+"Yeah, at first I was going to put 150-"
+Yeah. 
+"Yeah, so it was 5000, I think. "
+Yeah.
+"Yeah, five times 10 to the third. "
+"All right, good. I don't think it was as bad as the last test."
+Really?
+I struggled. [crosstalk 00:35:11] Yeah. I didn't do good on the last one. How'd you do on the first one?
+That's what I did. I don't know. I think this one should be-
+Yeah. I'm not too sure on some of the basis stuff. 
+Yeah. 
+"Yeah, the column space is the one I had a bit of trouble. "
+"Yeah, I think I accidentally did the null space twice on one of the [platforms 00:36:06]."
+But it shouldn't be that bad. 
+Yeah. 
+"Nah, I think-"
+Differential equations was harder. Top [two 00:36:29] was harder. 
+Next semester. 
+Really?
+"I had AP stats back in high school and it was all calculator. It's basically linear algebra, but with instead of the matrix functions, you scale it to-"
+"Averages, means, medians, stuff like that. "
+All right. I have-
+Cool. All right. 

@@ -1,0 +1,298 @@
+Okay.
+"It says ""draw the flow chart"" but it doesn't say ""submit the flow chart"" anywhere. So... "
+I'm just going to not. [inaudible 00:00:32]... shape and its dimensions.
+"Do you think when it says ""conditional statements"" do you think that allows switch statements?"
+"It says under the ""to do this you need to"" the third bullet says ""in the main method you "
+"will use conditional statement."" Does that include switch statements? I hope so."
+"Yeah. I hope that doesn't mean just, uh, [inaudible 00:01:25]. This one should be easier."
+"Aw, wait. He just said we have to use if-L statements. I don't want to use If-else statements.[crosstalk 00:03:11]"
+"What's the thing you can do for, like, what's the thing you can do to do new lines and "
+Backslash?
+And then end. Do you have to put anything inside of it or do you just leave it?
+"Oh, is it."
+"Oh, oh!"
+You put it in the quotes?
+So you just do-
+And then you just keep on
+"Yeah, I don't know [inaudible 00:04:01] is this one supposed to be this way?"
+Oh. That just depends how you want it I guess. If you put a space there'll be an extra space. So it just depends how you want it. [crosstalk 00:04:33]
+"Alright, we've gotten that taken care of. [crosstalk 00:05:12]"
+"I'm just trying to put it, make a line so [inaudible 00:05:22]"
+I'm just going to get some water.
+Yeah.
+"Okay. Ah, so. I'm going to need a few integers so N's your radius, and with length, width, base, height, because we have triangles too. I guess I'm just thinking if I like, you know[crosstalk 00:06:23]"
+So anyways.
+I was just going to do the condition for deciding which method it's going to use. I was 
+just going to do that first. I'll just do the methods after.
+Yeah. I heard him talking to someone else earlier saying they want us to use ifs. So.
+"So I'd just be like if, assign me my variable shape, if shape is equal to the one, then we're doing... So what does it want us to tell them?"
+"Okay, so just the area, okay. So you can just make it be like system L [crosstalk "
+"00:07:29]. Oh wait, so now that its a square you're not going to be like enter the length and width. Length, undo length, then width. Feeling more specific?"
+So that one we squared. [crosstalk 00:07:48] Length equals we put dot [inaudible 
+00:07:48] and then width equals [inaudible 00:08:12]
+"Oh! Yeah. I guess I hear it. You can just change it to length/width. Because, you know, "
+"they're the same, and then just only take one of the end parts."
+"Yeah, the length, yeah. Yeah, whatever. Semantics. It doesn't really matter."
+"So after it reads that it should just do. I'm trying to remember how to, okay just the "
+name of it. So it'll give you an error until you write it but I'm just going to write it down 
+"because, all I'm going to do is print. I'm just going to make it, I'm going to name the "
+"function square, and then it's going to be an integer so it's going to be square. So I'm "
+just gooing to leave it as that. It's going to yell at you for right now because it's not there 
+but I'm just going to leave it until...
+"Yeah we're going to make a method eventually, but its just not there yet. I just decided "
+I'm going to name the method squares. I just put it in as it's going to be when I run it.
+"Oh, no, no."
+"square. Because it should be a one variable method, so. So if shade equals equals"
+two...so we're just going to be doing the same thing basically. Over and over...
+For this you can just do ifs.
+"If you really want to you could just put one else at the end where its like, if its not any of "
+"these then you can put an else that just says, like, invalid entry or something. Like we "
+used to do with switch statements back then.
+"See this one makes much more sense as a switch statement, but whatever. So 2 is "
+"rectangle, yeah. Enter the, so this one actually needs length and width."
+Then width of the rectangle.
+"So then this one is just rectangle, length, width."
+"Width, shape, equals three... oops."
+"Yeah. So now, this is the same right here as"
+"No, see, when you call a method right. So methods, you know, they require two certain "
+points and it gives you certain output. But when you have you have to call it you have to 
+specify what you're using as the inputs and that's what that is. You do the name of the 
+"method and then, so for example, rectangle when we make it will be a two variable "
+method where it just multiplies them together. But it needs you to-
+What you put in the parentheses after it those are the variables it will take when it calls the method.
+"Yeah, but that's just what you draw, that's what you want it to print. All that's just "
+"where I put like the area is and then that, but yeah."
+It's going to return the result of the method.
+Yeah.
+"I think you guys when you write that you're basically writing ""give me the result if you "
+"were to run that method with these numbers."" That's like what that means. So that is "
+like shorthand for that whole method using those two numbers. [inaudible 00:13:31].
+"So anyways, done with that. Almost done with the easy part."
+Alright did you finish that part? The [inaudible 00:15:27]
+"So now, we have to do the, actually make the methods now. Which is the harder part."
+"Alright so, I'm trying to remember the syntax for those little parts, okay. Public, static. Okay, yes."
+"So we'll start with public, static. So we have the in- the thing right before the mean, that "
+"is the output type? Yes, output type. Doubled, yes. So many integers. So let's start with "
+"a square. Then you, so that's your- I can't use length again can I? No you can't. Okay."
+What's the problem here friend? Syntax error.
+"Yeah, in the square, it doesn't like that. I'm not sure why."
+"[crosstalk 00:17:16] No. Public, static."
+"Yeah, hold on. Mine doesn't like that though. Here, I'm going to bring up the text book. "
+"It doesn't like something. Public, static, name. Why don't you like that? Alright, let's try this instead."
+"Okay, this. Hm. Public, static, ent. Yeah, so what's wrong with this? Who. I worry, is it "
+"just because I haven't written anything? Is that like, if I just do like..."
+Hm. Move your val model from full model for parameter squared. Is it just like the name? Really…
+Hm.
+"See, okay. I don't know mine-"
+"Yeah, no. I'm just- there's something wrong with mine where it just doesn't like any of this."
+"Did you actually finish it, no hurry?"
+Alright I'll try that first. And see if that lets it in.
+Okay.
+"Yeah, so."
+And area equals...
+So the return area...
+"Hey, I know what it is. I fixed it. I failed to close the other method."
+"You have to close your, if you're going to do another method, you have use another "
+"semi-colon to close the original method. Oh, look. And I just take out the semi-colon "
+"that's closing the other one, that's why it's yelling at me again. I put it back, it's gone. It's "
+"because this is a part of the, this public static void method, and it was, you have to close it."
+"You must have, you must have put an extra semi-colon somewhere and that's making it work."
+Because that was making mine not work. I don't know how you would have got around that.
+Oh I didn't put that back.
+"Okay so, now all you have to do is just go-"
+"Yeah, within each method you can reuse-"
+Yeah. It wouldn't matter anyways because it only uses one every time the program runs.
+Yeah. Rectangle. ENT-X.
+ENT. Triangle. ENT-whoops! ENT-X. ENT-1...ENT area equals X times Y times 1 divided by two. One half base times height. Return area.
+That's probably good enough.
+I don't know...
+ENT oops.
+ENT-Area.
+"Oh yeah. Pi R, it's Pi R squared, right? Pi R Squared."
+So I would just do 3.14 times... times radius... Where is radius highlighted in red?
+"That's weird. Oh, wait. Because nevermind. I'm [inaudible 00:25:44]. I know exactly why its highlighted."
+"When you do power, as in power-"
+Is math capitalized?
+MATH.pow and then-
+"Oh, really?"
+"Pi R squared. Pi R squared. Pi... Oh, oops. I didn't have to do that. Well we can fix that, we just need to change some variables around."
+"Return. Area. There we go. Ah, too many of these. Yeah, so is this saying its going to tell "
+"me, yep. Okay, we can fix that."
+"So, it's just, when you do math methods, it's kind of confusing but these variables-"
+"Those are, yeah. So like, for example-"
+"I mean, you can because when you define them here they're only defined for the "
+"You can but like, I was just trying to do this because I feel like that for like later, more "
+complicated things might be better to just-
+But-
+"Can you do multiplication like you do in like, try instead of putting-"
+Just try putting a multiplication sign between the pi and that instead of- maybe it's 
+"getting- oh, now it's getting, I've broken all of it. Area equals pi times-"
+Yeah.
+Oh you need to make area a double. You need to make it-
+"You need to make it return a double too, so change it from public static in to public static double."
+"Alright, I'm clean on errors now. I'm going to try this."
+"So I'm going to try all of them square. 5 times 5, 25. Alright. So let's try a rectangle. 5 "
+"and 4 should be 20. Alright, good. Let's try a triangle. Alright it's 4 by 2. Zero. Okay, well "
+my triangle is broken apparently.
+"Yeah, I put in 4 and 2 and got zero."
+I did 1/2 times base times height.
+"You might want to put parentheses about, around 1 divided by 2, because that can be "
+an order of operations problem. I think it might be because its an integer. I'm going to 
+try converting this one to a double as well.
+"Yeah. We're dividing, so. Uh, let's try that. 4, 2, I got 0.0."
+"Yeah, I don't know what's wrong with this it should not be giving us that."
+"What happens if I so, [crosstalk 00:30:07]"
+"Okay, so it must be a problem in our- I'm going to do this the long way because length is "
+area divided by 2. Alright this should fix it.
+"I'm doing it, I did it the easy way. Yep, see there you go. I just did that. Two lines that are on."
+Yeah.
+"Either way, those work. I'm not going to calculate. I'm just going to put a number and "
+see if it sounds right. That's probably about right.
+"Put in 2, see what you get. Yep! 12.57. I'm .01 off, but I don't care."
+"Oh it's, this is easy. You should just do another... system.out. ENT-LN. So, Leaving..."
+So another...
+"Oh, did it? Where there? Oh I thought it meant like take your answer you already got "
+"and check that. No, it's just another one."
+"Okay, that's easier. That might be actually kind of hard, but no."
+I have no clue.
+"Enter N, Enter [inaudible 00:33:10]...ENT, uh. Equals input. Max ENT. All we have to do "
+for that is do system.ENT.printLN... Alright so I just need to be sure and make a method. 
+Call it even. Just want to call it mine. Public. Static. What data types can you all put in a 
+method. Can you do like a string? Can I return a string?
+It can return a string?[crosstalk 00:34:22]
+Well we're going to find out.
+"Returned, oh I forgot to put a name on it... There we go. String cannot be resolved to a type."
+"Oh, string is capitalized..."
+Okay if X...
+Oops.
+So now we just have it... re-out. Return. And save. [inaudible 00:36:29] to resolve to a variable. Excuse me?
+Oops... Alright
+"I just did, I just did this. Huh."
+"Alright, well that's about it for me then. Guess we're about done."
+It runs.
+"Uh, just about, yeah."
+Yeah we do.
+"Oh, you need to say the numbers."
+"16. Hope that works. Anyways, yeah okay."
+"Uh, no. He did."
+"Anyways. Um. Yeah, so that works. I probably could have been a little more graceful, but "
+"I forgot about doing like the part 1, part 2. So. But whatever."
+"I hate doing the long chains of like [inaudible 00:42:05]cat and sub-string and stuff, but I don't know. It works."
+"Yeah, we have to do the flow charts apparently and I think they wanted us to do... "
+"I think he only wanted us for the first one not both of them, so. That saves us a little bit of time"
+I got it.
+You having a problem? Did you declare in some?
+Yeah you did.
+It's working now.
+"Alright, I'm going to do the student code, or whatever. Yep, right, [inaudible 00:43:29] gonna do…"
+Yeah.
+But I been- want to do for the first one.
+"No, you did not just die on me."
+Piece of garbage. I'm back now. I have a charger. It's a matter of if I can find a place to plug it in.
+"Oh is it? [inaudible 00:45:10]. I, if this is all the way it goes this spring. Well, okay. At "
+minimum you assume it would save because it saves every time it runs.
+"So most of all is probably saved. In fact, all of it's probably saved except the student codes."
+"No, I usually just like, well I guess [inaudible 00:45:37] tedious description of exactly what it does."
+Who wrapped this up so early?? This is a[inaudible 00:45:46].
+"Oh, no I would just do one and just say that it does it for every one."
+"Alright. Barry, come back to me please."
+I very much just don't want to do anything hard.
+"Oh hey! It didn't even actually turn off it just went into sleep mode, so."
+Okay.
+So it meets... sorry.
+"Alright, well. The rest will sort of go."
+"So much neater, like this. Collapse it all up, and done. Anyways."
+How do you do methods in flow charts? I don't know that's a good question. Huh. Um... yeah.
+Going be 16 [inaudible 00:49:44].
+"Uh, I usually just do like, string."
+"Wait, is there a reason why I can't just do this?"
+What could you possibly do without- unless you- how could you possibly do that without a sub-string? What the hell?
+"No, see. That's BS."
+It just says you cannot use script. That doesn't mean you don't sub-string.
+Okay I have no idea how you can possibly set sub-string.
+"Yeah, I feel like she didn't. It doesn't say that it. It says you can't use spark but it sub-string. Yeah I'm just going to leave it there. And I'm just be like the thing says it "
+"Ah. Anyways. How's the flow chart look, okay. So we have-"
+"Yeah, cause nobody wants to [inaudible 00:54:18]."
+"No I said no one wants the first one, so."
+Um.
+"Oh, yeah. This probably isn't very good for writing a flow chart, is it?"
+"Um. Yikes. Yeah. I realize that now, unfortunately."
+Oh. How did it get to 8:00 so fast?
+Hm.
+[inaudible 00:55:55]
+Alright. Same.
+"I mean, yeah. I mean. This is basically it. It's just, it's convoluted."
+"Yeah. I mean, yeah. That's more or less it. It's just, yeah... This is so slow."
+Alright. Oh yeah so you can just send me the picture of that.
+"You emailed me once before, didn't you?"
+"Okay. That's sensible. We should probably shut this off then, shouldn't we?"
+Alright. I need to move to on. [inaudible 01:00:48]... If anything changes on our list from the 
+So the first one has to do that one-
+"Yeah, because see in that one, if anything changes in either list 1 or list 2, both will "
+"update in this one and in 2, if list 1 changes, that won't change list 2. I don't think."
+"Oh okay, cool. [inaudible 01:01:17] okay. Almost done. Let's take the other method and then-"
+A new one. [inaudible 01:01:30] past how we do this. [inaudible 01:01:33]
+Make a copy of the past work [inaudible 01:02:20]...
+"I think it's the first one. Anyway[inaudible 01:02:20]. Sync. Well, that worked."
+Define in your way of string the entire [inaudible 01:02:28] names. Read a search method
+Font name search. [inaudible 01:02:28] array of string data. Okay. That doesn't seem too bad.
+TIFA-T [inaudible 01:03:04].
+"Okay. Um. It says ten names, right?"
+Ent-over [inaudible 01:03:48]
+So we can just use a loop so-
+"String. Uh, names."
+No I think-
+"I think you, I think it starts at zero as far as how it counts, but that number you put in is "
+how many slots total you want. So I think it's still 10.
+"Um, String 10. Okay then. We need another string. So, the idea is that you- ten names "
+"from the user. And then it searches for the name, okay so."
+"It switches the string [inaudible 01:05:09] index of the name. Okay, so now get them to enter the name of the search."
+Enter the name of the search. Oh I need to do the entering the names first. Forgot all that. [inaudible 01:05:24] for that.
+I is less than 10. Then...I plus this. Names. I. [inaudible 01:05:57] oops.
+"Yeah I'd use just the just .next, but yeah. I figure names are usually one word long, but "
+yeah. It doesn't probably matter.
+"So then we can just do, whoops. String name- String, I don't know. Key equals m.next "
+You have to enter the name they're looking for.
+"Alright so. Now we need to make a method. So, system.out.print[inaudible 01:07:13] "
+"name, underscore, search. Oh, the arguments being- names. And, um, names and then "
+"key. And I have to declare that. Down here. Public. Static. Uh, that returns a ENT. Uh, "
+"name, underscore, search. Um. String. How do you declare methods and have a raise in "
+"them, that's like, oh. ENT. It's what type it is. Okay so, string. Name. String. Q. Return. "
+Index. [inaudible 01:08:26]. ENT. Indux equals zero.
+"Hm. I know where this [inaudible 01:08:50]. Oh, wait, hold on. This is near the brackets. "
+"Yeah, there we go. Um, okay so now it just needs to do your search or whatever. So 4 "
+"ENT-I equals zero. I is less than 10. I ++. If... if uh, names. I. P. Index, oh wait, hold on. It "
+needs to return the index.
+"Oh yeah. So. Index equals I. Uh, the name [inaudible 01:10:34]? The name is in index of the list."
+"Uh, I mean yeah. More or less. I think it's a little simplified, actually. Well I mean that is "
+"for searching numbers, this is for just searching. It's just comparing every space in the "
+"array to what you're looking for, and when it finds it, it just tells you what slot it was in "
+when it found them.
+Maybe. Do you have that returning anything yet? It won't work until it's returning 
+something. I'm going to check this real quick.
+Joan. Pearl. Self.[inaudible 01:11:35]
+"Uh, oh. That didn't work. Hm."
+Yeah.
+Wants you to tell you where-
+"I don't know why this isn't working. Index zero. Oh, what, no."
+"it's whatever. I can just do this.Well if index equals I, then, it's the same thing. Probably an unnecessary variable, but "
+"Just because you have to declare it doesn't mean, you can just declare things to zero, "
+you don't have a problem with things not working for whatever reason.
+-you don't really
+I'm going to change it. I mean it's kind of-
+I just put it there because that's where my train of thought was going at the time.
+I don't know why this isn't working. This doesn't make any sense. [inaudible 01:13:54]...
+"Okay so now it works... 0. 1. 2. Okay, well mine works."
+"Alright, that's that one. What's wrong with yours? Is something wrong with it?"
+Is it just not finding it even if it's there?
+"Let me see it again. Yeah, see okay. When I hit mine doing equals equals, it wasn't working. Here try it onlu equals-"
+Yeah.
+"Oh, yeah. Okay. Well. You can do what I did. I changed it from equals equals to .contains key, and for some reason that works .equals equals. [inaudible 01:16:58]. Yeah that "
+"works for me when equals equals didn't. I don't know why. I want to take, yeah. Just putting in single letters that looks the best."
+"Alright, well, there you go. Alright[inaudible 01:17:53] already. I guess we should- they "
+told us to raise our hand to get the things taken off alright.
+"Oh, dang. We got some Pokemon here."
+"Ah, you're good."
+We're finished.
+Yeah.
+Yes.

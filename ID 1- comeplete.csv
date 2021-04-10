@@ -1,0 +1,625 @@
+I guess. Yeah. Sure.
+Yeah.
+Just say you do. Just need to make sure I don't get up really fast. Okay.
+Including what you're saying right now.
+Good thing we have a lot to say here.
+That's fine.
+"And it said we were supposed to use F statements too, right?"
+What? We can't just use what?
+"I mean, you probably could."
+[inaudible 00:02:39] at ...
+Oh. What.
+Oh.
+I at least want to code these as a farm like going to be given most to somebody else and they're going to be a total dick about it and put 0.0222 and I realized that I'm the person testing this and I'm not going to be doing that-
+"So, there's no reason for me to do a double just in case."
+Yeah.
+"I let my girlfriend test a thing that I did. I was like, try it out. And the first thing she did was write that. She was like, oh."
+Hmm.
+"Man, our commentary is so riveting."
+Like this length of silence is brought to you by dedication.
+All right. Let's do that.
+What? 
+Oh.
+What?
+Yeah. No. That's why they're using the F statement so that it can be shape equals ignore case or whatever.
+Mm-hmm (affirmative).
+"Oh, shit. "
+Can I ... They've already been initialized once so I can't mention that again.
+"Oh, for the F statement? "
+"So, if a shape equals ignore case square, just you clear the string instead of having to initialize it. And then you prompt the user for the individual like things that it needs for these develop problems. And then result equals-"
+Yeah.
+And then you-
+Just put the result-
+And then initialize. What?
+"Yeah, shape dot equals ignore case. And then you can just put in quotations whatever name it is."
+Yeah. Because my default was to put an or statement to both of them but you don't have to with the ignore case.
+And it looks like it is close to time. Let me go ahead and save this and start putting to do's in here.
+Okay. Let's see.
+I don't know if that's correct formatting but we will see. We will see.
+"Oh, we need to ..."
+"Oh, wait, no."
+It's going to need to be a double.
+Because probably it's 3.14.
+"Yeah, the result has to be a double."
+It wasn't much of effects.
+Yeah. Okay. And ...
+"I think I did it. I feel like this is too easy. Wait, every time I think that I'm doing things the right way, I'm like, why don't I get it? It's way too hard and I'm doing it wrong and then it's easy. I'm like, I'm pretty sure I'm doing it wrong."
+"Are we supposed to loop it? No. It didn't say loops. Eh, it's [crosstalk 00:27:39]. Oh, I didn't do the second part. Bummer. Oh, no."
+"Two, so ..."
+1
+Do you need me to get closer?
+"Here, that's fine. "
+Should be good. 
+Yeah. 
+"Cool, cool, cool. "
+"I have a question. For the initializing the new arrays, since we're getting the user to define the size of the array, can we, when we're doing the new [ant 00:02:02] can we put new ant input next ant, in the bracket? It's letting me do it, but I don't know if that's proper. "
+"So I could just, instead of creating new ant equals I, and then putting new ant, brackets I, that seems like an extra step. "
+Just for the source size. 
+"Yeah, because we're not going to use the source size for anything else, so it should be okay just to be in there. "
+"Yeah, okay. Cool. "
+Can't verify?
+"Oh, you right. You right. I know there was something on... I think it was the lab test that I was making a lot of values and stuff, and then I was like, ""I don't really need to do that. I could just break that down."" Like the formula for whatever that I was doing. I could not use it. It may have been the homework. Pi or something?"
+There's a math dot pi instead of-
+Mm-hmm (affirmative). Math dot pi in all caps. 
+"Yeah, that's how I got the correct number because I assigned it to 3.14 and it was rounded weird. "
+Yeah. 
+"Yeah, as long as it got 69. Mine was like, 72 or something after the decimal because I just did 3.14. So I did pi and that has, it'll calculate the shit ton of digits, so. "
+"Yeah. Okay. Right, right, right. Okay. Trying to figure out how to pace this. [crosstalk 00:05:00] Those are four. Seven and then... zero tag. "
+I think it's math dot random (times) 10? For it to be zero to nine. 
+You could also-
+"Well, it's the maximum minus the minimum."
+Plus one. 
+"In order, it's max minus min, plus one. So-"
+"It's max minus min, plus one. "
+For you to get exactly what you're-
+"Well, we can look it up on the API, I think. I think it tells you. "
+It's been a little bit to-
+It was one. The paragraphs that you-
+Yeah. 
+Cool. Please do. 
+"Please add points to my test. Wait, let me get in on this. Please add points to my test. "
+We were just talking about that. I think so. [crosstalk 00:08:24]
+"No, I think you were right. "
+Mm-hmm (affirmative). 
+"Yeah, so if we did want ten, then that's what it would be. It would be one minus... Ten minus one, plus one, or something like that. Hey Nelson. "
+Not going to be able to use any of my stuff. I'm not paying attention. What am I doing? Okay. 
+Shuffling where?
+God. 
+"Sure, sure. "
+"You know, I had this. Okay, no. You know what? I can just bring the... pre-seven that I did. "
+That sounds awful-
+"But okay. What am I doing? Gosh. Equals... math dot random. Yeah, that should be capitalized. "
+"Right? Oh, the first math isn't supposed to be. "
+"Oh, okay. [crosstalk 00:11:29] Class random. [crosstalk 00:11:42] Yeah. "
+"Yeah, yeah. You're wearing sandals, yeah. [crosstalk 00:11:57] It checks out, checks out. "
+"When it says ""pseudo random"", does that still count? This says-"
+Next in... I'm looking at the methods for the random class. 
+It says next in and you can specify the maximum value. 
+"It says ""Return to pseudo random uniformly distributed, ant value between zero, inclusive and the specified value exclusive. Drawn from this random number generator sequence."""
+"Yeah, I think it has to be attached to something. "
+Yeah.
+"Uh huh, yeah it's close. "
+"Yeah. It does not include nine, so you'll have to go one up. "
+Yeah. 
+Where is your friend? 
+Talked about conspiracy theories. 
+I tried to test by displaying everything. 
+"I don't think it'll let me. Cost, strain. What? I should be able to display them all if I call source, right? Print line, just print source? It should display all of them, right? Or no?"
+"If I'm wanting to display all of the things in the array, I can just type in source and display it, right? Or no?"
+No. That's why-
+In order to display it. You have to use a loop to display it?
+Dang!
+"Okay, we're going to do this again. Four count equals zero. "
+"Okay, let's do this. "
+"Eight, nine, eight. Two, three, four, five, six, seven, eight, nine, ten. It does do ten. It just printed out ten options for me. "
+"Oh, okay. No, nevermind. I'm thinking about the wrong thing. I typed in ten so it did print ten, but I was still thinking about the nine limit. Wait. "
+"I keep looking back there, instead of right here where the actual PDF is. "
+Uh huh. 
+"Find which number out of the array, the random numbers he assigned, which is the highest. We did it in another thing where you compare number to number and if that's higher, you replace it and then you go to the next one. "
+"Yeah, I think it's another four loop. But it's not telling us to do methods, right? We could do methods, but-"
+"I don't think this is supposed to be a looped program either, so it doesn't really matter. [crosstalk 00:23:00] Okay. Let's see. [crosstalk 00:24:00] Okay. [crosstalk 00:25:30] Source account. It would help if I spelled things right. [crosstalk 00:25:50] Nice. Sure, sure, sure. The average. Maybe I will do... Do I feel like doing classes, or methods? Because I kind of feel like doing methods. This is going to be due tomorrow by... "
+The panel has to go up so you have to create a four loop that is going through each of the individual numbers for your array. 
+"Yeah, so you attribute the number you're checking to the next integer, or whatever. So four int count equals zero and each loop, you're going to increment it by one. That way you go through each one and for each loop you do check equals the source count. So whatever number is in that specific source count. Then if that number is higher than your current highest, like you have another value that is called highest and I set that one to one, which the lowest you can go is zero and if one is higher than zero so that's starting. So if it's higher than one-"
+Well then one is going to be the highest. 
+"Yeah. I know, I know. It's going to be an error. "
+"But you can't have like, is zero higher than zero? "
+"That's true. Yeah, and it did have two nines in there, so I think it'll still work no matter what. So you can set it to zero, I think. "
+"Yes, I only have one loop in this. So the check and then an ""if"" condition. If this is greater than the highest, then you change what the highest is, so the highest equals check. Then when you go around the next time, you're changing what check is at the beginning. "
+"No. No, I'm not going to do this. Nevermind. I was going to do methods, but I think that's going to be a lot of wasted time. [crosstalk 00:32:42] Take the average. "
+That's true. That's very true. [crosstalk 00:33:08] 
+How big was the slice of bread?
+Aw! [crosstalk 00:33:56] I can dry swallow medication. I bet I could dry swallow a piece of bread. 
+All at once. 
+"The whole thing, just roll it up. "
+"Yeah, you could crush it into a little ball. It would be chewy. "
+"Yeah, it's not that much."
+Yeah. 
+"Oh, I bet! I'll [inaudible 00:34:29]. "
+"He's mad because he's like, ""That was our strategy."" [crosstalk 00:34:42] That's bread. "
+I'm going to go home and test this now. 
+"My mom's going to be so confused. Go home like, ""Listen."""
+I'm just standing in the kitchen. 
+I'm going to see if this even works. Nope. Oh. 
+"Oh, no. I think the average is going to have a nested loop. No? Is there not... It doesn't. Okay, nevermind. I just have to add more things. Let's see. "
+Average values. I'm so distracted. 
+Sum equals zero. [crosstalk 00:37:18]
+"They're just, no. "
+"Let's see, average. [crosstalk 00:38:25] "
+"Okay. Equals... This is a silly question, but is average sum divided by size? Or size divided by sum?"
+Okay. 
+"This is worse. [crosstalk 00:39:07] Ah, ah, ah! [crosstalk 00:40:40] "
+What?
+"Okay, I have average now. I need higher values. "
+[crosstalk 00:43:33] 
+Greater than... [crosstalk 00:46:53]
+Shit. Maybe just [crosstalk 00:48:35] 
+"So which one is it? For D, did you... Oh, okay. No, it says it. Same type and size. I was like, ""Did you create another size indicator?"""
+I was trying to figure out how to do a loop to count and also assign it to a thing in the same... It was going to be real weird. I had to do two F ones. Are you done?
+Oh.
+That's true. Yeah. Let me check. Account is... You're good. Are you heading out or are you waiting?
+Well. [crosstalk 00:50:17] I told you I have very delicate hands. 
+It's very strong!
+"Push it on stop, yeah. "
+One
+"Yeah, okay."
+That super sweat. [crosstalk 00:00:12].
+"No, I did not. [crosstalk 00:00:20]. Oh, fancy pants. Oh."
+We're close to being five stars [inaudible 00:00:33] came to be that totaled aisle.
+"Yeah, that'd be fine. I don't really care. I have like two or three extra."
+Yeah. Okay. What's ... What?
+I'm on the blue one. He's on red.
+Are you on yellow?
+It's whatever.
+"276. Before we ... Seven, ten, searching the rays. What? Oh. I'll fill in the blank, is the [inaudible 00:01:29]. Blank is the process."
+That's not on this page. This is the process.
+I'm looking. Searching. Ironically.
+Yeah. 
+"Yeah. It is not on 267, which is where the issue came about. Match the following definition to pair the key elements of [inaudible 00:02:43] each element found or til the end of the ray is reached. Middle amp. [crosstalk 00:02:58] Do you know question two? Yeah?"
+"You got question two, right?"
+Yeah.
+What is the form?
+"Like, um, excuse me. I have never inhaled. [crosstalk 00:03:45]"
+I think [inaudible 00:03:59]'s paranoia is getting to you.
+"Well, stop."
+That's the whole point. [crosstalk 00:04:13]
+It's not ... [crosstalk 00:04:55]
+Oh my god. 
+Is it the number or the position?
+It's the IRB method.
+"I love the [inaudible 00:05:08] marked up, they're like, ""What's the answer?"""
+"I love that you guys are locked up, and you're like, ""What's the answer?"""
+Give us the answer. That's true. They gave up.
+Oh okay. I'm proud of you.
+The string method. [crosstalk 00:05:46]
+"We didn't touch it, but we-"
+Yeah. 
+"Yeah, he checked."
+"Well, we didn't touch it, and we were here the whole time. [crosstalk 00:07:02]"
+"Yeah. Yeah. I don't [inaudible 00:07:07] maybe it was on, and Sarah didn't know it, and then she pressed ""record"" to start us, but it was on before that."
+Yeah.
+"It might have not been turned off, or it had accidentally been turned on before, and maybe she pressed ""record"" thinking it was turning on, and it turned off. Because he saw there was a recording of two hours or something, so obviously it was on before us."
+Okay.
+"Oh, dang. I just messed that one up. [crosstalk 00:08:02]"
+"Well, the point is, all the searching methods are supposed to return the same thing."
+Barring the binary search error.
+Relatable. [inaudible 00:08:32] [crosstalk 00:08:32] What?
+Sort of.
+"Eight, eight, eight, four. What eight are we four? Blah. Why are we going to eight, eight, eight, four?"
+It took us to one of the pages way in the back.
+"For bubble rays. What? This is not the right page. Maybe it is. I don't know. Because this is an external sort, not a bubble sort. 23 point three. Yeah, no. That's the wrong page. [crosstalk 00:12:45]"
+This papaya tastes perfect.
+"I said, ""This papaya tastes perfect."""
+"That, this papaya tastes perfect thing, back in high school we had a computer class where we had the mics, and we had to use the, like, dictation stuff. One of the test phrases so that you could make sure you weren't getting too many error-rated feedbacks was, ""This papaya tastes perfect."" Terrible. Terrile."
+"The key is that it says that it's already sorted, and binary only works when it's already sorted, and it's the fastest one to go through it."
+Linear search is if you can't use binary search.
+"You have to use ... Yeah, binary would not work."
+Where is this? Yes. I am. Right now. Bubble sort. Sort! [inaudible 00:14:32] What does it sort? [crosstalk 00:14:32]
+Yeah.
+I don't want to watch that video. Under the process of bubble sort ... I'm at the process of bubble sort.
+"It's very hard to reiterate, but I know. We still okay? How loud is the feedback on these because I get like real close to the mic and everything? Yeah, just don't do what I just did."
+"Like every time I cough, I lean right here. [crosstalk 00:15:26] is performing. Okay. [crosstalk 00:15:26]"
+Selection sort.
+Yes.
+Where is twelve?
+Smallest and first.
+It is merit able and neighboring.
+That one is selection sort? Yeah. Wait.
+"Yes. Yeah, the selection sort is it keeps switching the first one. [crosstalk 00:17:24] The bubble is the two right beside each other swap."
+I used bubble sort for the next thing that it needed. It wasn't too bad.
+But.
+"I think bubble sort might have been quicker, too. I forget. [inaudible 00:17:56] need to keep track of values K and I."
+Zero swap.
+One moment. What? [crosstalk 00:18:56] Okay. K is going to be ...
+"Four ... Wait, fourteen?"
+"Fourteen I believe is the section sort because it's swapping with a tempor ... Wait, hold on."
+"Yeah, it's depending on what ... Yeah, no, you're right. It's bubble sort."
+Because it's the one above it. Does that have the thing to?
+"It's 864. It's at the very, very bottom."
+864
+"Yeah, it was way different. Yeah, it's in the blue. [crosstalk 00:20:30] Yeah. Yeah. Showing off. [crosstalk 00:20:39] Three, two. [crosstalk 00:20:59]"
+That one is going to be [crosstalk 00:21:09]
+"Sixteen is ... Yes, because it has the current minimum. That's, yeah, that'll-"
+[inaudible 00:21:59].
+I'm working on fifteen.
+I'm trying to figure out what the hell it's doing.
+I think if the ... Then that's the new minimum. I think it's doing selection. I think.
+Okay.
+Two and zero. [crosstalk 00:24:04]
+Two and what?
+"Maybe it's just ... But it's not doing neighbors, is it? Maybe it is. [crosstalk 00:24:47] I don't understand what K and I are. I keep thinking that it's either bubble sort or selection sort, but I can't really ... I'm still on fifteen."
+"Hey, I need help with fifteen. I keep thinking it's bubble sort or selection sort, but I'm messing up on the iterations."
+"Because of this. So, what does that mean? Isn't that checking itself?"
+If K is ... Yeah.
+"Because E is one, and I is the count. So, that's both that, right? So [crosstalk 00:25:53] it wouldn't move."
+That's it. [crosstalk 00:26:02]
+"Yeah, I don't know what it's referring to because it ... This is ... This is talking about bubble sort, and then that's some of it, but that doesn't have the other things, and then that's the only thing it mentions. And it's just like mystery method. So."
+"Yeah. [crosstalk 00:26:40] And it doesn't reference anything, so how would I know to go all the way back up here if that was it?"
+"Yeah, that's just random stuff."
+"And it's ... There's nothing referencing. I don't know. Because it could technically be either one, but the only thing we have for a clue right here is that these two are swapped. That could be-"
+"Selection or bubble, but I don't understand what these intervals mean."
+But it's [crosstalk 00:27:28]
+"Oh, so that finishes the outside?"
+"So, it is selection? Is that right?"
+"Yeah, I don't think we're using any of the other ones right now."
+"Okay, so this ... So, instead of these being comparable, this would be one and then I plus one or whatever?"
+"No, but I've done bubble sort."
+"Three, two, five, eight. Yeah. Three. [crosstalk 00:28:54]"
+Yeah. And then it'll start back over for ... Yeah.
+"Yeah. Okay. So, then it will go two, three ..."
+"Five, eight, and then it'll check in over there."
+Yeah. And that's sorted. Okay. [crosstalk 00:29:21] That is very confusing.
+"Yeah, I had to go back and do the binary by hand. I tell everyone. Feel bad. [crosstalk 00:29:41] The papayas taste great."
+Oh gosh.
+"I thought we're supposed to have pattern recognition for the sorting, and this zero iteration is wrong."
+Yeah.
+"It's bubble sort, so this is just the inner loop, and this is the outer loop. So, this is going through and swapping the ones closest to. And then it starts over and swaps the one that's out of place."
+"Yeah, and then the last one is just checking the one and two, and the two and one are both just checking."
+Yeah.
+"Yeah, it is. There's a typo on the last question, too."
+"It's supposed to be the ... That's supposed to be five, three ... Or it's supposed to be three, five, two instead of two, three, five. It has the current min index selection."
+"Yeah, but that's the initial start. So ... [crosstalk 00:32:58]"
+"It goes through and checks if that's the lowest number that it's encountered, then if it isn't, or if it is the new lowest, it moves it to the front. So, it should move three to the front, and then it should swap through with two. So, that should be ..."
+But it's good for everybody else because those are identical.
+"Oh, yeah, but if people don't understand this part either, they're going to be like, ""What did it do on that turn? What's the iteration?"""
+It's whatever.
+"You know, as you do."
+"Three, five. [crosstalk 00:34:19]"
+"No, because two and three swap. Five doesn't swap. Because five is in the second ... Oh. Yeah, you're right."
+"Yeah, because they didn't notice that they didn't swap."
+I don't know.
+"It checks for the minimum to see if everything is higher than the minimum. And if it's not, then it puts whatever was lower in the first position. And then the next loop, it changes the index, so it's checking for second position. Second index. And then it goes through and checks and makes sure everything is higher than that one. Then it goes through and checks every ... Like it goes all the way up in the index just to make sure that everything after this number is higher."
+"Three, five, two. So, five, three, five, two. And then ... No, five would remain there because two is going to be swapped with three. So, then it'll be five, three, two. Or it'll be two, five, three."
+"Yes, because two and three will be swapped. It does it in a really weird way. So, they don't mix things up more before it sorts everything out."
+"I'm confusing myself. So, five, three, two is the original. And then three, five, two. And then two, five, three. So, bubble ... So, they're both wrong."
+"So, number one should be two, five, three."
+"Well, it's still checking five. This iteration is making sure the thing after five is supposed to be there."
+I don't know anymore. I don't know.
+"I'm so confused now. Seven, eight, nine. Okay. So, that would be two. Five, three. Two. Two is the new low. So, after one, it would go through as normal. So, it should be two, five, three for one. And then it'll switch to-"
+"The second ... The first position, first index. This is ... Number one is wrong, too. Because if this is where it starts, it's five, three, two. And then those swap, and it's three, five, two. And then two and three swap. And then it's two, five, three. So, it's all wrong the whole start of the index is wrong. We're so boggled now."
+"Yeah, we got that one down."
+It's not using selection. Yeah.
+"Yeah, so this is the current minimum, and then ..."
+Yeah. And put that in the first position.
+"Hey, Sarah. [inaudible 00:41:06] it jumbles everything."
+What?
+How?
+"Five, three, two? Eight, seven, nine. Six."
+What?
+Oh.
+Yeah.
+"Oh, okay. I see what you're doing now. I thought it was something totally different. I was so confused."
+Okay.
+"Yeah. Okay, so two and it swaps with whatever two is. So, three is correct. Five is correct. So, the next highest is six, and it swaps with eight."
+"Two, three, five, shit. Three, five, six, seven, nine, eight. Okay. Then two, three, five, six, seven, nine, eight. Then two, three, five-"
+"Six, seven, eight, nine. What?"
+"Yes, it's going to be the same as number five."
+"Because that's the switch, and then it goes through one last iteration."
+What are you doing? [inaudible 00:43:46] five?
+Out of 29. What did I get wrong?
+"Okay, incorrect. It does not tell me the right answer."
+"One. Yeah, it's number eight, and I put one?"
+How did you know it's using binary switch?
+I didn't know it was related to that. I thought it was something else. I got question nine wrong as well.
+And that's ... It's linked to the other one. That's why I got it wrong.
+It doesn't show you the right answer.
+What? [crosstalk 00:44:46] I like how you like turned to convince me. [crosstalk 00:44:54]
+Question eight is-
+Question nine is not the first thing. I don't know.
+You have a lot. I heard.
+"Yeah, [inaudible 00:45:38] everywhere, and it's useless. [crosstalk 00:45:40] No."
+I apologize to this recording.
+"Hey, don't do that to me."
+I'm not re-doing it. I'm not there.
+I cannot write all this over again. I got ... I got seventeen wrong!
+Answer one. What?
+"Yeah, I got this wrong there. I'm not. It's fine. It's whatever."
+Sarah.
+One.
+One. [crosstalk 00:00:17]
+One.
+"[crosstalk 00:00:22] Yeah, yeah."
+The second time was not intentional.
+What? Slowly.
+"Recording. Yes, yes, it is."
+"Okay. Okay, so. [crosstalk 00:00:50]"
+Give me an array. [crosstalk 00:01:20]
+"Oh, can't. "
+[crosstalk 00:03:18]
+Whoa.
+I'm starting the for loop.
+There's a for loop in an order to display it. 
+"You're creating the arrays inside that main array, and reusing two different random numbers in order to generate how many arrays you have and how big those arrays are going to be. "
+"I believe so. Then you're good, so on.[crosstalk 00:05:50]"
+"Noah has filled them with random numbers. Wait, what.[crosstalk 00:06:06]"
+Excuse.
+"You're making one multidimensional array, which uses two sets of the little brackets. Main array, then you use two different size things, and both of those are randomly generated. So, you need two random numbers. You do the new int, size 1, size 2, in the bracket, [crosstalk 00:06:38] all like that. "
+[crosstalk 00:06:53].
+"Yeah, we'll be like Nazarene [crosstalk 00:07:31]. Okay."
+Don't do that. [crosstalk 00:07:31]
+Let's see. [crosstalk 00:07:31]
+What?
+Yes. 
+Yes. I believe it's a coordinates of the grid. [crosstalk 00:07:55]. If I'm reading this correct. 
+"Yeah. So, this is the example [5,5]. That means it's 5 across, and 5 whatever. "
+"But, if you want it different sizes, then you can you do it this way. But, right now, we're not doing it that way. You predefine 'em. Which I, I don't know."
+"So, it's the same way you do regular arrays, you just put two brackets side-by-side. Yes. But, you need two brackets in the beginning. "
+Two brackets. [crosstalk 00:09:03].
+Count = 
+It's going so far [inaudible 00:09:16].
+[crosstalk 00:09:16]
+"Yes. I believe that's what the sizes are automatically doing, because then the next thing it asks you is to go ahead and display it."
+"Yeah, I can use this loop [crosstalk 00:10:28] for that too. [crosstalk 00:10:32]"
+"Yeah, yeah, that day. [crosstalk 00:10:40]."
+Count [crosstalk 00:10:54]. 
+What do you mean? 
+"So, the main array is main array length in order to figure out which count you're on, you're going to have create an integer that represents that [crosstalk 00:11:25]. "
+"You use a count. That's going to go until the end of the main array length, which is how many, but you don't know how many there are right now. "
+"Yes. Then, for that, you put the count inside whatever order it is. So, 0,1,x. O or x,1. Or, x,2, whatever. Then, you just put .length for that. So, it'll calculate it. [crosstalk 00:11:55]"
+Mm-hmm. 
+That's what I'm doing. It's a for loop within a for loop. 
+"The count is to understand where you are on the, you could probably use i instead. "
+Yeah. You can use i. [crosstalk 00:12:21]
+That's easier.
+Isn't there another way to do a random number besides Math.random()?
+Then it's easier.
+Yeah.
+[crosstalk 00:13:15]
+What's the random class? 
+It's random integer [crosstalk 00:13:20]. 
+Okay.
+Need to pull off [inaudible 00:13:32].
+I don't know how to do the random.[crosstalk 00:15:23]
+"Random, whatchu doin'? [crosstalk 00:15:23]."
+Let's see at [crosstalk 00:15:23].
+Zero inclusives. [crosstalk 00:15:23].
+"Ah, so, plus. [crosstalk 00:15:23]. "
+It's about.
+It's going to be 2 [crosstalk 00:15:31].
+Eight?
+"Is that right, if I'm wanting to do 9 to 2, it's ran.nextInt(8) and then +2 on the outside, to make it between 2 and 9. "
+Okay. 
+"Then, that one is 1 [inaudible 00:16:14][crosstalk 00:16:21]."
+"Oh shit. It's gonna be 3 for loops, I think. It's not gonna be just 2, because you need a second coordinate for the array, for the thing to assign it. I think."
+"It's not letting me assign that to [crosstalk 00:17:10] main array, like main array, blah blah blah.[crosstalk 00:17:17]. Oh, okay, no, nevermind. I got it. It's fine, I'm sure it's fine."
+"So, [crosstalk 00:17:27], I have the two for loops and its main array i right now.[crosstalk 00:17:31] But, that's the entire array. So, you need to be able to hit everything in the array. So, you need another coordinate in order to get everything. I can't see that from that far away."
+No.
+Ohhhhh. Sweet. [crosstalk 00:17:59]
+"No, I think it works. I was just trying to use a comma instead."
+"Then, let me copy that.  [crosstalk 00:18:54]"
+Woo.[crosstalk 00:18:54] 
+Oh okay. [crosstalk 00:19:03]
+Okay. 
+"i is the row, so the j is the column [crosstalk 00:21:58]. "
+Say what?
+"[crosstalk 00:22:07] You'll have to call each maybe instead of incrementing j, you increment i, to add 'em. Just switch the i, but keep the j the same number to add 'em together [crosstalk 00:22:27]."
+"You're going to get the [crosstalk 00:22:30] right? So, you would, the same way you would try and add together stuff in a regular array, instead of just adjusting the location, the index for, that way you're just adjusting the main array index. [crosstalk 00:22:54]"
+Switch the order that you're doing it.[crosstalk 00:23:04]
+Put [crosstalk 00:23:07]
+"is the j, and the inner loop is the i, because the i is one to the join count, you're going to count down for the j loop. [crosstalk 00:23:18]. Then, across the next index."
+"I keep visualizing it the way the Dasani machine gets drinks. It goes up, and then over, and then down. You just have to follow the lines. [crosstalk 00:23:46]"
+[inaudible 00:24:03]
+[inaudible 00:24:09]
+[crosstalk 00:24:11]
+"Ah, excuse."
+[inaudible 00:24:27]
+It did not ... 
+... do what I needed it to. [crosstalk 00:24:34]
+Ohhh. Balls.
+Why is it? [crosstalk 00:26:14]
+Okay. 
+"Do we have to do, cool, cool, cool. "
+I was worried that we had to do descriptions or pseudo code or something. [crosstalk 00:27:24]
+I guess I'll put. [crosstalk 00:27:34].  I didn't put a header.
+"But, [crosstalk 00:27:43] averages."
+[crosstalk 00:27:48]
+Description. [crosstalk 00:27:53]
+[inaudible 00:27:56]
+Arrays.
+Do that. 
+"Okay, so. [crosstalk 00:28:17] this."
+[crosstalk 00:28:18]
+"That's fine. I'm trying to do it now. I told you how to do it, and now I forgotten how to do it. "
+I need to know what I'm doing right now. I'm blanking on everything. My head hurts. Screwed me up. I don't need to do that.[crosstalk 00:29:34]
+"Okay, so. [crosstalk 00:29:36]"
+This can wait.
+[crosstalk 00:30:03]
+[00:31:02] *** COME BACK TO TIMESTAMP ***
+Array.[crosstalk 00:33:07]
+Comment will be [crosstalk 00:34:58]
+"The total number of elements will be the first size times the second size, right? [crosstalk 00:35:08]"
+Okay.
+Uh. [crosstalk 00:36:39]
+How short?
+"Why are you, where are you sorting?"
+"Why? Just use the bubble. God, what's the called? The linear search method, and just go through everything, and if it's higher than whatever. "
+Let me find the linear search.
+I think it might be two. 
+Search Java.
+"Let's see now. Give me that sweet, sweet example code. Where is that? Search."
+"So, it's one for loop. If such and such is equal to [crosstalk 00:39:48]"
+Okay. [crosstalk 00:42:11]
+Equals.
+[crosstalk 00:42:16]
+Yeah. You've not been evaluating. [crosstalk 00:43:12]
+That's pretty jacked-up.
+Yeah. I've been doing these ones right. 
+Did you have to make a bunch of arrays for average and stuff like that?
+Uh-huh.
+Size 1.
+Yeah.[crosstalk 00:44:33]
+Sure. Fine. I think I'm doing this right. 
+Okay. [crosstalk 00:47:11]
+Let's see if this worked. It did not.
+For what? 46. [crosstalk 00:48:30]
+Why?
+One
+"I was so suddenly conscious of my voice and trying not to do it in a weird voice, just because you were in front of me, I was, don't do it in a weird voice."
+"Have you looked at the multi-dimensional, the one with three brackets?"
+What is the third bracket for?
+So it is a cube instead of a spare?
+"In each of the things, it is also an array which is why it is a cube, right?"
+Yes. That is why I was not quite sure.
+"Because it was asking what is in blah blah blah, and I was like 500?"
+"But I did not understand that it was asking for length, it said what is the contents of something, and I was like what?"
+"Yeah, it does not tell me what is in there."
+"One, two, wow."
+"One, two, three equals."
+Yeah
+"Hey Chris, is there a way to, if somebody puts input and it is stored into it, it is just going to drop whatever period is, like if I have a user inputting the column with their whatever, and they try and do something cheeky, that is not going to mess it up, right? Just a negative right?"
+"So as long as I do a loop for a negative, I can?"
+Yeah? 
+Okay
+What?
+Oh right.
+Yeah
+That is true.
+Yeah
+What?
+With arrays.2string and then you return whatever in the method.
+Did you put it in a different method?
+Then you just put return. Are you returning a specific thing within array?
+"Just put the name, not the brackets."
+Because they will return the whole thing.
+The lab does that.
+"I think I have to do the four ... move four columns, four rows, four "
+[crosstalk 00:11:49]
+Oh shit.
+We are supposed to make separate methods to do this.
+It is [inaudible 00:22:44] section 8. Do you have a textbook there?
+[crosstalk 00:23:04]
+"It is going well. I am trying to decide how much needs to go in the main method, and how much needs to go in other methods, because ..."
+"But the array should be initialized in the main method, shouldn't it, because I trying to call the array in the main method and there is no array."
+Oh so it will return essentially.
+Okay
+Cool
+[inaudible 00:23:42]
+So this returns.
+Average
+Sign off here.
+"So it says calculates the average of all elements. That means just one average, right?"
+Okay
+Each column.
+It is you use the same thing I used for filling it.
+Four and times zero
+[crosstalk 00:27:05]
+A number to a what?
+"Get char I think, or the opposite of that."
+You are wanting to find the character of whatever number was input?
+Uh-huh 
+Mm-hmm (affirmative)-
+"You can randomly generate a character straight up, without doing a character."
+Like that create random class that we did?
+[inaudible 00:29:35] the file.
+Uh-huh
+"Was it the wrap that we had to display the array with cutting it off after a certain point, that loop, in order to display that nice little block, or was it this most recent activity?"
+Okay. Shit.
+[crosstalk 00:33:23]
+"Okay. Sweet, sweet, sweet, nothing at all."
+[crosstalk 00:36:43]
+[inaudible 00:40:07]
+Four
+"Should I, I am still doing the first one, for columns and rows, does that have to be in the method too, or can that be in the main method because she said initially it was, the main was just for column in methods."
+I would like to have an answer to both.
+I tried to put ...
+Yeah
+"I tried to put the entirety of this in the fill array thing, but then it just would not prompt me for anything, so I guess like, oh, right now it is working fine, but before I had all of the prompt stuff in the array."
+Okay
+"No, I had the scanner and then when it first was saying enter the column size, that is in there. So it never actually had a display line in the main method."
+"And it did not have the first inch column input next, in there, that was in an array or in a method."
+[inaudible 00:43:28]
+Whatever.
+Okay
+What?
+You are going to have to create an array in the name of the [inaudible 00:47:02] 
+Yeah
+"If you started it in the main method, then yes."
+Yeah
+Uh-huh 
+"So, this is a void, so that is not going to return anything to the main array."
+Yeah
+"And then you are going to have return, and the name of the array that is in that method."
+At the bottom you just return.
+Double [inaudible 00:48:05] 
+As long as it is within the method.
+"Yeah, it has to be the last thing you do."
+It is the name of the array that you are wanting to get back.
+"No, no, no, no."
+"Just the name of the array, not double or none of the brackets."
+"And that will bring it back from wherever you are calling it from, so if you need it for anything, then you are going to have to create an array up there and put it whatever array equals that method you called."
+No that is all right.
+"Yes, so, since you have it initialized in there, you are going to have to, and it is calling itself, name it something else, create another array. Be like filled array or something."
+"Use a different one and see if that works, because the way that I did it, was I called ..."
+Yeah.
+Well instead of doing ...
+"Yeah, because it does not have the two things, because that double you are going to have to put the brackets in that method between where it says initialized array and double, it needs the brackets to show that it is an array you are going to return, otherwise it just returns one double."
+Okay
+Yeah
+One.
+"Yeah, yeah no problem."
+Oh. You're gonna have to deal with-
+(laughs) Oh no. Hold on.
+"No, you don't have to."
+"Okay, let's continue talking boisterously the way we have been forever and ever."
+Urgh.
+Let's put this down here anyway.
+"Just to make sure. It's still... I don't think... wait, yeah it is. Okay."
+Good.
+"Yeah, please"
+"Okay, the matrix for these conversations."
+"Uh, I don't... I don't know why you need to create a random number in order to do it, because you could just put that in the thing. "
+"So, you can... you know when you fill the-"
+"-arrays,"
+You put the two different coordinates in order to get that specific element box
+To fill?
+"You could just put a random number, like instead of putting a second coordinate for the... the row or column or whichever one that we have to do,"
+"You can just put random number, and it will select them. You just make sure it's within the thing. I haven't tested it yet, so I could be talking-"
+Instead of J.
+Just do that instead of creating a...
+A whole number. It's extra.
+"Do we... oh that's for the search. Yeah, no. We only need one loop for the first thing."
+Oh.
+Yeah.
+Yeah.
+No way to check.
+"No, I think I'm okay right now. I haven't tested it, but I'm so... we'll see."
+Hm?
+"Void. So, I need this loop again. No, not that loop. I need THIS loop again. I love being able to cycle this at least. Check..."
+Oh.
+"I don't know if this will work, but maybe it will."
+Is this attached to... okay. Uh...
+"For... for the booleans, if we um, if we put them in ""if"" condition, we don't have to put ""true"". It's just, if it's true, it will go, right?"
+For the booleans?
+Yeah.
+Yeah.
+"Okay, let's see if this fucking works, I mean fricking works. Thank you, Mike."
+Okay. The answer is no. It's not even printing the thing right now (laughs).
+"I pressed... I pressed enter and it was just like ""Nah""."
+"Oh you know what, I bet it's because... yeah."
+My search method did not work. 
+Sixty-two.
+[crosstalk 00:24:30]
+I think there's still review.
+"I'm part of that class now, thank you."
+Quit trying to start shit. Honestly.
+I don't know.
+Do you want...

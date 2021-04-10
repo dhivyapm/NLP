@@ -1,0 +1,312 @@
+Yes.
+Okay.
+Okay.
+-Do this activity with the sum and [inaudible 00:00:46].
+"This activity, you will write a program that prompts you use your two inter [inaudible 00:00:55]."
+"Okay. So, it's just four different methods."
+"All right. So, what do you want to do first? Do you want to write the if statements, and then we can write the functions later? Or do you want to write the functions first?"
+"Okay, so just write down things."
+Can you please enter the length of your sides? We'll put that in the ... So we'll do if statements.
+"Oh, yeah."
+"Well, we'd enter the shape first."
+"Well, the thing is that these all have different."
+"Different, I guess, dimensions."
+"So, to measure the area of a square, you would just need one side. For a rectangle, you need a length and a width. For a triangle, you need the base and the height; and then for a circle, you need the radius."
+"Okay, so I wrote the methods, and then all we need to do is we need to make if statements to check what they use, our inputs, what the shape is; and you've got all the ... Each of these methods, I guess, corresponds to a shape. So if they pick square, we do square, we ask for the length, and then we do square area on whatever length they give. Right?"
+"So yeah, and I think a good way to do the variables, I guess, a simpler way would just be like X, Y, and Z, because the most we're going to give is ... The most parameters we're going to pass is two, so."
+So I guess we're going to just do three groups here again.
+What do you mean? For the second-[crosstalk 00:07:43].
+Is that part two?
+"Oh, I haven't read that yet. I'll read it later. We'll just, let's just do this first."
+"Did you read the chapter, or?"
+Oh yeah?
+"You're talking about Assignment Two, right?"
+Okay.
+Mm-hmm (affirmative).
+The next Friday.
+Yeah.
+Who?
+No. I mean I know where her ... Her office is on the 400 floor.
+So do you kind of understand what's going on?
+What?
+Okay.
+The exclusion workshops?
+"Yeah, I did. I went on Monday."
+That was really boring. I did not enjoy it at all.
+"No, dude, I got out of that, that was insane."
+I didn't.
+"Yeah, I got it with the really social people."
+"That's how you win, then you don't have to do anything, and you just let them do everything."
+[inaudible 00:10:24]- Triangle.
+"Pretty much, yeah. Well I mean, it's all part of one program. It's just decluttering your main method, because rather than for each of these putting the calculations for square, rectangle, triangle, et cetera, we can just do methods, and then you see how nice this looks like area equals square area of X; and then if you ... So whenever you're writing huge programs, you can look and you can say, ""Okay square area of X, so it's obviously a function,"" and then you can go find square area of X and see exactly what it does, rather than having like, so how long has this program? 44 lines. So rather than our main method being 44 lines, or I guess it'd be 40, because we subtract the headers. It's only what, like 17 lines?"
+So it just kind of ... It saves a lot of space.
+"Then Y equals input of next int as well, and then if we do area equals, and I've already made the function triangle area X, and then Y, and then we're done. Oh, then we have circle, too."
+Do you understand how methods work?
+"Yeah, like here, I'll show you. Let me call them. So now we have X equals input that next in, which we're treating as the radius."
+"So, I have a function that is circle area, and it returns a double, and it takes the ... It takes a double called radius. So whenever we call it, we just do circle area, and then so like auto-populates radius."
+Yeah. So we can just pass X.
+"And now when it gets ... Now, whenever this is run, it basically, in this function, this function runs, and it basically says radius is equal to X, because that's what we pass to it, and then it returns area. So, actually need to do area equals circle area and then it'll store whatever value the function returns into our area variable, and can you kind of see what I'm going to ... At the very end on the return area?"
+"I'm in the system, dot out the whatever area."
+Yeah. So then we can just at the end print F.
+"Right, so we can run this, and it says we have to ... That they should be able to enter it in upper case, lower case, or mixed."
+I did two lower case.
+"And then, so you just go like shape. Oh, that's not what we were supposed to do. So now enter strat sideline, oh it's your [inaudible 00:15:02], okay, nevermind."
+Aha. It's here.
+"Cool. So what happened here, I put parentheses D, which is an integer, and we need to change it to F."
+"And then if we do this, we put the 0.02 in front of it. We can just round it to two decimals."
+"Yeah, and then we're done with that."
+What is this?
+"By writing a method which checks whether an integer number is even or odd. The method gets an integer number as a parameter, and reruns the result to the main method. Returns, I think that's what they meant to say."
+"So yeah. How do you think, how would we do that?"
+"Yeah. So if it's zero it's even, if it's, yeah."
+Huh? Sorry.
+Which if statement? The if statement for what?
+"For, I don't know what you're saying, what you're talking about."
+Oh yeah.
+Yeah.
+"Well yeah, we're just going to have a method, and then it's going to be if X or our number mod zero is equal to zero, it's going to return even, and then if it's not, it's going to return odd."
+"I mean, we could have it return an integer, and we could have it return zero for even and one for odd, and then we get an if statement here, which is what I kind of thought you were talking about. But yeah, I guess we should make a string ... For odd."
+And then we can call ... What do you want to name them after?
+The method that we're going to use.
+We'll do num check.
+Make it real nice. Num check. So what I'm going to do is I'm going to do even or odd equals num check.
+"And then we're going to check X. Okay, so how would we-[crosstalk 00:18:38]?"
+"Well, what do we, what is even or odd?"
+It's a string.
+"Yeah. So you're going to have it return a string, right?"
+"And then, or what did I call it, num check?"
+And then what would this take in? What is X going to be?
+"Exactly, and what do you want to call it? We just call it num, we can call it anything. It doesn't matter; and then what is the inside going to look like?"
+"So we have to have our if statement, right?"
+"So then if num mod zero equals zero, then what does this mean?"
+"Exactly, yeah. So we can return. How would this work? I wonder if we could do this. Just return a literal string. Even. Oh yeah, it does. And then so else ... If the modulus isn't zero, we know that it's going to be odd. So we can just go ahead and return odd. Yeah."
+"I think so, yeah, and then we should just print that out, dot print F, and then we'll do a new line because we used ... Yeah, we used print F up there. So .. Or wait, no, we're good. I think we'll do that. We'll do that. We'll do three lines, or two. So print F the number ... Actually, what we could do here, since we're using print F, instead of declaring even or odd, we could just put in here num check of X. Why is it giving an error?"
+"Wait, what?"
+Is X? Oh.
+"Okay, so now we'll see if this works. Then enter an integer 1 through 45, and it should say ... Wait, what?"
+"Oh, wait. Oh, wait, hold on. I'm confused."
+Mm-hmm (Affirmative).
+Could we ... It's saying that we're dividing by zero. Oh!
+"No, it's mod two, I put mod zero on accident."
+"Cool, and then we can try it with a ... So we'll do triangle."
+"This one to our base is 6, and our head is one, it should be 3, yeah. Then an integer will do with 6, and then it's even."
+"I think that's it, right?"
+Okay. Do you want me to E-mail this to you?
+Oh yeah.
+Oh.
+"So what, do you go home, and then you read the book, and then you do these, the activities?"
+What about the activity?
+"Yeah. No, the activity."
+"Oh, do you prefer to do it that way?"
+Yeah.
+"Pretty much. I mean, not the one from Tuesday, that one was pretty-[crosstalk 00:24:35]."
+Was that in the book? Did you finish it?
+"Oh, okay."
+"No, not really. I know a lot of it, but like methods, I don't really, I understand how methods work, but I'm kind of unsure about modifiers. I know the basic modifiers, like public, static, et cetera and stuff like that, because I'll ... That's just object oriented stuff. But-[crosstalk 00:25:18]."
+Yeah.
+"Well they're, yeah, C Sharp and Java are basically the same language."
+Huh?
+"Oh, like public, static, private."
+Yeah.
+"Yeah, the second computer science class, the second intro class, that's more of the stuff that I'm not sure of, and then I'll probably read the book, but right now I don't really look much stuff up."
+What do you mean?
+Intro to Computer Science 2.
+"So, I'm taking that over the summer."
+It's an 8:00 AM to 1:00 PM class.
+"So it's very long. There's also an 11 to 5 in the second term, if you want to take that one."
+"Monday, Wednesday, Friday."
+"Pretty insane. Yeah, so there's all these, oh there's a ton of them during the fall, but there's only two over the summer, nice, oh, and it's 10:45 to 5:15."
+"And then this one is 8:00 to 1:15, but it's a lab and class, so your class is from 8:00 to 10:30, and then your lab is from 10:45 to 1:15."
+"It's just more Java. So like, version control. I don't know that's GitHub, or Git, or what, or if that's some sort of built in Java version control. Debuggers, class design, aggregation and association, exception handling, generic and abstract types, inheritance, polymorphism, interfaces, and abstract classes. So basically just a bunch of object oriented stuff."
+"Oh, yeah, I forgot about that. Are you doing the extra credit? Not this one, obviously, but the other one?"
+Yeah.
+"No, I'm not going to do it."
+"No, I have a pretty good grade."
+"I feel like I can get through with an A, unless the next lab tests is as bad as the last one, I think I'll be fine."
+"What does this mean? The options that best describe your experience today. Is this is about me or you? Receiving, responding, valuing, organizing, and characterizing? I guess."
+Yeah.
+All right.
+"Yeah, I think so too. We don't have to sit here for the end, the rest of the class he said, right?"
+Yeah.
+I didn't.
+"I did not, no."
+"I don't think it says that you need to submit one, but..."
+Yeah.
+(silence)
+[inaudible 00:12:28]
+I think so. The light's on.
+"So this what it is. So just a random number of array dot length and then we just ... Because if we're on, in the middle of the array, we can get a number that we have reassigned. So it's like we getting a lot of the same numbers."
+"Oh, yeah."
+"Yeah, I have it."
+"I printed it. Yeah, I printed twice."
+"Yeah, so it's ..."
+"Oh, yeah. So this is the first."
+Yeah but isn't that what I am doing? So it's reassigning...
+"It's not here because if we get up to here. From this index to five, in this array, we could pick a number that we have already assigned up here. So we don't even ... I don't really know how to explain it."
+Because I know that we could do it by ...
+"Yeah, so we are not keeping all the original numbers ..."
+Yeah.
+To what? To swap them?
+"Okay. Okay, so is this ... Yeah."
+What is the issue?
+"Yeah. Well because the random number can generate the same random number twice, right? So won't this mean that some of these would remain unchanged from the initial and then..."
+It's like index minus one?
+What if we get index zero though should we ...
+Yeah.
+Yeah.
+"Okay, so wouldn't we solve the same issue."
+We wouldn't?
+"Because we are changing the main array, we are not making a new array, right? Or is that..."
+"All right, let's say we changed this index, so index of six and it became seven, if the random number generates this six, that would be like six minus one, we could print six twice. So wouldn't we still run into the same issue? Despite having [crosstalk 00:17:36]"
+Yeah.
+Yeah.
+"Yeah. I am still a little confused because we are doing a random index so how can we get consistency, do you mean maybe if we..."
+"Yeah, could you write it on... here, just whatever it was, you can just write."
+Numbers.
+Yeah.
+Yeah.
+Okay.
+So you would ... Okay can you undo that one more time.
+Yeah.
+"Yeah, it is a zero to four."
+"Yeah, so C."
+"Yeah, because we are on iteration one which is this. So then one equals..."
+"One and one, this would be..."
+"Two and one? So two and one, so this would be C?"
+"So we swapped the initial array? Oh, I see what you're saying."
+"Yeah, so B and C."
+Yeah.
+Yeah.
+"Yeah, so this would be A."
+"Yeah, because that stays constant?"
+So then this would be C.
+How does it change these two?
+"So array index one, array index two, so this would be B?"
+"Oh yeah, yeah, yeah. One, and then it's two. So we are swapping array one with array two."
+"Oh we are swapping them, oh. Okay, I see what you are saying. So this would be B, this would be A."
+Okay.
+Yeah.
+Yeah.
+"Oh, I see what you are saying."
+Yeah.
+It will go there.
+You are moving them.
+"Okay, I see what you are saying now."
+Okay.
+"It is, yes. Okay, thank you."
+"Well we weren't, I wasn't swapping them I was just straight up assigning. But what she's saying is that I need to set this index, you pull to this and then ... I actually need to save."
+"No E, yeah.[inaudible 00:23:24] Oh, I see what she's saying. That's pretty dumb. And then we are going to set, name array of I, equal to ten. Okay, I think this is what she wants. And then if we run this that should give a lot more consistent results. Yeah, that works. Does that make sense?"
+"Yeah, because we're swapping them rather than just assigning."
+Yeah.
+"No, so here you are taking the first half of your source array."
+What do you mean?
+"Oh, for E sorry. Kind of you doing this. So this is how she explained it, but that is not very good. Let's say you have your source array, you are on index one, you are going to generate a random index, like what say you generate index three which is nine. You are going to swap them, so this is going to become nine, and this is going to become one. Does that make sense? [inaudible 00:27:11]"
+Sorry?
+"So we get a random number. Now our random number is our index. Sorry, do you want me to unplug it for you?"
+Are you sure you're going... don't break the computer.
+Yeah.
+Yeah.
+"Yeah. It's the like main thing, I will hold it. I will hold it like this."
+I do not think it's stuck. Are we done?
+Okay. Hold on.
+Do you want me to e-mail this to you?
+Okay.
+"No, you could probably just take it off if you want."
+Nice. Okay.
+Yeah.
+"No, not yet."
+"B? Oh, E. Can we get this off?"
+34?
+"23. Yeah, 23."
+Oh my god. This is easy.
+Are you serious?
+"[inaudible 00:01:21], dude."
+"No, I haven't looked at it yet."
+"[crosstalk 00:05:19], I guess."
+Wait. Sorry?
+Exactly.
+"What do you mean? If it's going to two. Like, as an example?"
+"No, but you need to declare the [inaudible 00:05:49], right?"
+I thought they said to find a two-dimensional array. Generate two random numbers between two and nine to define the dimensions. Yeah.
+"Oh, yeah. Yeah, I don't do that."
+You could do that. Or you could define a separate integer. So like in rows equals [inaudible 00:06:28] random. That's how I did it. It's up to you though. Either way will work.
+"Like, to declare the dimensions you need to use random numbers. So you could either put them directly into the definition or you could just use two integers to declare, like rows and columns."
+Is it?
+Yeah.
+You just add up all the columns. You add up all the numbers in the columns and then you just divide them by the total number of rows.
+"Yeah. So... [crosstalk 00:23:15]. Yeah, that was right. Oh. So you figured average, use an array. Don't use that."
+Like this.
+This is mine. We have an average array and then we've got the average index. So we're going to keep track of what index we're on in the average. This is just to add up the total and then we're just going to divide this by the length. How many rows there are. This is the index of the maximum average and then this is the index... or not the index. This is the value of the average. That's the maximum. Because in the last part we have to co-
+Yeah. Does that make sense?
+Yeah. You can just scroll.
+Sorry? Like move...
+You can do it.
+Yeah.
+"Average, average index. This is just calculating the average, because up here I do the total. So I calculate the total of every index. [crosstalk 00:24:38]."
+"For that, you're consistently calculating it over and over so you need to move that outside [crosstalk 00:24:55]."
+"Both of those. No. You leave the average, actually. I'm sorry."
+You're doing it right. You want to calculate the-
+"Yeah. You want to calculate the total, and then outside you can get the average."
+23
+How is it doing while she was talking?
+I did mine like this. Because you don't need to loop through all of it.
+Because you're looping through the columns as well. So you're looping through each individual column? All you need is the first
+You don't need these? [crosstalk 00:00:41]
+For the caller.
+"Because whenever you look at it, you want a loop. And you want one here, and you want to change one thing here, one thing here, one thing here, one thing here, one thing here. So you want to change one thing in every row. So you want to loop through."
+It doesn't hurt.
+You're using an online ID?
+I just wanted to download the clips.
+Oh.
+Understandable.
+"Okay. So you want to generate 1,2,2,4,5, randomly."
+So what does this piece represent? What goes here? Like what number?
+Yeah. So that's the index of the column that you're changing through once.
+So you did it here...
+Yeah. Wait. Oh. You have to...
+I'm sorry.
+"To print, I did this. I will just make a method like this to print here alright?"
+Because otherwise you'll have to make a variable for column. And then you'll have to type each one. You can do it. It will be really easy. So like you'd make it in Tokyo and you'd call it the in-column counter. You write column. And then every time at the end of the slip you would enter the contract column over here.
+Actually I'm not sure if the word is [crosstalk 00:04:03]
+[inaudible 00:04:10]
+"Yeah, I think you should make a [prevary 00:04:15] method."
+Yeah. Everything is correct. You have it right. Everything is right. It's just printing the array. So you're generating all the ones that you need.
+Can't stay here all night. You're almost done. Like you really are. What are you confused about?
+Yeah. So the only issue is that you're not printing the array properly. So just make a new method and call it print array.
+"Well, how would you print an array? You would just lift your every element and then print there. Right? Like these?"
+But this is for printing my array. This isn't for actually generating the numbers. For generating the numbers I'm going to [crosstalk 00:05:35] go through the rows.
+But then for printing the arrays I would do the rows and the columns.
+Is it okay? I did it like this to check. So I checked it like this. So what I did is that I stored the indexes of where the ones are. And then I just compared them. Since the orders and x's are equal then they're in order. Is that okay?
+Yeah.
+Because it works. I just wanted to know
+[inaudible 00:08:40]
+Okay. All right. Thank you.
+Why didn't you remove what you had already?
+It's okay. [inaudible 00:09:45]
+"So what you're trying to do, when you're parsing an array you don't need to put those."
+"Yeah, this is the print to your functions right?"
+I'm sorry?
+What you're doing is that you're trying to print the array and do the random number at the same time. So don't do that. So you use the printer a function and then you have one that's generating a random number.
+How're you doing?
+I did the search differently. So how did you do that?
+"What we're doing is that for each row, we're generating a random column."
+"From zero to how many columns we have. So if we just store that random number into a variable, we have the index and the columns. Let's say that this is index 3, that's index 3, that's index 3, that's index 3, that's index 3, right?"
+"So if we store the indexes of the ones into [a 00:11:58]. So like you see, this is where I print the index. So the first born in the first row is at index 5."
+"So zero column 5, row 1 column zero, row 2 column 1, row 3 column 3 etc. You see what I mean?"
+"Exactly. So we can then just compare indexes of 'i' to indexes of 'i + 1'. And then if any of those aren't equal, then we can just return that they didn't win."
+"And it works too. Because if you felt here like this and you [inaudible 00:12:36] again, we hopefully [inaudible 00:12:41]. There."
+See? You could do it like that if you want.
+How did she explain it?
+Yeah.
+I have no idea...
+Searching through the columns. So its like going through the columns? Like one by one?
+And then checking whether its all equal to one?
+Definitely.
+The way that I did it or the way that she did it?
+You have a what?
+You don't have a class?
+Where do you work?
+It's all right.
+Yeah.
+You're gone for lunch?
+Okay. Sounds good.

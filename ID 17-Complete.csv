@@ -1,0 +1,345 @@
+Plus people.
+"Oh, there it is. [crosstalk 00:01:02]."
+Like to invoke a method. [crosstalk 00:01:02]. To ... [crosstalk 00:01:04]. It says it on the right. [crosstalk 00:01:06].
+Yes and no. We want you to [crosstalk 00:01:14].
+So it would be what? It would be [crosstalk 00:01:42].
+Yeah. [crosstalk 00:01:46].
+"Wait, so we can put [crosstalk 00:01:49]."
+I'm still trying to figure it out. [crosstalk 00:01:51].
+So if you have this [crosstalk 00:02:06].
+"I'm popping it right there, but it still is not right. Like this [crosstalk 00:02:17] trouble. That's why I have all my methods, and some people might have a better way."
+"Okay, so I don't know [crosstalk 00:02:26]."
+Because it says here it has to be [crosstalk 00:02:45].
+"Ah, bugger. [crosstalk 00:03:37]."
+I feel like there's a lot of ways to get [crosstalk 00:03:52].
+So here [crosstalk 00:03:56].
+"Yeah, it was a little bit too short."
+So you're just utilizing what you're getting down here [crosstalk 00:04:29]. Same way with [crosstalk 00:04:31].
+"No, I-"
+"So we were texting him, but yeah, okay."
+"Yeah, yeah, yeah, so I'm just worried about the [crosstalk 00:05:16]."
+I'm just saying ...
+Because I read through it-
+Yeah because that would be what they input. [crosstalk 00:06:04]. I'm still getting an error.
+"Oh, it's in a main [crosstalk 00:06:25]."
+So I'm working on the first one.
+"And the assignment says to use comparative to make the selection, based off a text input."
+"So I go write in square, circle, et cetera, et cetera."
+"From there, how do I get it to go into the public class."
+Into the method that I [crosstalk 00:07:49]-
+These are cumbersome.
+That'd be a tangled mess. [crosstalk 00:08:15].
+"Okay, so-"
+Where it's got here Max [inaudible 00:09:02] into ... That's literally what the-
+What it's called?
+It's not running a maximum [inaudible 00:09:09].
+"So I could call it whatever I want, as long as [crosstalk 00:09:12]."
+"Oh, okay. And-"
+And for comparing strings ...
+"Oh, it's dot equals for [crosstalk 00:09:30]."
+"Oh, dot equals."
+I just put that to see [crosstalk 00:09:46].
+Choice ... dot equals ... [crosstalk 00:09:52].
+So I chose choice as the input.
+Parentheses square [crosstalk 00:10:49]. So no quotation?
+So choice-
+"Oh, okay. [crosstalk 00:11:54]."
+"So wait, that means just delete this one right here? [crosstalk 00:12:36]."
+"I was just trying to do the string thing, but Chris [crosstalk 00:13:18]. Yeah, now, I'm not sure. [crosstalk 00:13:20]."
+"Okay, so now, just while I'm running this, I ask for the input for base and height?"
+I call them base and height because I've already declared it here.
+I don't need to declare them up here?
+"All right, so that declares it, inherently?"
+Since I'm not passing anything down?
+"All right, so down here, I'll have system data out print, input base, and height?"
+And then just-
+"Calculation, and then return area."
+"All right, so I can just have public [inaudible 00:17:05] in square empty?"
+And then declare them in here?
+"So delete them here, delete them here."
+And then declare them in the second method?
+Because I have set them-
+"Okay. I was just looking here, and it's like: oh, that looks like that. Okay."
+"Yeah, it's like bare bones. [crosstalk 00:19:21]. So if it's an older system, [crosstalk 00:19:23]."
+"Oh, yeah."
+Do you know if we can write all on one code? [crosstalk 00:23:34].
+Which segment are you stuck on?
+Yeah. I thought you were working on two.
+"I finished with the square. I'm working on the rectangle now, but I've got the process down now, so those should go pretty quickly. [crosstalk 00:24:27]."
+Let's see. What's the second one? [crosstalk 00:24:32].
+"All right, the second one looks relatively easy. Problem 10."
+"You want to go and start on that, while I finish problem one. Why is it numbered one and 10? [crosstalk 00:24:49]."
+So it turns out that there is a [crosstalk 00:24:49].
+"Can you just send that email because when you sent it, I think Gmail was down? Then it [crosstalk 00:24:49]."
+Can I borrow you for a second? [crosstalk 00:27:40].
+"And if it's one, it's R?"
+"Oh, right now?"
+Yeah.
+"Oh, I didn't know. I'm sorry. [crosstalk 00:32:36]. Yeah, that day, the email wasn't working. It didn't [crosstalk 00:32:41]."
+"What's your name? Okay. [crosstalk 00:32:49]. Oh, yeah."
+[Studdard 00:33:43] submitted a time [crosstalk 00:33:44].
+"We don't have to do the fourth one, right?"
+"We don't, or we do?"
+Yeah.
+This works. [crosstalk 00:34:18].
+Hm? I can't see your screen. [crosstalk 00:34:23].
+"Yeah, I'm done. I'm just testing it. Try adding a return to each."
+"So add ... Like here, see? I have it returning like that."
+"A return to each if statement in the second string. See? I have a return for square area, a return for rectangle area. [crosstalk 00:35:32]."
+"That is ... [crosstalk 00:35:32], I am going to go swimming. [crosstalk 00:35:43]."
+Yeah. [crosstalk 00:35:52]. I just finished the third. I'm about to get out right now. [crosstalk 00:35:58].
+"Yeah, so [crosstalk 00:36:06]."
+"Method one, two. Passing it a number, and you're returning an integer. So you're passing it this."
+"Oh, yeah."
+"So if [inaudible 00:36:17] two is equal to zero, then it's even. That's right, but what are you returning? You need to return ... You can return a string here, which is what I did. If you do public static string, you can return a string, and then you can just return the string even or the string odd."
+"Essentially, you're not printing out in here? You're returning ... What would print up here?"
+"Oh, if you're printing it here, then you can just do ... You can just make this a void, and then ... [crosstalk 00:36:46]."
+"I think. And then here ... Oh, your if statement. What's the error that it's giving you? [crosstalk 00:36:47]."
+What is the error code? [crosstalk 00:37:05].
+"Oh, you defined your new function in your main function."
+"Oh, I did that too. I realize it."
+"That's why, so copy ... Click this really quick. So copy from here to there. [crosstalk 00:37:39]."
+"And then control X here, where you can cut it. So control X ... So now click that bracket, and then yeah. This is your main function, so now paste."
+"So now, try to run it, and it should work."
+Hopefully. [crosstalk 00:38:05].
+"Okay, click cancel."
+"Okay, so [crosstalk 00:38:12] the errors. [crosstalk 00:38:13]."
+Sorry?
+Do I use [inaudible 00:38:29] for method [crosstalk 00:38:30]?
+"I have no idea. I don't think she ever talked about that, did she?"
+No.
+"You could probably go ... branch off, I guess, but I have no idea. [crosstalk 00:38:46]."
+Is that good?
+Okay. [crosstalk 00:39:02].
+You want to do the flow chart?
+Yeah. I'm going to do mine tomorrow. [crosstalk 00:39:17].
+"And they're due tomorrow, at midnight?"
+You have a nice day.
+"Not the exit form, the assignment. [crosstalk 00:39:42]. Okay, I thought you said 'exit form'. [crosstalk 00:39:58]."
+Did you finish? [crosstalk 00:40:06].
+"All right, first one is sent to you."
+"All right, and assignment is submitted. [crosstalk 00:40:49]."
+Just make sure you got the ... my half of the program before you go. [crosstalk 00:41:46].
+"Yep, looks like you got it."
+17
+[foreign language 00:00:31]
+"No, you're good. This is why I think we need more slack. This is a mess."
+Who wrapped this?
+"When they said a recorder, I had assumed they meant put something on a table, not clip it to us."
+"So, you've already got the first one done, do you want to do the flowchart for it while I start working on the second one? All right. You've already got the Draw.io?"
+"Oh, for Pete's sake, this damn thing."
+This thing is getting more in the way that anything else. There you go. 
+"Oh, that'll work."
+"Wait, that's not the question it showed."
+That's not the question it just asked.
+That's not the question it just asked.
+"The one it just showed was asking about, can a name be displayed somewhere specific."
+The question that was on here was just different from the one that just popped up there.
+I was close with [inaudible 00:18:41]
+I ain't got two seconds. 
+"Oh, I've never seen that error before, so I don't really know. Try taking out the underscore between count and vowel. I know some symbols can kind of mess it up sometimes. And then changing it up there as well."
+"Nope, that wasn't it."
+Oh. 
+"All right, got it working. See? I'm just going to go through and add some code, or some comments, and it should be good to go."
+All right. I'm not sure if it wanted us to do a flowchart for the second one. It didn't say it did. 
+"It's not asking for a flowchart for the second one, so I'm going to assume it doesn't want one. I just need to go through and add the pseudo code. "
+All right. 
+"Bye, have a good time. Well that was dramatic. "
+"Yeah, just going through, adding the pseudo code. "
+"Draw.io, it's an extension of Google Docs. Yeah, that's it. "
+"I mean, if you need a hand, let me know."
+"All right, I sent my section of the Java file back to you."
+What are you working on?
+"Do we need to submit the flow chart as part of the grade, or is it? Okay, I assumed. "
+Let's see. 
+Later.
+"Oh, it's on your Google Docs, but you need to make a revision to it before you do."
+"The way you did it was using a for loop, so-"
+"Since you're using a for loop to essentially do it multiple times, you have to indicate that by... break this into two sections so when you're running the loop and have 3 here instead. So have the input, have A and have count showing they're incrementing, and then have a loop back up until it's true. So it'll be easier if I draw it. Essentially, you're treating that a decision maker. So you draw it as a parallelogram. "
+So...
+"Do you see kind of what I'm poorly explaining? So it's the for loop, then the main component of it, then showing your... I cannot speak for the life of me. You're incrementing A and count, and then it's looping back until this condition is met, and once that condition is met, you carry on from there. So you have to show that it's looping back."
+Click over here.
+"And drag an arrow on. Not that one, the one sided arrow. The one to the right. "
+So you have to have an arrow going from there back up to there until the condition is met. Good enough.
+It'll be in your Google Drive.
+"Open your Google Drive and it'll be there. It should be. Go back to the Draw.io file, and there should be one that's either save or download."
+"Save as, and the Google Drive. And there it is."
+"All right, just submit the work, fill out the exit form, and we should be good to go."
+All right. Anything else you need before I go?
+Thank you.
+17
+I don't know what number I'm on.
+Okay.
+I'm not sure what they're expecting to get out of a pretty much silent quiz.
+"Oh, crud."
+"Oh, crap."
+"No, you're all right. This is just a terrible system for doing this."
+"Here, do you want to put it on your desk instead? I move a lot less."
+"No, because I don't have the... textbook section for 711, because I don't have up to that page."
+"No, I don't have, for section 23 because this is only most of the book. Mine stops at page 600. Or 550, so I don't have that. So I was just going to work from the end and try to figure it out."
+I was just checking this one out.
+"Alright, the only one I've got left is 15."
+"Alright, I should be done."
+Number 17?
+Yes.
+"Wait, I think I did it right. Hang on."
+"Never mind, I did wrong. But I know how to do it right."
+It's using the bubble sort. So it's essentially checking at each array whether or not the adjacent numbers are greater than or equal to each other and swapping them if they're not.
+"Oh, wait, no. I was right the first time."
+What?
+"Okay, neither do I. I'm assuming it's selection sort, because that's the only one we haven't looked at yet."
+"I got this one wrong. Oh, I got two of them wrong. Or one of them wrong, actually."
+Are you serious?
+Yes.
+I know.
+Alright.
+"Yeah, that's what I got as well."
+"You mean the last one? Honestly, I have no idea how a section search works. I don't have my book with me to check."
+"Well, it Says it'll be on page 200 something?"
+"Actually, you're right, it didn't give you a spot for that one. That's weird."
+Number 11?
+Yes.
+The last one?
+"Bubble, should be, yes."
+"And I think 16 is selection, but I'm not 100% sure on that one. I'm just guessing based upon the fact that it's different from the three that we've seen so far. And I've got an answer for 17, so I'm going to try that."
+Oh. I don't think that was right.
+"Okay, so I got eight and nine wrong."
+And I got 17 wrong.
+It's going to be compiler error.
+"Why, I'm not sure."
+"Yes, it's a compiler error. I'm not sure which one nine is, because it's not index one."
+Eight and nine.
+Not sure why though.
+Sorry?
+"Oh, I was looking at the, I already submitted. But for question eight I know it's a compiler error, but what part of that makes it a compiler error?"
+Then the brackets and then numbers.
+"I thought the textbook said that was also okay, just not preferable."
+"Yes. It said the same thing you did. You should declare the type with the INT and the brackets, but it also said the other way was acceptable but not preferable."
+"Yes, it's in here somewhere. I remember it was right at the beginning."
+"Allowed, but not preferred, yes."
+It would be integer.
+"Well, by process of elimination it has to be, because question nine which I also got wrong, the other three say it has to be an error. So by process of elimination, that means eight has to be compiler error."
+Yes.
+That one was question number eight.
+"Yes, eight and nine."
+Completely. I'm not sure would have been possible for me to have gotten it more wrong.
+"It didn't tell me which part of it's wrong, though."
+But that answer is wrong.
+"Oh... okay, I see the issue."
+"Yes, that'd be it. Well, I know what I did wrong on eight and nine."
+"Yes, the other one I got wrong is 17. I think you got 17 right. You got 17 right, I know you did."
+I think you got 17 right. Yes. Oh man.
+Huh? I mean if you wan to.
+No. I would go back.
+"But, you got a 27 out of 29. I like that."
+"Okay, yes, 17 is [crosstalk 00:32:53]"
+"Yes, I realize that now."
+"And then it searches the wrong half, that it doesn't exist then."
+"So it returns negative one, because it doesn't find it."
+I figured that out about 30 seconds ago.
+"I scrolled back down and I was like, ""Oh, binary search. Oh."""
+I was thinking of it like a linear search.
+Three two five one.
+Return of eight.
+Two three five eight.
+"Alright. I am through it the second time, the only one I don't have right is number 17. Didn't you say you just got that one?"
+"Oh, and I went back and fixed the earlier question for eight and nine."
+
+17
+This is printing a bunch of zeros?
+Let me see your randomizer under the generate numbers.
+"You're not generating the numbers for the array. Right now, yoive just got it set to generate the dimensions of the array, and then to print the array. You don't actually have one set to populate the array. That's what this part is here. Its got the four loop to go through all the rows, and then the nest and four loop to go through the columns, and each one is generating the number between zero and nine at that spot, and then moving on to the next one. So, you need this bit. And it's the exact thing that's right here if you want to see it. Do you want to bother to look for a second to see if you can see it?"
+Okay. What was it to set the minimum value of randomized number again?
+What was it to set the minimum value of a randomized number?
+"Go back to your code for a second. Oh, two plus, yeah."
+Yeah.
+Oh.
+"He is, I'm not. I'm working on summing each column, and then finding the average."
+"I'm going to renew it, go home. Then, go to column. I'm not sure why. It's giving you an out-of-bounds error, so take the one out of that randomizer. For the plus one, sorry. And try running it again. I'm just trying to narrow down whatever is different from my coding."
+"Well, it's telling you it's out-of-bounds somewhere. The thing is, I don't know where. Well, you're out of generating numbers earlier. They're just all set to zero, so your problem is probably within the section where you're generating the numbers because it was working otherwise before then. There we go."
+Do you want me to just email this to you so you have one that works?
+All right. Just run it a bunch of times. Just makes sure it works reliably.
+"Run it a bunch of times to make sure it works reliably. Yeah, it's working."
+Okay.
+Yeah.
+"All right, you're all good. I'll just make sure to send it to you before I leave class."
+All right.
+All right. See you Thursday. You're all right?
+Yup.
+"She had to head out early, some family thing."
+"Not really, no."
+Just ...
+17
+I thought that was due last week? 
+I should probably start working on that.
+You're fine.
+"Yeah, should be."
+"Yes. So, for problem 2, since we're working through an array of characters instead of an array of integers, is the easiest way to populate it with characters to, like, assign A-Z, a letter each, and then convert it? Or to work from existing... or is there a way to just randomize letters in the code itself?"
+"Yeah, like generate a random number and they ask you a code range, and..."
+"Isn't there something, 2-cha, or something?"
+"So it'd be draw 8, I'd cast... 2-cha, pretty much."
+"Well it's coming from one way or the other. But, uh..."
+"Yeah. This guy's going from character to number, but..."
+"And I should just put that in the factor, just to like, generate random numbers, and convert those numbers..."
+Just put another 4-loop.
+"Okay, so it's an extra loop to convert it from a random number in the range, to characters."
+So just converting from the integer of the ASCII too... ASCII too?
+TO the characters yeah.
+"I just didn't want to go ""1 = A, 2 = B"""
+"It would be a little bit time consuming, yes."
+"Right, I have internet in front of me. What am I doing?"
+"Let's see. You're turning average, so you have to declare average somewhere... you got it right there. Maybe because it's outside that lower bracket? I'm not sure. I think it's got something to do with where it is? Like outside that bracket? But I run into that all the time, so I'm not really sure."
+65. 90.
+"Yay, wow, I actually got that working. All right, I've got the first part of the second question done. I've got it converting from the integers to, uh, the coordinating string, now I just have to search it."
+"Um, for searching the array, once I've got them converted to characters instead of integers. Would it be better to, uh, save the index of each character and search the... I'm asking that wrong. Would it be better to search the numerical values of the randomized numbers? Because I've got them in a separate array. Because I've got my character array and my main array?"
+Yeah.
+"For some reason I was thinking it was easier to search for an integer than a character. Yeah, I got it."
+Yeah. 
+"And do I have to do that in a separate method, or does it just need to be in a search?"
+Okay.
+-1 if it doesn't exist in the array. Got it.
+Got it.
+And I figured out that thing from earlier. In order to convert it....
+"I literally just had the character array set to the main array, but character."
+"Hooray, Google. "
+And it has seemed to work. 
+And a quick follow up question to that... 
+"For the... if this would like to work with me. For the RAMization [00:24:46] which is here, it's the minimum value in front, and then the distance to the maximum value, right?"
+Um... actually no.
+"Oh, there it goes."
+"Wait a minute, I get what you're saying, this is working."
+"Int math, at random, max minus, min plus 1. "
+Plus min.
+"It's like the rest of my coding, janky by somehow functional."
+"That's how half of my labs go. He just goes ""I'm not sure how it's working, but it is, so you're free to go."" It's a good thing I'm not doing this for a career."
+I took [inaudible 00:26:07] computer science 1. 
+"I did like Visual Basic back in high school, but that was like, Freshman at high school. "
+"Cool. I'm most of the way through 2 now. I'm just working on the search bar, and then it'll be good."
+Thank you.
+[crosstalk 00:28:20]
+You have to go?
+Okay.
+"Ah, it's fine."
+Yep. Tomorrow morning.
+"Yeah, I'm just working on the search component."
+"Yeah, she had to leave early for something."
+17
+"I have got it printed correctly now. The only thing I have left is the comparison, which I am working on now."
+To print five times?
+I think the scroll is the same thing.
+"Well I have got it set with the rows and columns looping like this, hang on. Got to set rows and columns looping five times and nine times. Printing the major except that row and column. Closing the first one, so closing the column. Then skipping a line, and that will loop, and then I just have press enter - end to skip a line after that. So I have it printed right below the [inaudible 00:04:26]."
+What did you name your ... Array. You just end it ARR.
+"Instead of doing Array.length, just put five and nine like I did, because I have that working."
+It might not be the directly proper way but it does work.
+"It should be, but when I changed mine to just the numbers it worked. If it does not fix it, you can just control z and change it back. It is still working the same way there."
+"I do not have mine in a separate method, so that might be part of it."
+"I think ... no it would not be there, so I will put it there."
+"No, it is right. So, in the first two, first three, first four, first five. Yeah that is right, the only thing different is it's not a syncing line in between."
+I just need to figure out what it is doing lightly.
+Maybe.
+"Well we have more time than we did before, because the test got moved to Tuesday."
+"Well that is next Friday. I mean I not ready for it either, but I am not at the point of panic yet, I only panic three days before."
+[inaudible 00:21:11]
+All right.
+[inaudible 00:21:48] do you have a quarter?
+Do you have a quarter?

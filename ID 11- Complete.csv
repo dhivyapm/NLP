@@ -1,0 +1,226 @@
+ 28th.
+11
+ Max [inaudible 00:00:23].
+" That basically just goes through and if no numbers bigger than it, then it doesn't do anything."
+ I get it.
+"Then when you initiate, you said the one that you're looking for is biggest to zero, right? And then you just assign it to whatever index it's at."
+"That basically just goes through and if no numbers bigger than it, then it doesn't do anything."
+I get it.
+"Then when you initiate, you said the one that you're looking for is biggest to zero, right? And then you just assign it to whatever index it's at."
+"All right, okay."
+"So this, you do while the number of the index is greater than that. You assign the number of that index to that, and then that index-"
+I'm trying to find the largest number in it.
+"Okay, and then this will go through all the indexes but nothing will get assigned because of that, right?"
+"Index is just like, the index that the largest number is located at, right?"
+Yeah.
+"Oh, how do you make it display like, the number that it's at?"
+Okay.
+"Yeah, so what would I assign for that though?"
+Location.
+"Oh, gotcha. Yeah. And you basically do that same thing for the other one they wanted to make into an array but you just keep doing it, right?"
+"All right, got the first two parts down. Calculate the hourly r..."
+Why does it have to have the same size if you're just...
+Why does it have to have the same size?
+You need the size before you make...
+Okay.
+I don't see anything about vectors in the book.
+Tanner are you done?
+"I'm not surprised, you've been using arrays like this whole time."
+(laughs)
+"Uh, is that the right logic for that?"
+"If source that index is greater than average than high numbers that index, is that an index?"
+"Yeah, they just-"
+Which one?
+Yeah.
+"Oh, okay. So what would I put?"
+So you're saying that should iterate in here and that should iterate on its own so that that goes through and then this one only iterates under that condition?
+"Okay, yeah I gotcha."
+"So like, I got the... All right, so I got that set of zero out there. Yeah, I got you. That makese sense."
+What else did we need to do?
+We don't even print.
+How do you shuffle them?
+Do another for loop?
+What happened?
+"So to shuffle em, you literally just make the same for loop again?"
+"All right. There's another way to shuffle em, I read in the book, but whatever. Create another array of the same type and assign the... yeah that's what I was gonna do. Just do it."
+Can I see it? What did you have wrong about it?
+Oh you didn't initialize the first one?
+"And ohh, okay, word. Yeah these are pretty easy."
+"What did you... okay, so you didn't even put in a size in there yet, and then you just-"
+"Wait no, that wouldn't be right."
+No.
+"It has to be the same size as the other one, right?"
+"Yeah, yeah yeah."
+Start equals...
+And then what did you do? A while loop?
+While start is less than array size?
+"Oh yeah, 'cause it's supposed to go... it's supposed to go from the half of that one to that one, but it's-"
+"It didn't say to print any other arrays though, right?"
+"Okay, so this is what you did."
+"'cause that starts it at that, and then that starts it at zero. Okay."
+But we're not supposed to output any of the information? Like it's just supposed to...
+"Oh shit, what?"
+"Nah, 54? Wait no, line 15. Nah it's gotta be this one."
+What...
+Isn't it supposed to be array size divided by two though?
+What does yours look like? 'cause that's weird. All my other stuff worked.
+"Wait, no yours is different. Count is less than size divided by two. So I'm supposed to do that same equation for that because you don't want the count to go further than how many numbers you're trying to copy, right?"
+"Okay, that's probably it."
+That makes sense.
+"No worries, yeah it works."
+Yeah.
+Yeah I don't know why we're not supposed to output any of that but...
+All right well no I'll see you tomorrow
+"I said see you next week, but I was like, ""No we have a lesson""."
+I don't know if it's like weird to [inaudible 00:25:13]
+[crosstalk 00:25:13]
+"Oh, yeah okay it works."
+[crosstalk 00:25:39]
+I figured there's a reason you guys [crosstalk 00:25:48]
+Oh we're done with our recorder thing too.
+
+
+
+
+
+
+
+
+
+
+11
+Say what?
+"Well, I was printing a reference, that's why. Because I asked Chris ... or, I asked David [crosstalk 00:05:03]"
+What did you have to do?
+Mine says it has an error 13.
+"Oh, no. Is it this? But that wouldn't make sense. Well, it's one to nine, right?"
+That still wouldn't make sense.
+I don't know what's going on [crosstalk 00:07:32] out of bounds. Two.
+"No, it does the same thing."
+I don't understand. They're just literally exactly the same. That makes no sense.
+Say what?
+Where?
+[inaudible 00:10:42]
+"Hey, David. I'm getting an error, saying that it's out of bounds, but I can't really figure out why."
+"Yeah. Oh, so that's ..."
+"That's counting ... yeah, I got you."
+No.
+"So, there should still be the both brackets too, right? I mean ... Let's see why that one"
+"It's not the first time my computer's done some weird shit, though. Honestly."
+"Oh, wow, Jesus. It looks so similar to [inaudible 00:14:00]."
+Yeah.
+"All right, I got to redo that. That should [inaudible 00:14:48]."
+"Is it still ... did you ... these were swapped, though, aren't they? Are they not?"
+"Oh, yeah. To find the averages, I mean."
+Mm-hmm (affirmative).
+All right.
+"So, that flips it around, basically, right?"
+And then ...
+And then you do average I plus ... what is it?
+You do average I plus ...
+Yeah.
+"Oh, you do both of them?"
+How do you print it?
+How do you print it?
+Yeah.
+Do you have to ...
+"You have to share the average of it, right?"
+"These are kind of confusing me, honestly."
+Yeah.
+I don't know what's wrong with adding the averages up.
+"[inaudible 00:18:46] the error was this one, though."
+They're supposed to be swapped?
+"That's where it said the error came from, so I must have done something wrong with that."
+It's out of bounds again. What the hell?
+Oh.
+"Oh yeah, okay."
+"Yeah, because those are in the [crosstalk 00:19:36] yeah."
+"Wouldn't the average be ... you have to divide to get that, though, right? What the ..."
+Yeah.
+"It's still saying I got an out of bounds exception, dude. What the hell? I got to read the chapter in the book about this, because I don't -"
+Oh.
+"So, you do average I divided by dimension one or dimension two they're ..."
+Why is it printing so many of them?
+It's the first one?
+That looks right.
+"And then you got to find the max, right?"
+How do you ...
+You have to find the max in a different loop.
+"Wait. Wouldn't this have to be ... if you're going to find the greatest average, wouldn't you just have to put an [inaudible 00:23:02] statement in here?"
+Is that what you did?
+"What's it for, though?"
+"Oh, yeah, I got you. For each average."
+ 11th of... 
+"Wait, what?"
+What are you talking about?
+We probably get no extra credit for that. 
+"Okay. [crosstalk 00:03:35] So that would be it for filling the matrix up, right?"
+"Oh, and it has to return it, right? I don't remember. Dude, that's my only thing that I hate about working on my laptop only, is that I'll read something and immediately forget what it said. And I have to click back and forth so many times. But when I'm at home I have my laptop and my desktop so I can not do that. "
+You finished the whole thing already?
+"The second part of the first thing we're supposed to do? This isn't that difficult, though. "
+"There has to be a simpler method though, for average?"
+How do you use the method to define it?
+"Hmm, so I should do this part and then pass that in, basically. "
+"Yeah. So it's going to need the size in the main method, or else I'm going to... Yeah. I noticed that you did that and I thought I might be able to just do it for the other way, but it's not going to happen. I'm sure there's a way to do it, but it's probably not anything I'm going to want to find out how to do. So yeah. Forget about it. "
+"Hold on, but here we go. Now I have to change all my variable names. "
+"I'm just going to. I already moved everything. It's okay. I know what I'm doing, so it doesn't matter if you finish way before I do. That's no big deal. "
+Yeah. 
+Is there a way to make it so I don't have to declare my scanner in every method?
+"If I do it outside the main method? Like, here you can do it. "
+You can do that?
+"Okay. Then what do you do to search for it? Would you do like, ""If X contains the character"", and then you would do like... You would return the index letter or something [inaudible 00:09:12], I guess?"
+"You only need to return an N value for the average one, right?"
+"Okay, yeah. Just trying to be careful. You know, we're doing all this freaking, whatever. "
+"So this is just the same thing, but with a four over the anchor then, right?"
+"Yeah, yeah. So these are easy to make, really. "
+"You got to pass in the... the real and [con 00:12:01] values, right? For the average one, too?"
+"They say you're not supposed to use the same variable names, but-"
+I'm not going to use different ones if I'm doing the same exact thing. 
+"Oh, yeah because they're separate so you can just, yeah. "
+"Okay, wait a second. So, for the average you would do average divided by the two array dimensions added together, right? Like the, each dimension and then that's what you would divide it by. Like if it's two and two, you'd do two plus two or whatever. I'll just try it. Just see if it works. "
+"Yeah, that's why I was looking out there. "
+Kind of. 
+"Let's see. Oh, it doesn't even need to pa-, did you print the value of the average in your method or did you return it?"
+Okay. 
+"Yeah, probably not. [crosstalk 00:15:37] "
+"Oh, I see why you did a double, though. "
+Because for finding an average it gets weird. 
+Is that part easy?
+"Oh, so you're supposed to have the method that creates it and then the second method that searches it?"
+Okay. 
+What happened?
+Oh. What are the numbers for the random number generator? For the right screen values? 26 to-
+"I think that's what it was, yeah. "
+"Thanks. All right, so you have to return this array from that. So I got to declare an array. Ugh! [crosstalk 00:20:42] "
+"What? Wait a minute. Can I see... Oh, it's right there. Oh, you have to do [care 00:22:09]? What? Does that work? I'm assuming it does because yours is up still. Your cast is characters and it works? Okay, yeah it does. Wow. "
+Should probably what?
+"Oh, just to make sure it works?"
+I hate when it does that. 
+It auto-fills it in with fucking [Carat 00:25:48] or I mean [Has next 00:25:49] instead of next. 
+"Ooh, ooh. What happened? "
+Really?
+So what are you doing for the search method?
+"Oh, I don't need to do that. I can just use the fucking things I got. Okay, wait. What? Okay, yeah, yeah. "
+Should I initialize these before I measure? Like in value one. 
+"Yeah, got you. "
+"All right, and then what do you do [inaudible 00:29:56]? First and second? "
+"Wait, no. Yeah, yeah. "
+"Yeah, because this is what's bringing back the... Yeah, I got you. Yeah. All right, so then you would do... Then you just put these two values in the array after it's done, right?"
+Okay. 
+"Oh, wait. But this has to be the same name as my array, right?"
+What did I name this fucking thing? Jesus. Equals I and index of search one equals J. 
+What is this? 
+Yeah.
+Then you return it?
+"Wait, what?"
+Do I need to put my thing here? Why is that-
+Is that it?
+What? Oh. 
+"All right, so how di you make it say-"
+How did you make it say if it wasn't in it? Basically if it equals negative one? You do it saving outside?
+Yeah. 
+Oh the 2223 class?
+"Oh, you guys are taking a different one than I am. "
+I'm in 2223. 
+"All right, I think I'm done. "
+Yeah. 

@@ -1,0 +1,1994 @@
+"All right, so then the user needs to choose the ... You want straight to the ..."
+"So this one is for choosing, right?"
+So if one ...
+For the dimensions?
+"If it's a square, it's going to be for one side. If it's a rectangle, it has to be two."
+Then the program needs to do the-
+"And the print is in the rectangle, right? This one is just for processing this. That one is for showing the result, right?"
+"No, that wasn't my question. I'm talking about the figures. If one, then you ask for the side."
+This is the rectangle that shows-
+That's what I'm trying to say. The rectangle is the one that ... It's not showing. It's processing the formula.
+"The method, but it's not showing. This is going to show."
+Sorry.
+"If not, then they can choose ... I'm still behind. This is yes, right?"
+Yeah. So then it's going to go to another if?
+Trying to remember. What is the formula for the rectangle?
+"Otherwise, I don't understand what I'm doing."
+That's what it says?
+"That's in the program or that's in [inaudible 00:05:35], right?"
+I don't know. That's a triangle.
+"I'm still behind, you can ..."
+Excuse me?
+Double because of the answer.
+What is that? [crosstalk 00:07:27]
+"Yeah, I'm almost done. I'm almost done."
+"If not, then we cancel it, right?"
+You have to [crosstalk 00:08:49].
+Yeah.
+[inaudible 00:09:18]. I missed two steps. I'll fix later.
+But I know what it is.
+"You're writing now, I'm sorry."
+All right. I think it's recording.
+It's working now.
+15
+"Oh, yeah."
+Why?
+Are you sure?
+"Are we creating our method? If you read right here, it says ... I'm just going to follow you because I don't really know."
+I thought it was supposed to be [crosstalk 00:11:05] statements.
+But do we have to do ... Can we just use that one?
+The first one?
+"Because you're doing that, right?"
+What did I do?
+Yes.
+"I'm sorry, I'm not ... Yeah, it's the scanner first."
+No. Yeah.
+Choose from the following menu.
+What about the exit?
+Can we add another one [inaudible 00:13:47]?
+It doesn't say in this. We can fix that later.
+Why a string?
+"So it shouldn't be ... How do you do that? Because we're given one, two, three, four."
+I feel we have to use the if.
+"But inside the if, we have to create our own method."
+Why are we using a string again?
+"No, I know that. But what are they going to enter, a square?"
+"No, no, no, but that I know. So the thing is that they're going to get confused if we put one square. [crosstalk 00:15:46]"
+So let's keep going then. String choice. It's not N.
+"Next line, that's what it is. So then we have to use the if, if choice equal to square?"
+"Oh, yeah, because how do you do that?"
+Which one are you looking for?
+So it's choice dot ignore case equals ignore case?
+Ignore case? Yeah.
+"Sorry, no. It's not choice. It's equals ignore case dot choice."
+In parentheses. I did something wrong here. [inaudible 00:18:29]?
+It's not capitalized.
+"This is what it says. Equals ignore case and then in parentheses, it's one."
+That's just ...
+I think it's-
+Square.
+"It doesn't have to be capitalized, right? Yeah."
+"What if they enter ... Oh, yeah, nevermind. I got it."
+"[crosstalk 00:20:07]. We're using the bubble, right?"
+"Why? Oh, yeah."
+You have to start the scanner again?
+"Yeah, because you put [crosstalk 00:21:00]."
+"No, you're not supposed to use double. I mean the uppercase."
+Double length. What'd you use for ... You can't use length.
+Because then you're going to use length and width. It's not going to ...
+Side.
+"S, side. Square side because we don't want to confuse ..."
+Are Justin [Ganey 00:22:03] and Austin Rogers here?
+What are we doing now?
+So it should be [inaudible 00:22:40] double and the square?
+"Wait, I'm sorry. I'm sorry, [crosstalk 00:22:58]. Why you do that?"
+This one.
+"The double result, yeah."
+"I got confused. I thought it was the other way, but okay. I'm going to follow you because ... Double result square. Then we're finished with that, right?"
+"No, no, no, I mean ..."
+Now you finished the double? I'm sorry.
+"Because I thought it was the other way around, so you're doing it differently."
+Double side.
+It's giving me an error.
+Why are you confused?
+That's fine. It's the same thing.
+"She didn't call it right there, the one that you're using here, the double result."
+That's why I was confused.
+It shouldn't be [inaudible 00:25:42].
+"No, because it's going to give us a double answer."
+"It can be, but is that what she wants? But I'm saying, is that ... That one that you're doing right now, I don't think that should be there."
+The one that you just corrected.
+Mm-hmm (affirmative).
+"That is funny. I'm trying to think. They're done? So we did that, right? The problem, we declared that. Then now here, this is going to print the result, right?"
+"That's what you're doing with the double, right?"
+Now that's the thing. I don't think that's supposed to be there. I think it's supposed to go straight to the print.
+That's what I mean.
+"But we don't have that yet. At least we have that first and it runs, then we can do the rest."
+"You used square, I used something else. [crosstalk 00:29:10]"
+"No, no, you're good. I'm just getting confused. It takes me a minute to realize what I'm-"
+Yes.
+"So you got the [inaudible 00:29:39] double and then square in parentheses. That's double side, that's correct."
+What about the results?
+It shouldn't affect that.
+Why?
+"You have to use also the ... Oh, you got those. What about the double result?"
+That's what it's asking you.
+That's different. That's what they wanted us to do. That should be it. But it's not working. [crosstalk 00:30:37] twice for result because-
+"Oh, yeah. I thought it was double."
+I'm just getting right here.
+It shouldn't matter because we have the side here. Then it ran it.
+Put it in ... It shouldn't matter.
+It shouldn't matter.
+See what it says here.
+You don't need to open that one.
+You went too far.
+"No, you went too far. I think it's in the next one. [crosstalk 00:32:35] because those are the ones on the top."
+"Yeah, you can try it."
+But that's not for that one.
+[crosstalk 00:33:20]
+Huh?
+"Why? No, it shouldn't be a loop. You want to do the loop for the whole thing or just for this? You're just throwing ideas?"
+Yeah.
+[inaudible 00:34:08]
+Now let me catch up.
+Where am I?
+Why don't we use the math?
+The math method.
+"No, the pound, the parentheses side."
+"It's right there, times two."
+"No, that side. Erase that side and continue to two because if it's a square, you have to ..."
+"No, I didn't mean to do that."
+"[crosstalk 00:36:22], so now I think I got something wrong. It's probably my words because I'm-"
+Square side? Right there?
+It's right here too?
+"Yeah, or this one."
+"No, no, hold on. Let me ... [crosstalk 00:37:33]"
+This is the end of the whole thing?
+So here.
+What is the width and the length?
+Length and width.
+What is the length and width?
+Now we have to use ...
+"That's what I was trying to say. My words, sometimes they don't want to come out."
+"So then double result, right? It's another result?"
+Did we finish what?
+"No, we're not done. One leg is hurting, I want to know what's going on."
+"This one. I think it's because I came running, that's probably ..."
+So you have to copy ... Hold on.
+Inside the other method?
+You see I have two here?
+"So where do I start, here?"
+I don't know [crosstalk 00:41:56].
+What is giving an error? It's giving an error?
+"So it's double length, double width, right?"
+Length times width.
+I don't have an error. It's probably brackets.
+"Yeah, probably brackets."
+I don't have any.
+"The second condition, that's what I was trying to tell you. Right here, so we have to do the same thing? Right here, right? So it's double-"
+"All right, don't we have to ..."
+Okay.
+"Yeah, so it should be system ... That?"
+It's working for me.
+Put it right there.
+The X.
+You have to put double.
+"But not on that one, on the ..."
+"Yeah, down there."
+"Yeah, right here. Double and also width."
+[crosstalk 00:44:29]
+So it was rectangle?
+"Hold on. Got it. Yeah, it's working."
+So I'm just going to copy.
+Let's just copy.
+"I don't know. I'm just going to go in between here, right? Right there, right?"
+So this is now the triangle?
+What is the length? Now we have to-
+"Height and base, okay. In that order."
+Not necessarily.
+Hm?
+That's okay. I don't know much of this. [crosstalk 00:45:59]
+Hm?
+"Height, I think I missed an H. The method should be the same thing, right?"
+"Now if I copy this, it's going to go where? Here?"
+Now it is a triangle?
+The double-
+Height and base?
+This changes to ...
+You got it?
+"Yeah, that's the problem. This is ..."
+Height times base divided by two. You have to put that in parentheses.
+"Height times base in parentheses, divided by two."
+"Yeah, you'll get-"
+Why?
+"I put in like that, but that's okay."
+"Four times four, 16, divided by two, eight. Like that, so it's right."
+"Oh, it's ..."
+It's right here. You've got [crosstalk 00:48:31].
+Mm-hmm (affirmative). You put that on the ...
+What did you do? I'm sorry.
+"Oh, yeah."
+So the next-
+Sometimes you have to laugh. That is-
+Circle. That should be easiest.
+We just do radius of the circle. We only have one variable here.
+We're still working.
+Do we have to return this?
+Number three.
+Yes.
+Did you see the teaching?
+"Let's go home. I'm not, it's recording."
+We can't say those things.
+"14, 15. This computer is acting up."
+"They already got it, so I think it's ..."
+Activity 16?
+"Substrings, I know how to do this."
+"No, I don't know how to do this."
+It's right here.
+The length.
+"We are on activity 15, right?"
+"16, okay."
+I got lost.
+Activity 16.
+"We still are using the ... No, we're going to use methods, right?"
+"Practice on using methods, [crosstalk 00:54:31] value."
+"Develop a string method, yep. So we need to develop a problem that gets a string and counts the numbers of vowels. Write this step by pseudocode."
+Did I use 19?
+I don't know.
+"No, I just did it. I forgot ... Pseudocode."
+"Yeah, so prompts users ..."
+Prompts users for a string?
+Do we need to put that?
+Let me copy you. I'm not going to put a string. It's just too much information.
+Call the-
+"Program counts vowels on the sentence, count vowels."
+"Call method. We don't know which method, right?"
+Yeah.
+"Call method, counts vowels."
+Begin method?
+"Do we have to put that too? On the pseudocode, we have to put everything that the problem has?"
+"Oh, that's probably why I got you. [foreign language 00:57:36]"
+Begin method.
+So let's create the method first.
+It's a string and numbers ... Just a string-
+I think it's value. The string counts the number. It has to return a value.
+Which parameters-
+Okay.
+Start loop for counting the vowels.
+"I guess. Then the problem counts ... It's not actually a problem. It's the method that counts. So the method counts. We should add that too, method counts. I'm going to erase that, counts vowels."
+We have to do the flowchart.
+"Yeah, method counts vowels. But we're not done yet."
+"We have to return the value that we're going to display, the result."
+"Return, our method returns ..."
+What?
+Okay. Number of vowels?
+Now we can do.
+Do we have to do that together individually?
+[inaudible 01:00:24]
+"You have the instructions, right?"
+"You can put it right here, so it blocks."
+Even if it falls.
+What?
+"Good, you get the instructions."
+The string.
+"Yeah, enter a sentence."
+"Oh, S."
+It's one? Just S.
+That goes [crosstalk 01:02:08].
+How do you call the method?
+Do you have the book?
+I don't think we have to do that.
+That's what I'm saying.
+"Okay. We're not using any of the statement, right?"
+We're not going to use.
+"Because we're counting the ... Well, yeah, we are going to use. If the user enters a number instead of a sentence ... That was my bad."
+"It's probably not recording, all right."
+"Last time I did that, it went bad."
+Why are you doing that?
+"Oh, you're giving the count?"
+"Yeah, but this is what we're going to print. This is where you're going to print the count. So print, how do you call it? Vowel count?"
+String.
+"No, I didn't listen."
+[crosstalk 01:05:40]
+
+So we're doing it wrong then.
+Mm-hmm (affirmative).
+What are you doing now?
+We're supposed to do that too? Are we supposed to do that too?
+How do you include that in the flowchart?
+Mm-hmm (affirmative).
+"It's not going to show, okay."
+I was going to do the [inaudible 01:09:00].
+The what?
+"I guess, I don't know. I don't think [crosstalk 01:09:30]."
+What is the name of it?
+I don't know that.
+I don't know that. I didn't read that far. ... We can't do that. No we can't. We can use the same network with different parameters. I didn't read that far. So I have to go to even for three hours. I'm probably going to fall asleep.
+I think I'm wrong but-
+"Okay, I failed on the same thing I told you. Remember I told you that if you erase a fact it will [inaudible 01:14:17]. THat's the same thing. But I ..."
+A method ... variable defining a method. It's not the same ... I think it's that one. Because the argument goes inside the thing. We can't tell right?
+How many methods. I don't know. How many methods. And I don't know. I thought it was four.
+I thought it was [inaudible 01:17:31].
+"One, two, three, four and five."
+Now it's the next one. That's an input.
+Almost forgot about this.
+No I don't think so.
+This is the first time I got two. So I'm happy.
+What is easier for you?
+"Okay so let's use a while. I know both, I just don't know how to do current."
+You're creating the counter.
+Then length equal [extreme 01:19:04] length.
+"The counter is ... why you using that? Okay, I know what you're saying."
+"I'm still on the top, because you were working while I was ... the current less than-"
+"Yes, or we're gonna go that way."
+... you put counter or count?
+... thought he was talking to us. Okay. I'm with you now.
+Mm-hmm (affirmative). If counter is less than length?
+Loop?
+Just the vowels? So what if you use a new statement saying that ... how do you put a condition? With the A? We're gonna have to use an other if.
+While the index is less than the length of the string so-
+If the string is not equal.
+[inaudible 01:21:38] gonna get above. What counter are you using? Why you wanna create another counter?
+So A equal 0.
+If index is equal to A E I O U.
+"Then the letters, the vowels."
+I just put vowels.
+Y is not a vowel.
+Sounds like a vowel but it is not.
+Why?
+Do you think it's easier to do the method first and then do the-
+But I can't work like that. I find it easier to do-
+Yes. But let's finish with that. So we have that then we have to print something. Then we have to count.
+So we have to count eggs.
+"Our printing? Not yet, right?"
+"No we're not printing anything, because this is the method."
+The no goes to the end of the loop. To the end of the method.
+Don't do that. Why not go this way now?
+"If no, then it also finish the method, right?"
+"Definitely that will not do? We're not doing anything else, right?"
+Okay. So that's it. Then we're done.
+If you want [inaudible 01:25:55] goes back up and then you can-
+"When you do it like this, that's when you make it make bigger from here to here, yeah, something like that."
+I'm making bigger.
+"Number of vowels, and X [inaudible 01:26:35], yeah you're right."
+Then this goes up again here.
+If the counter-
+Then it goes ... it ends the method.
+Also if this and this is not ... are we counting the vowels? Or are we counting the letters? Consonants. What are we counting? This?
+So we're counting the vowels?
+So that's right. Are we have to print the L stem?
+"I don't think so, right."
+That make it too difficult. No. Just like this one. Like this I think. Okay. And I don't know how to-
+The what?
+Yeah. You can put that one there. You can print that one on there. I got this.
+... this guys [inaudible 01:29:20].
+I guess.
+"That should enter there. Okay good. Now we're gonna go do the method, right? Are you already printing the thing?"
+It's S.
+"The name of the method is counter, right? Counter vowel?"
+"Vowel count, and then the S."
+"Yeah, so it's probably ... static, right? Eight vowel count?"
+Just using the strain? I'm not using anything else.
+Counter ... equals zero?
+Okay. Then we'll go for the look. While.
+What's your worry?
+What is your question?
+Well there's a wild life.
+"So ""int"" length equals S dot length."
+S is equal.
+Yeah you're right.
+Should be less or equal.
+Because if you're doing less it's not going to take the last number.
+Yeah you're right. Because starts with zero. You're right.
+"We have to open all the braces, right?"
+Just inside the loop?
+They ask code?
+"I didn't bring it, but I [inaudible 01:34:07]. I get it."
+"[inaudible 01:34:18] to bring it today, then."
+"Yeah, ignore case."
+So if a sentence ... if S contains ignore case. No. We need the index. Right?
+To here.
+"No, because in the condition we're gonna say that we are only looking for the vowels. So anything else is gonna be ... it doesn't matter if we put the vowels and the consonants, because in the condition we're only looking for the vowels. That's what I'm saying."
+Don't you think that's too much?
+"So if we want to do that why don't we create a variable, and we just put the variable name instead of that."
+It's gonna be too messy.
+"Yeah, sounds could. It's outside the loop right, or its inside the loop?"
+So I'm doing right.
+So bowlian vowel equals ...
+Right here. 61. 0061. Can we do that?
+You want the A?
+E. 65.
+69
+"6F, capitalized."
+Okay. 75. 0075.
+I'm gonna have a hard time here.
+"No, that lower cases."
+We can't?
+So let's trace that.
+"Okay, so counter ... while counter is less than length, then we want to print. We want to print."
+We're probably going to have to use the program.
+What about the A F.
+So while counter is [inaudible 01:39:17]-
+So let's try that. If ... how do you find the counter there? If S-
+S char at. Zero?
+Okay.
+No I erased it.
+Okay. You didn't tag it.
+It worked.
+We don't need the [inaudible 01:40:37].
+So let me do my ... we need the [applique 01:40:47] system.
+"It's probably something else, because it's working for me. I just need to add ... let me add one of that. Let me add just one of those. Which one is the first one?"
+Worked for me.
+Now you don't need that. You don't need the parenthesis.
+Or ... what is the other one?
+"Oh, you have to do the same thing. So when do we declare the variable for that one?"
+"That's okay, it's just the first part. Oh, I know what you meant by that."
+"And then what is value, then ... okay."
+"00, what is the other one? 0065?"
+You need to use ... let me see something.
+You got that semicolon at the end ... it's working for me.
+"Yes, because of the X, but if I get this thing inside-"
+"Oh, okay."
+We haven't declared yet.
+We can't do that.
+We can't do this here.
+What do we need that for?
+You have to use the dial.
+"No you don't need the parentheses, I don't think you need the parenthesis. Let me go back to what it was. Zero is ... good."
+"[crosstalk 01:45:01] Because if you do this. [crosstalk 01:45:04] [inaudible 01:45:04] Then it goes away, so you want this to be a variable."
+Just that part.
+What is that? It's an INT.
+Okay. Character.
+"No, that's fine."
+Just CH.
+Can we just do a general? So what can we use like that method? Okay hold on. I'm just going to do this thing.
+Really?
+Which one?
+So what is the x?
+"Okay, so let me change that. Right?"
+Okay.
+Then I got the calendar.
+We just have the ENT or it doesn't matter?
+Charl. CH?
+Equals charl?
+Okay.
+So if CH is equal to oh shoot. I erased that. Right?
+I don't know.
+You notice how this is so confusing.
+What is the four one?
+Six nine?
+Okay.
+I just [inaudible 01:48:12].
+Okay.
+75. Okay. [crosstalk 01:48:44] Okay.
+Yeah. All of them need to do that.
+"I thought I got all of the errors, huh?"
+Just because of the -
+What?
+We do.
+No we don't need it. Okay. Let's finish with this and [inaudible 01:50:00].
+Which is what? This one? That would count?
+What are you using now?
+Me too.
+Oh it went away.
+Number of vowels.
+Now it went up again.
+Oh we have to put the return at the end. I guess.
+It's return number of vowels plus plaza.
+"Oh okay. Number of vowels, so that's last?"
+Then return? Why is it getting at error here? I know why.
+We have to convert the vowels return integers?
+But it's not -
+Because you would put void then it won't return them.
+"I don't know what I did, so let me go back. I did something wrong. Okay. Alright. I'm back down. Okay. What'd you say?"
+The counter goes up?
+Why have we not implemented the counter?
+We only have one loop. Which is that one.
+So we can put it right here then?
+"[inaudible 01:54:44]. If we return the counter, it's just gonna do the times that it when, which is sixty or 59, that's what it is. Right?"
+What?
+Oh yeah. Do we need to turn it in?
+Okay.
+We have to -
+"[crosstalk 02:00:26] I like when things work, [inaudible 02:00:36] then I get like -"
+Anxious. [inaudible 02:00:45] Okay.
+Let me try this. [inaudible 02:00:56] The first one right?
+But that's what I'm saying.
+Let me see if I can.
+[inaudible 02:01:30] right?
+"It says find the maximum value, so we find it then we have to show it."
+"Yeah. On the first one I'm a little confused, so."
+Why are you getting zeros?
+"Because I'm getting a number, I just [inaudible 02:01:58]."
+You have that in parentheses?
+[crosstalk 02:02:05].
+So you're not done?
+Oh you have to put that in parenthesis.
+Yeah. The whole thing. From math to the end.
+"From the start. No, no. Oh. Yeah, yeah. You're right."
+Okay.
+"No, it's not working. You [crosstalk 02:02:44]."
+You're not printing it.
+You have to print.
+I don't know.
+Yeah.
+"Not, it's not working."
+"Not that one, this one."
+Is that a nine over there?
+Nice one. Now you still have to print that.
+I'm on the second one.
+Okay.
+Why did you put the zero?
+Okay.
+"I think, I'm not sure."
+"No, you're fine."
+I know what it is.
+Why are you putting this outside of the loop?
+"Okay, [crosstalk 02:06:05]."
+Okay. [crosstalk 02:06:05].
+[inaudible 02:07:27] massive loop.
+Then we're going to -
+"Oh yeah. You go ahead, that's fine. Why - oh nevermind. I got it."
+"I'm still here, so."
+In all of them?
+[inaudible 02:08:35].
+L.
+And m - no you can't use that.
+Okay. I'm still on the first one.
+Nice. [inaudible 02:09:03] source. I type so slow.
+Okay. [inaudible 02:10:02].
+"[crosstalk 02:10:06]. Okay. That should work, right?"
+Oh yeah. I know what it is.
+Max. Okay. It says from ten to [crosstalk 02:10:43].
+It's just that. Yeah. It still doesn't work. I don't know what I did.
+Are you taking out that one?
+"That's what I've been doing too, and now mines is not work."
+So I did something wrong here. Okay.
+Yeah.
+"And it's outside, right?"
+Okay.
+Now it works.
+I think it's scared of you.
+Yeah. I've already doing that. How many do we need?
+We're on B right?
+"Okay. So, that should be easy. Why are we using that one?"
+They're asking for the average.
+Okay.
+Are we declaring another variable?
+I think so.
+Oh. Okay.
+"So, you're already initializing that one to zero right?"
+Okay. That's right.
+Why?
+But then we have to get the average.
+Oh okay.
+I've already made mistakes on the other assignments. I printed inside and I have to print it outside.
+"No that's fine. I'm learning. I shouldn't say that, and then you go outside right? [crosstalk 02:15:26]"
+And then I have to print the total right? No?
+Outside?
+Why do you not do it in the inside?
+Okay. I'm understanding why I'm confusing things.
+No. I mean on one of the assignments. Why are you using the [inaudible 02:16:45]?
+[crosstalk 02:17:01].
+I was gonna put 2.
+Okay. I'm not mad at you. [crosstalk 02:17:24]. You make sense.
+Because -
+Right.
+[inaudible 02:17:47].
+"I got seven, and I got three."
+I guess this is right.
+Okay.
+We're doing d right?
+Higher than the average.
+High values.
+"No, high underscore values."
+Yeah.
+No.
+It doesn't have to initialize.
+"Leave it. No leave it, because right now you're gonna initialize it, because you wanna initialize it with the average."
+Right here.
+New
+You can't do that yet.
+But the size is gonna be from the size of the new balance.
+Oh yeah yeah. Okay.
+Now you have to use the ... What is the variable? Oh high values. [inaudible 02:21:18]
+"Yeah, into that one."
+I don't think that's right. What do you mean by keep doing that? We only have to have one.
+"Unless you have like a menu, and then you do it over there until it's full. Didn't someone say?"
+"Okay. You have to name it high values, yeah. And for this, you need to create a new array with the same [inaudible 02:22:42] and name it hight values."
+Should be new.
+You should print it to see if it worked.
+Lower.
+Yeah.
+[inaudible 02:23:23] I know that [crosstalk 02:23:23]
+"I know that I need to do that. I just don't ... I have to put the mouse there, so that when it starts or where it ends, you already know where it goes."
+"But I think that you're doing it right, because when you do the lines, you just print it from here to here. You're not printing them from here to here, and that's what we need."
+Mm-hmm (affirmative).
+"Yeah, you can pull that. You have to print the high values."
+Why not?
+"Yeah, I was gonna say high values, plus, and then the comma, so it prints ... You actually have to do it on the other one."
+"Yeah, that loop to do that."
+"What? Hang on. Oh, yeah yeah yeah. I'm just trying to ... I'm trying to see if I can be useful."
+"Okay. Where am I now? Okay. Nevermind, I'm here. Okay. You're using L right now, right?"
+I did.
+Yeah. I'm behind him.
+But I still didn't see [inaudible 02:26:55] though.
+Can we print the array? Or that's the array.
+The array.
+Okay. Wow. Okay. [inaudible 02:27:25]
+"I'm still behind, so. Source. Right you ... Nevermind. The shuffle is ... You saw that one right?"
+That's my case. Yeah.
+Huh?
+Okay. Let me get back to you.
+Get back. Average. Okay.
+Yeah.
+Mm-hmm (affirmative).
+Then you leave. [inaudible 02:29:42] [crosstalk 02:29:42]
+"This is something else, right?"
+Like that?
+No.
+Right there.
+"It doesn't say to display, right?"
+"Okay, what is the ... Let me see if I can ... This is the one that we're doing, right?"
+Yeah.
+Okay.
+They were gonna put just random numbers?
+N.
+Okay.
+Why?
+Because you don't have a ... The-
+No no no no. You're done. [crosstalk 02:32:17] you have to plus plus plus. That's what you're missing.
+Oh.
+Yeah. I thought you were doing the loop. I'm sorry.
+"Nevermind. I don't wanna get behind, so-"
+"We're doing okay. Getting the random number right now, right here."
+I'm already-
+Okay.
+In one array.
+"It won't get it until we're done with that. We don't have to use the array. It's just a number that we have right? The index, right? We're just getting a number, right? [inaudible 02:34:35]"
+Okay.
+Why?
+Okay. Okay.
+You're really close to what?
+"Because I'm asking questions, that's probably why. Okay. I'm caught up with you."
+Do we have to print it?
+How did they know they-
+Target.
+Okay. So we're done with that one?
+Okay.
+X.
+"No, target. Nevermind, I'm sorry. I'm trying to be fancy."
+Are you using the same-
+Okay.
+Should be divided by two.
+Yes. But we need to divide it by two.
+Because it says half. So you enter 11 divided by two. That's half.
+But we can use half.
+That's good. Yeah.
+"Now, so the lens is gonna be divided by one half, on the second array, right?"
+No.
+"Okay. So like you said, baby steps."
+Q. We cannot use an I.
+"Yeah, we could have used I."
+"Yeah, I have too, but we could have used I for all of them."
+Yeah. Because of different loops.
+No.
+And because you're just using the I for this loop.
+"After you're done with that loop, then you don't need it anymore."
+"Now if you declare it in the beginning, then you can use it or you cannot use it. But if you use it just for the loop, that I know, because I've been trying to do like many variables, and I was declaring them in the beginning, and then when I was using for the loops, I couldn't use them. And I put the ... Then I started using them just for the loop-"
+"Yeah, of course. You have to declare it again, but on the loop, inside the loop."
+"Okay, I forgot what it is. [crosstalk 02:40:13] for the first sample? So if he has seven, then divided by two, it would have three, because 3.5, you cannot unless you rounded up."
+"Now, how do you know?"
+No. You're just using the length of here. And that length should be from the source.
+Yeah.
+What is the number for this one?
+"So why if we set it up to N? No, okay never mind."
+But the only way to find out is if we print it.
+Then target.
+Q equal to source.
+N. I think right?
+Why Q?
+"Okay, let's do that."
+"Well, I asked my question, and when I asked them-"
+We're not printing that?
+"Oh, you're just copying it. Okay, I thought you were reversing it."
+"Let me catch up with you. Oh, what did I do now?"
+You didn't get?
+"Yeah, you got it right."
+What is your eleven?
+Then you got it. What if one of them is zero too?
+"Oh, you're saying ... Okay, I know what you're saying. You want it to be down there."
+Okay. Wow. My mind-
+Because you got numbers up here.
+Did you using the ... Didn't you have to subtract?
+From here?
+"So minus, which this is the target, right? So I less, but right now it's Q. Q minus one. Shouldn't it be Q minus the length divided by two?"
+I don't know.
+But no.
+It should work.
+[inaudible 02:47:37] is the target?
+Too many temps.
+But we shouldn't have temp two.
+"Oh, okay."
+"And now that is inside the loop, right? Yeah it is. Why are you using the temp? We're not supposed to use the temp. We're just supposed to use target."
+"Yeah, but in this case we have temp here. It's called target."
+It's not called temp.
+No?
+Okay.
+And why are you using two loops?
+"Okay, [inaudible 02:49:53] and the new, you divided the source divided by two, or not N divided by two. What is ... okay, I got it."
+Mm-hmm (affirmative).
+Or equal?
+Yes.
+No no.
+That should run though now.
+In theory. Yeah.
+What is ... You got 10 right?
+"Okay, so then divided by two is five, right?"
+"Yeah, why don't we use 11?"
+Okay.
+"Yeah. Yeah. Now, I don't know where am I."
+"Yeah, I'm on the last one. Sorry."
+It does. It's just we don't have time I think.
+So okay. Probably when I go right? So the middle is target?
+Dot length.
+Divided by two.
+Okay. Do you have another loop? No.
+"It was. It's just sometimes we ... oh. And sometimes I get lost, so-"
+"[inaudible 02:52:58]. Okay. I think I'm right. And then outside, right?"
+This one?
+"Not that one over there? I'm sorry, the first one."
+And why you have another loop there?
+Okay. So are you sure this is gonna work?
+And you put in B?
+"Wow. I'll use yours. I ... I mean, oh yeah. I."
+System. I wasn't much help today. So-
+Print it. Why you use-
+Yeah.
+"Print, and then target B."
+It's A? Or Q?
+Plus.
+I hope it works. Let's see 11. It didn't work.
+Sorry.
+Right there.
+Right here.
+Right here.
+"Yeah, that was my mistake."
+What do you have? N?
+[crosstalk 02:55:18]
+"We don't have to print the rest, right?"
+David left.
+I've got to do that. I have a narrative.
+"No. You see this space, this space right here?"
+Don't we have to print every loop?
+Do we have to print every loop or the result of every point?
+"The work? Oh, okay, all right."
+"Yeah, I got to be careful because-"
+"Scatter brains, might do something that I'm not supposed to. So on the second one, I think that's my problem in all my work. It has to be printed outside the loop, right?"
+Double the loop and then print it out.
+"Yeah, but mostly for the loop, it's that. Otherwise, it will be printing with the loop, right?"
+All over.
+"How you going to print the 100 numbers, if you put 100?"
+Hm?
+"Oh, okay. Do you see where I am? Where are you printing on the first one?"
+On A.
+The source?
+"But it should be the array, right?"
+"I, right?"
+"Oh, really?"
+That's what I was saying-
+Mm-hmm (affirmative).
+So system ... For B ...
+It didn't print?
+Uh-huh (affirmative).
+"I'm just trying to make something here. So if I write 100, then I'm going to have 100 numbers?"
+I did.
+I just want to see.
+"Playing around, sorry. Fun somewhere. We have to get the high values that's outside the loop, right? So just want to print one-"
+Right there?
+"So system ... High values, right?"
+It's giving me an error.
+Here.
+That's a B now.
+"No, it's less than the source, right?"
+"It's not minus one, right?"
+"I have no idea. I think it's minus one, plus, plus. But still, it's giving me an error."
+It's still doing it.
+"Oh, okay. So that's right?"
+Or I have to put a comma?
+"Well, I did, but it wasn't a good way for me."
+Plus whatever happened.
+I actually thought this chapter was easy.
+The only thing that I don't like is the loops.
+"I was able to do all the exercises there and get the numbers and print them out and those kind of things, but when I do the loops, that's when the problem happens. [inaudible 03:05:39] because I don't want to hold you up. So on all these loops, we have to make another loop outside of the loop?"
+"David, David, David. So for tomorrow we only have the quiz and the pre-lab?"
+Or the post-lab?
+"The pre-quiz. That pre-quiz I had already. I just have to finish it. I have to submit it. The other thing, I don't think ... I haven't even looked."
+What is it?
+"Yeah, that's the one."
+"[inaudible 03:07:23]. Yeah, you got it right. You have another one here somewhere."
+"[crosstalk 03:07:34], A, B, C, D, E. Now you should have six answers."
+"Yeah, you got it right."
+"Yeah, you got it right. You have [crosstalk 03:08:10]."
+But it's probably because you have one zero in the beginning. It looks fine for me.
+I may be mistaken. Now I got a problem here.
+"Yeah, that's the first of my problems."
+"I just don't want to ... The maximum. That shouldn't tell me that, right?"
+Right here? On all of them or just that one?
+"You did put something there, right?"
+So here.
+"System out, you used print line or print?"
+I guess that's right. Did she put a time limit on here?
+I'm trying to [inaudible 03:11:44] right there.
+And this one. What they are doing here?
+So I should write-
+Like that?
+Of system ... The high values?
+Of ...
+"Oh, okay."
+So that should [crosstalk 03:12:49].
+[crosstalk 03:12:49]
+Which is this one.
+But I didn't print it.
+Print the last two.
+What do you mean?
+And change it ...
+So I want ...
+"Here, so outside the loop."
+Which is the source.
+"Source, and that should be S."
+Now you have to write-
+Hm?
+"Oh, I've got to change this."
+But I already got a one on the bottom. Do you think that should be a problem?
+So that should be A then.
+Right?
+"Then I got to write here, I've got to write down what I want to say, right?"
+I'm learning.
+"Go ahead. What is this? What is that? What number is this? This is F, right? The shuffle, that's what it is, right?"
+"Yeah, that's the shuffle. Numbers in the array. I'm thinking two times ... [crosstalk 03:15:29]"
+"It is, but I don't know-"
+Right here?
+Like that?
+That didn't work.
+No.
+"Yeah, I know. No, that's not the one. That's not the one I need to do. It's here."
+Did I do that one?
+Let's do it.
+[crosstalk 03:16:25]
+What did I just-
+[crosstalk 03:16:40]
+Right there?
+"Three, four, five, I got five. That's not the one because I got that one already. So it's this one."
+"No, I got five."
+"Oh, the shuffled numbers, I should've put that. Let me see."
+This is the first one.
+I know what it is. It's here.
+[crosstalk 03:19:02]
+Three.
+[crosstalk 03:24:23]
+We just open this every morning.
+"[crosstalk 03:24:32] want to do. Right there, okay."
+I was. I don't think it's time though.
+It is?
+"Okay, sure. Question one."
+"Before we begin, think about [inaudible 03:25:34] each question."
+I can't concentrate. Where is she?
+"Now I'm trusting you on this one. I'm just joking, [crosstalk 03:27:06]. We're declaring the variable here, right? Here, we're initializing."
+Hm?
+"Oh, I think what it's trying to do is that we have to name the parts of the code. That's what I was saying. Part one here, number one is here. [crosstalk 03:27:40]"
+But what is it?
+No.
+"No. No, because we're declaring the variable, the array. It's not initialized."
+"Yeah, that might be one."
+No.
+"You sure? Well, that I can trust you."
+"It's declare, but it's not initialized."
+"No, but number two is right here. We initialize it right here."
+So you're saying number two is one?
+"Which values, A, four, 12, three?"
+"Which are you using? You were right, nevermind. I got it."
+But actually that's the five. That's not the two.
+"Because that's what it says. If you scroll up a little bit, you can see the part right here, part five. That's where you're seeing."
+"Yeah, that's labeled."
+So this one is not here.
+So number two is-
+Number two right here is new.
+"[crosstalk 03:30:03] Okay, number two. Which one do you choose?"
+No.
+I think number two is the zeros.
+No. I think it's-
+"Well, let's continue with the next one. What's the three? What is the four?"
+"But what was to the exercise though? What is X plus Y? Or we don't have that, right. Oh yeah. X and Y. So X is six, and Y is two. It's eight on this one."
+So six minus two is four.
+"X. Six times two is 12, and six divided by two, is three."
+"So that one over there, that's par three. And probably par four."
+And three.
+"Why zero? Because they're in. Yeah, you're right."
+It shouldn't be zero though.
+Six times 12?
+Let me see.
+"Return answers. In part four, this is returning a new array with different numbers."
+"Is eight, four, 12, and three, right? That's what I said, right?"
+"Okay. On the top, it says part five."
+That's ... We already got that one right.
+"Which is eight, four, 12, and three. That's correct."
+It shouldn't be a different array because it was returned for whatever the number.
+"Part two, I got wrong."
+"Part two, what do you have on part two?"
+You don't have anything? Okay.
+"Okay. How many options you have? One, two, three, four, five, six. I wanna have our part."
+Different array there. You have another question on the bottom.
+"Question three. Why you choose, eight, four, 12, and zero?"
+I don't know. You chose one.
+"Okay. Except, I don't think it returns to zero."
+"Yeah, and which one is the other one that you're using on three?"
+"Okay. Well, I don't have that one. I don't have-"
+But you know what?
+But is this just talking about this one?
+I don't think it's talking about the whole thing. It's just-
+"And I'm choosing this one twice, so I don't know. Number four is-"
+That's okay. What is the question?
+The values.
+The reference?
+Okay. Okay.
+You click it. Okay?
+Hold on. Don't let me see it.
+Okay.
+Three?
+Okay. I'm ... I'm coming. I'm coming.
+Okay. I think ... okay. I don't know what [inaudible 03:38:11] but-
+What was the answer on that one?
+"It says right here. Eight, four, 10, and zero."
+But why though?
+"Okay, let's try ... now, say X ... No, actually it's multiply. Six times two stroke."
+Six divided by two? Three.
+"No, I'm talking about the last one. Because that's the answer. Eight, four, 12, and zero. That's the only one that makes a difference. Now I don't see anything else. Zero, one, two-"
+Did they think it's this one?
+It's three.
+I don't understand what you're saying.
+Mm-hmm (affirmative).
+But X is six.
+"Yeah, because-"
+Okay.
+"Let's do B, because probably that one is-"
+I don't like that [inaudible 03:40:09] I'm pretty sure they made a mistake.
+Ah.
+"My computer is off, so ... We have a game car. Car game, whatever."
+This is getting real. What does it say?
+Okay. Don't tell me you know the answers already. Oh.
+It should be one less then.
+One or two less. I think you're too far.
+"Okay. I'm on 258 it says? Oh, I got 257."
+For me too.
+"7.6. yeah, it is 257."
+It's 7.6?
+You're on 7.3.
+Right here.
+That's the one.
+You have to read 7.6 somewhere else. It is 7.6.
+They were pointing on the same place.
+Reference.
+[inaudible 03:43:25]
+Ah. This is too much.
+"Be zero? Five, right?"
+You wanted six?
+"Now what is passed on here? The number, would you say? Right?"
+On the method.
+"Not [inaudible 03:45:20]. It's this, but it should not-"
+How did it change though?
+Okay. That's a good question.
+A is one?
+So it goes back to 10?
+What about that one?
+So it changes?
+"Here. It says the array B in paths. If you change the array and the method, then it changes also in the men?"
+"So that solves that, right?"
+So that's false. [inaudible 03:48:45] also have stayed back in the main?
+Okay. So this one is false?
+That's also true?
+What you're saying? It's good the way it is?
+Sorry.
+Alright. Okay.
+Hmm. You know what?
+That's the answer.
+"Sorry, I'm not cheating, but I have no [inaudible 03:50:26]."
+You did it manually?
+"You did it manually? Wow, that's impressive. I think this is the third one, right?"
+I had more courage.
+Hm?
+"I don't know. I'm just guessing, you know?"
+"But this is not gonna print. Oh, what's the difference? Okay."
+7.5. So we're halfway. Let me go to 7.5.
+Oh. Okay. Why. Okay. Nevermind.
+"On the first one, it lists one? It's [inaudible 03:52:54] at least two."
+Okay.
+Okay.
+"Yeah, what is it?"
+I'm just reading the question.
+That's fine. I don't wanna know. [inaudible 03:54:03]
+Not bad for guessing. I got that wrong. I didn't read that pass. Okay. I think I downloaded this thing.
+Okay. What's the activity?
+That happens to me too.
+What is the exercise? 18 C right?
+What is the name of the array?
+That's what it's called?
+Okay. And what is the-
+10
+Yes.
+But we can't call it name search though.
+"That's the method, yeah."
+Okay. This is where we write the names. We could call it search.
+But that's gonna be in the-
+Create a method.
+So you're gonna add 10 there.
+"Oh, to create them."
+"You're just trying to add zero, right?"
+I is less than 10?
+Yeah. I don't know if it's [inaudible 03:58:30]
+I don't think it's open.
+Okay. I'll go with you. Okay. I'm sorry. Okay.
+I have to ask the names.
+[inaudible 04:00:28]
+"Okay. That's good, yeah. So after that, we're gonna add then to the name?"
+"That shouldn't be colon and names again, right?"
+Cool. What'd you call it?
+"Okay. Now it's gonna say search, but that's fine."
+Hm?
+Okay. Public? Static. And we're using string? What is that?
+Name search?
+"Isn't it the index? Yeah, never mind."
+"Yeah, you're right."
+[inaudible 04:02:50]
+Right there?
+"Which that's we'll call this one. So let me change that to S, and then change that to M."
+Okay.
+In the search.
+A string in search? What are we trying to do?
+Okay. I have to go to that page.
+265
+
+
+What little kid is acting up? Okay.
+Okay.
+"But that one went through ... This one? And then keep going over the rest. Now, this one is jumping to the next one. Check with that one. If it's less, both, they trapped. Then jump to the next one."
+No.
+"No, look. It's going to-"
+But then it jumps to the next one.
+No. You jump to this one. To that one. Check that one to that one. Check that one to that one. And then you go down one ...
+"You see it right now. It's like, they're moving one number at a time. Then it goes down, and do the same thing all over again, but it starts from the four now. I will-"
+"No, what I'm trying to say is that ... No. Basically that one."
+Yes.
+Which is the six. That's the key.
+"Okay, that's the bubble order."
+How do you know?
+It's not optional for swap. I think it's the bubble.
+Or selection sort.
+"I think it's the bubble. Look at the algorithm right here. This is the algorithm for the bubble sort. I don't ... Do you have the selection? On your book? So, then we have to go ..."
+And this says swap here.
+"No, I'm looking at the bubble. I just want to see ... You have selection there."
+"There should be the algorithm, right?"
+No. Keep going. I think you went too far.
+"Selection, okay."
+It look like the bubble.
+Oh my goodness.
+That's the-
+Okay. So. [inaudible 00:04:42]
+Why?
+"So, the [inaudible 00:05:04] go away?"
+Okay. On the whole [inaudible 00:05:10]?
+"Okay, so three and five. Okay, I know what to do. So, now they're only going to check if five and two?"
+But then ... 
+"Yeah, me too. Let's watch it."
+Can you maximize it? I'm a little blind.
+"No, that's fine."
+Okay.
+"So, it starts on the first one, then you swap."
+Again.
+"So, now they're going to start on that one?"
+That's what I was saying. On that one it doesn't go that way.
+"That's the first one, right?"
+"Well, they did it here. The first one. That's the first one between one and zero. So, three and five. Right here, they change one, and then the rest it stays the same."
+"Now here. Three, five, right? Now, five and two. Then they switch to two and five, right?"
+And then ... That stays the same.
+Of course.
+"No, that's two three now."
+I thought we had to do the whole thing in the same way.
+"Okay. Well, let's go with you. So, now it's one and two. Oh, we're talking about the [inaudible 00:08:15]."
+"Yeah. Look. In the one, zero, and one."
+"Yeah, correct. So, zero one. Now, here it says one and one. I think there's a typo here."
+"Okay. So, if we're going that, we just have to follow this thing. So, we're checking the one and zero. Is one greater than five? "
+"I mean less. I think it's less. Five less than three? No, just those then."
+"One and two. So, now we're checking one and two? Which is this and this. And what you have on the zero? The three?"
+"That ... It's telling you which one to check. One and zero. So, one is given, and zero is this one. In this case, we're checking this, too. Zero and one and zero. So, one is five, and three. And zero is three. Well, actually in this one. Because three is less than five, then it goes into the case."
+It goes to the first.
+"Now, on the second one, we're using this numbers here. Not the ones from the top in this one. One and one. I don't know why they have this here."
+Okay.
+But that's the selection.
+Oh yeah. Yeah.
+"Three, two, five, eight?"
+"Okay. Three, two, five, eight. So, this one right here?"
+"Two, three, five, eight?"
+"Three, two, five, eight."
+"Yeah. Kind of. I just, it really looks like a selection."
+"Like the selection. When you have the one you're doing. But I'm not sure, so I can't argue."
+Let's do it like that. Let's continue.
+"If we have time, we come back to that one."
+You have the-
+"Now, I got confused here. This is the [inaudible 00:11:58]. The selection, do you see the swap?"
+Looks like a selection? Don't have a heap or lurch. I don't ... That one looks like the ... 
+"Yeah, I'm just checking see if this one ... No, it doesn't."
+"Me neither. I think it's a selection. That one is the algorithm, it's a [inaudible 00:13:11]. Erase or just universe."
+Where are the whole group?
+That should begin. Should go type the selection.
+Isn't this the one in the bubble or something?
+"No, but I used selection because the other one is bubble. I don't think there's going to be two."
+This is the selection.
+"Remember in the selection, we're using the class and the X, J, plus one."
+And that's what we're doing here.
+And all the fours on the top.
+"And the other one, we didn't use the selection."
+Done?
+"Yeah, because right here we have-"
+Yeah. That one goes like this.
+"We don't have to do that there, right? Five, three, two, eight, seven, and that's the erring. [inaudible 00:15:55] five, and seven, and six."
+"They did exactly same, but they use different methods to do."
+"We can probably use them the same to do it. What are the numbers? [inaudible 00:16:29] willing to do it on paper, you know?"
+What time is it? We don't have time.
+"[inaudible 00:16:45] In this one is two, twelve, five. Then they stayed the same."
+To the first?
+"Yeah, but I understand that part. Is that it goes through the whole [inaudible 00:17:17]. The first one. You take the first one, and then it compares to the second one, and if it's lower, it stays the same. If it's higher, they swap. Then the same thing. With the same one, again, it goes to the first one. You see the number one swap with the eight and the second one? Now we're using the eight, one, and five as a reference to continue to the ... Until we get to the index five."
+"After we get to the index five, then goes to the first loop, and I don't know what we do in the first loop. We do the thing all over again."
+"For the one, two, two, five, it stays the same."
+Yeah.
+"You see here, that's the first one. So, now, two, right here, the numbers in between five and two, they swap those out. But now two and five that stayed the same."
+"[inaudible 00:18:41] Me neither. So, all right. Five and three swap first. And then three and two swap places. No, not. [inaudible 00:18:55] three and then five here, right?"
+"Okay. So, now I'm confused."
+Right?
+"Three and not move it, either."
+What is the key number?
+"So, it's going to be two, three, five, seven, eight, nine, no. What happened with the six?"
+"So, what you're saying is seven, eight, nine, and six? Again?"
+"Five, seven, eight, nine, and six."
+"Five, six, seven, nine. That's it?"
+Makes sense.
+"No, it's selection."
+"Yeah. We'll let everything, right?"
+"Twenty-one, thirty-eight out of thirty-nine. It's not that bad. We can still try again though."
+Take the quiz again.
+"We got an incorrect. All right. Three, five ... We got all [inaudible 00:21:47] incorrect. Two, three, five-"
+"Seven, nine, nine, six. That's right."
+All of them are the same.
+But that's what it says.
+Which one?
+Which one?
+"Oh, [inaudible 00:22:25]."
+"Probably. So, this doesn't even have the answers. Probably because we have to retake it."
+"But where would that [inaudible 00:22:44] then? You see? They don't check it every score, right? But it's correct, otherwise it would say it's incorrect."
+Oh yeah.
+"What about in the ... So, we didn't get any points? Which one we fail, though? Four 38 out of five?"
+Yeah.
+Probably.
+"But we have all the numbers here. So, that's right. The [inaudible 00:23:21]"
+Which one?
+"Nine. Yeah, I wanted to choose this one. So, to begin with, our middle one is three because there's no four [inaudible 00:24:05]. But nevermind, we got it wrong then. On this one, we don't have it right. The whole thing is wrong."
+That's bad.
+"Yeah, that's right."
+I know.
+"I think it's something limits more. Do you think this is going to be ... ? I don't think so because the lab is based on where we have, like, the most pre-work."
+Okay. All right.
+And then? It's time to line up. Nine PM.
+"Which one, right?"
+Okay.
+What does this say? We'll keep the highest score.
+"All right, click it then."
+You know what? We should have copied this.
+"But we already got this answers, right? That's not cheating. Nevermind. Well, let's do it. Our computer froze."
+I think because it's old. Okay. Which ... What is the first one? Search?
+Okay.
+This is the binary.
+Less than linear.
+For question three?
+Yeah. The linear.
+Yes.
+Okay.
+What is this?
+Three.
+One.
+Why?
+Okay.
+Okay.
+Okay.
+"Yeah. One. And then new variable, which is in the circle [inaudible 00:28:52]?"
+Okay.
+Four?
+I think it's three.
+First.
+Neighbor.
+Yes. I was looking for the ... Okay.
+"It was three, five again, right?"
+Yeah.
+"Okay, hold on. Then it's two, three, five, eight."
+Huh?
+You disagree?
+"Okay. No, you got that wrong, right? I mean ... Okay, the first one is three, two, five, eight, right?"
+"Three, two, five, eight, okay."
+"Three, two, oh okay. This one comes from here, right?"
+"Okay, then ..."
+"Two, three, five eight? Now Okay."
+"Three, five, eight. So again, change now? Oh nevermind, I got it."
+Okay.
+That's the selection sort.
+All of them.
+"[inaudible 00:32:30] erase. So, let me see the textbook. Which page was it?"
+"Just [inaudible 00:32:43]. Okay. Okay. This is what we'll do. We're here from the first to that one. And because this is shorter, it goes to the first one."
+That's what we'll do. Then it doesn't go to the last one.
+Then the second one to the second to last.
+"And then, oh okay. You know, this is what it is. Five, six, seven. So we have six. We have seven. How many do we have? One, two, three, four, five, six, seven. So, it takes the first six numbers."
+"Then if it's lower, it goes to the first, and then they swap. Then we've got the one, the second number, then they compare."
+"That means if it's lower, it goes to the first, and they swap."
+"And then the middles. The middles swap if it's lower, they swap. You see?"
+The middles.
+But you still have to do this.
+At the ends. 
+"Seven, eight."
+
+Then she said the line was supposed to be entered by the..
+By the user. 
+Hold on let me.
+"Hold on hold on, I'm probably wrong. No no no."
+"no no. Says define a two dimensional array. Event the [inaudible 00:00:51] array in order to, two value numbers [crosstalk 00:00:55] okay so it is, you find. What do you use the, or would you just declutter them?"
+I got a little confused. 
+Okay. Are you using?
+"Yeah it does, but it has to be inclusive so you need a plus one."
+"I think you're right, I think you're fine. Because you have to, no you need a one."
+"Yeah, no, no because."
+That's correct.
+So this one should be three then.
+"And zero, one and two."
+And then it goes to seven.
+"So you get the highest when it's the lowest, which is two. So now minus two equals seven."
+And then plus two. So what [inaudible 00:02:56] two. But you got some [inaudible 00:02:59] in the nine. 
+From two [crosstalk 00:03:07]
+I gotta ask.
+But why do you doing that? Are getting the length? Okay nevermind. 
+May-Array.
+I'm that.
+I'm too slow to type so. Let me see what you have.
+Yeah that's what I was thinking.
+I got an arrow loss.
+Oh yeah I forgot.
+Thank you.
+It is working.
+But we have to do it separately right?
+"No no no nevermind. Four I, zero. We're starting in zero right? "
+Does it make any difference that we just roll or I?
+It's just a lane right?
+What would you prefer?
+"What ever you like, stop bother me."
+Just joking. I'm just going to do it left.
+Okay so the next one is a column right?
+I forgot how to spell column. The different row goes with length one and the column goes with length two right? My [inaudible 00:06:52]
+Yeah.
+Oh okay.
+I think it's working.
+Yeah I think I got confused now.
+"No, but I just want to know if it's right."
+Okay. I don't know what I'm doing here. 
+I'm writing things that are. Okay.
+Let me catch up.
+"Main array, row, column. For some reason I'm spelling column ""cou"" for some reason. Cause I'm doing it faster."
+That's what I was thinking.
+I'm not sure whether it's eight or three but I'm not three right?
+No okay.
+Because I know if it has to be inclusive it needs to be another plus. 
+That's too much. I still want to ask them.
+"I think I'm done, oh I got to finish with this. So why are you using this?"
+I'll change that. Minus one. Nine plus one right?
+And why it's giving me? Oh it's not my array. Just main-array.
+What?
+So it's going to be nine on top.
+Inclusive.
+Nine minus 2 is seven.
+Plus.
+One which is.
+Ten.
+So that's seven.
+So that's fine.
+The plus one makes it inclusive right? Okay so we're good then.
+She talks to us then like I learn something new. Every time she loves that I learn something new.
+"But when I have to read, I didn't know that part, I didn't know how to include it. Now I know."
+What is he asking? Because I want to help.
+I don't want to just copy. So where are we?
+So we're here. So calculate the average numbers.
+[crosstalk 00:12:24] okay let's print the array than.
+Okay. We probably gonna have to change the last part right?
+"Where, two brackets down right?"
+No that's my.
+But you're saying that I need to.
+Just the column though right?
+Right yeah. Now we're using this one right?
+Here it's painted the row and the column.
+Oh so it's not printing the column?
+"Okay. I think I'm right, right?"
+I think I'm.
+Yeah.
+Yeah I need one over here.
+"What? Oh yeah, on to this."
+"But it is printing the array, the min I and j, together."
+And then it goes on the next one. Oh lets try.
+Just.
+Yeah.
+Yeah that's what I was saying.
+That's not that?
+Like that?
+We just have to raise the line?
+[inaudible 00:15:55] 
+"They are, they just have to."
+Because its a. 
+"Yeah, I ace. Plus."
+Well I been using that printer to print off. That's why
+How it's explain.
+Calculate the average numbers in each column of the min of range and assorted in some variable. Guess what data type should be. It's nit. It should be nit. 
+"It can be in valuable too. Because you know it say print the average of columns. The average dos not have to include, they just have to the decimal point. So it doesn't matter. Doesn't really matter. We can use double but it doesn't need, it doesn't matter."
+Or we can ask.
+Don't we have to create on the top first?
+Well doesn't really matter.
+What are you doing?
+"But you have to create the number outside, the variable."
+Something like that.
+End average.
+Average.
+It's average.
+But you read the average here.
+I don't get how complicated this but.
+"Oh that means. And equal to zero, right?"
+Int average. It's also equal to zero?
+Now why are we using 19?
+Which equal to zero. So four nit by equal to zero. I less than length two. Five plus plus. [inaudible 00:19:48]
+Yeah.
+We're not using both of them.
+"But still we're using them, this."
+Yeah because.
+Yeah that's what I meant.
+"and sum plus plus, right?"
+Yeah.
+"And then outside will be okay. So I'm good okay. What now? One of this or? Main array, main array. No I knew I was wrong. Sum equals main array. "
+"Zero, and the nine. "
+Then outside right?
+We're gonna do the average. 
+Don't we have to print it? Oh okay. 
+Sum divided by three. That's what right?
+Sum divided by.
+"Length two. We don't even need the average. I guess we can, I guess I can do like this, look right? Just."
+Equal I mean average.
+I just like to test it before I do something else. But you right you have to do something. So let me write here. The average of ten.
+What happened?
+For each column. So I guess.
+You're talking about the elements right? Or the indexes? That's you're confused right?
+But they want it separate or just one column.
+And then we print so we're doing this two at the same time right?
+Okay so let's do that. 
+The first part right?
+And the first part right?
+So you're doing that one okay.
+Okay just a description?
+Okay.
+Thank you.
+That's good to know.
+Oh my goodness.
+Right here. Length one.
+This is one and this is two.
+That's what I was doing.
+That's what I was doing.
+Column equals zero. You know I found another apollo on the computer. It's every time I type something it types once.
+So I think it's breaking down.
+So inside.
+Yeah.
+"I think okay, let me see I think I got an arrow here."
+Okay. Wait. 
+Okay.
+Let's cross our fingers. [inaudible 00:27:07]
+"Plus one, plus four, plus nine."
+"Zero five four, 4.5. Yeah that's the [inaudible 00:27:19]"
+I need use some data right?
+"Do you read that part? There's some things here for [inaudible 00:27:36] calculate the average you need to, we got that."
+You need to use length method
+Okay..
+But it says it doesn't matter.
+Doesn't have to include digits after the decimal point.
+"It doesn't have to, but we can do it."
+Look it can be 3.0 or 3 so we're good.
+"Don't they need the number. This for example, I got one two three and four. "
+"So the average is lets use one two and three. Its easy. One two and three plus three is six. So the average divided by three is shoot, yeah two. So what is the maximum value after two, is three. That's the value."
+"Look, seven seven. So they."
+Oh okay. 
+"Times four times, lets before we go, oh yeah because divided by two is seven."
+I think they want it in methods.
+Okay so lets.
+"No we it's easy. The first one on the second column we're gonna use one. Or not actually zero, but the index on the first one, the I on Whatever it is."
+We can't use Zero.
+Because the array is under.
+"For the first one, but not for the second one."
+But how do you know?
+Yes.
+"My thing is I'm questioning the zero. It shouldn't be Zero, it should be I."
+"Okay, so I'll shut up. So it makes you one if the loops, right?"
+It can probably use column
+Can we use the length instead of the row?
+"The length one, right?"
+One and two.
+"It should be column, it should be I, I'm trying to think of the other way because the column is length, so it's not the length because, like for example, the length is four, so its always going to be four, right?"
+I think it's the same thing.
+I think so.
+"Because they do it, just for one column. "
+How do we get? 
+"Yes, but then if you wanna get."
+Can we do it in a method?
+And bring it to.
+Okay. Where are we bringing the sum and the average? 
+"So, hold on. [inaudible 00:34:59] Are we bringing the average? "
+"But not inside the parameters, right?"
+"Yeah, we'll bring it out. "
+Oh. I know what it is. 
+Bringing them down inside right?
+Okay.
+"Nope. Too much work. I'm lazy. Lane, array."
+Just to put something.
+Right here?
+Okay.
+[inaudible 00:37:34] I'm using your words so don't accuse me of plagiarism. 
+You're calling that a column? Okay that's probably why I'm having a problem. All right.
+Why re we doing this? I forgot what we were doing. Sorry. I got to be.
+Okay so I think I'm good. I think I'm missing one of the this. 
+Again I got a problem. That's probably because of the [crosstalk 00:38:40]
+Yeah yeah yeah. 
+Oh my computer froze.
+After the print.
+Yeah I'm thinking that.
+Okay.
+I will return that.
+Sure there isn't the main array.
+Why are we using length two?
+No but why don't we use line one?
+Okay..
+The average is gonna be now nine too.
+"Right here, right?"
+Yeah sorry. Okay.
+Okay yeah.
+Do you think that's easier?
+"Do we have to, we just have to wait then we have to comment?"
+But we don't have to put the description or the [inaudible 00:41:27] 
+Okay so.
+Okay lets.
+Call them average.
+In order right?
+Oh my god my nose.
+It didn't work?
+That's fine. Lets try with the calculator. Hold on don't do anything.
+Give me the numbers for the first column.
+"Two, five."
+I'm not yet [inaudible 00:42:52] I'm still writing down. Okay lets try the resource.
+Yeah yes I'm not sure. [inaudible 00:43:18] here.
+Okay hold on.
+Divided by.
+That's not bad it's good.
+Okay let's go back to the column. It should be.
+This is printed right?
+Because this is divided by another four.
+Add it again? That's weird.
+And you got an error.
+"Nine, twelve."
+Yeah that's not what I have.
+Because the average of 30 is not three. 
+But the index goes outside right?
+"Lets ask. Cause I think we're getting, we're almost there."
+Every body busy.
+And then we got an error.
+No.
+But length two is rogue.
+"Let's see five six, 12, 14, 15, 22 divided by."
+Four.
+Five.
+"Five, seven."
+By.
+What is that?
+Okay. Lets see. On mine on long because I have.
+What you find?
+No its not three.
+Oh yeah. 
+A four loop.
+But now you gonna use I.
+I was counting.
+Eighth columns.
+"Its not counting the last one. Two, that's not counting two, the last two. Why are we putting minus one?"
+Oh okay.
+"I think so because we're just using, I don't think it's. Make it work."
+It says it's out of bounds?
+"That I don't understand why, because the length is just, we just using that as a, how to stop it."
+We're not using it inside.
+And you got one two three four five six seven. But he's gonna give you a [inaudible 00:52:45] 
+[inaudible 00:53:27] not really right?
+Minus one probably.
+But.
+Yeah you changed these.
+We're probably gonna need help. 
+What is it? She's coming.
+Its giving us an error. Out of bounds error.
+Really help a lot.
+So you using the I instead of the index?
+And then outside.
+Should be less.
+Now he's.
+
+Three
+It doesn't say they wanted to input them earlier. It doesn't say we need to ask for the numbers.
+"The second part. But they have to be asking in the method, right? And then they pull up to the main, right?"
+"Now, this one gets two-dimension. Now the method goes down."
+Wasn't it the 17th?
+"Ah, screw it."
+"It's because I got to turn in something else that day. Okay, so, are we creating the method first or what?"
+The first one [inaudible 00:02:07].
+getArray.
+"It's the end, right?"
+And we're getting something from the main?
+And one.
+We get the number as input?
+Okay. So let's use N1 for simplicity.
+"The first one is the row, right?"
+What? Oh okay.
+Can we just ask the same question for the-
+... instead of two questions? Yeah.
+I'm just saying.
+"Yeah, that's fine."
+Input that.
+"I'm behind so, go ahead."
+Okay. Sixteen stepping twice. Okay. What are we calling the [allay 00:05:44]?
+Okay.
+"The numbers on display randomly display, right?"
+"No, right here it says-"
+It doesn't say.
+And that's for the second [inaudible 00:06:54]?
+I'm going to keep calling it rose. It's not rose. It's a number [inaudible 00:07:55].
+"When I use, are you using the brackets at the end of the loop?"
+"Have some, have you learned some methods [crosstalk 00:09:04]"
+"No, no, no. You're fine. But in the books, some of the exercises have those [crosstalk 00:09:13]"
+"Well, right now you're using cones or? Well, I'm using ice and whatever."
+I just got used to the things.
+I used to have to [inaudible 00:09:31]
+I forgot something.
+Let me just remember something. Why are you using N1 in there?
+Right?
+"Okay, so. I don't know what's going on today. I'm just going to use column."
+It's probably because I've been doing this since yesterday.
+They are creating random numbers?
+Charge estimate.
+Hmm?
+What is it?
+"Yeah, yeah [inaudible 00:12:17]. One point."
+"At separate point, that printed LA. There."
+Yeah.
+And then to 1.
+Yeah. That should give you the measurement and whatever it's called.
+How many did you get?
+Where [inaudible 00:12:50]?
+"Oh, okay. Never mind."
+"Okay, input. "
+Which one?
+Yes we can.
+"Uh, I would understand that, but if you make, I guess."
+Run it that way.
+How many [inaudible 00:14:38]?
+You could have used two and three.
+"Yeah, yeah. I see what you're saying. So-"
+"That will not create in the area outside, no?"
+Just in numbers.
+Well I just got two.
+I mean three.
+And we don't need this anymore then.
+What one? We don't need to print-
+"Yeah. I'm a little behind, so hold on."
+"Oh yeah, then I know what it is."
+"And I was going to ask you something else, but yeah."
+"That's fine, okay. I've got a problem here. Oh, I know what it is."
+Input.
+"It's giving me an arrow. I think I need, I don't that anymore. I do need it."
+Mm-hmm (affirmative).
+"It fixed that. I just don't have the return. So it's after the second, right? That I need to do a turn here."
+And then-
+"So system, no, I'm sorry. Four. "
+It's not going to work either.
+Because we need the length for the array.
+Right?
+Where is the length?
+Why don't we just do-
+That's what I was going to say.
+"But it's just, you know-"
+We only have to move one. More for me it's only one.
+Huh?
+Why are you taking everything?
+But you can't get the numbers of the length from above.
+But that doesn't go outside.
+"Okay, go ahead. Let me see. So, you're seeing the one that creates the array, the [30C 00:18:57] array? You're bringing it up to? So what are you using the method for?"
+That's what they want?
+"You find the method, which creates a two-dimensional array. So we'd have to create the array inside the method and then bring it up. The user sets the size of array, net the returns, the two-dimension array, you see? To the main. But we don't have to display yet."
+"What if we do everything, for the second one, inside the method, then we just get the answer. We could do that."
+Can we do that?
+But we'd have [crosstalk 00:20:08]
+"We can have to calculate the average, right. But there might be a way to do. That's what we're doing right now. This time I read the whole thing, I just don't remember. My head is kind of..."
+You see here? They just get the answer. Now it's the sum.
+"Look. That's what they get. So for this one, you see [MT 00:21:05] array, they do the whole thing, and then just leave it up."
+Rich or M?
+But what is M?
+Because you [inaudible 00:21:31]
+No. [inaudible 00:22:01]
+Are you using that or-
+"They're not returning, they were returning M."
+"And how they declared it here is they don't have anything else, it's just that. And they get the number inside the method."
+"So, that's all you got in the main."
+You're not having [inaudible 00:23:13]. You get all the numbers and the [inaudible 00:23:15].
+But-
+You're having no problem.
+[crosstalk 00:23:35]
+"Uh-huh. Yeah, I've saving you from the pain."
+Three columns. You got it.
+I'm always behind.
+The only thing that I see is you've got the numbers in the main.
+"Yeah, I know what you're doing, it's just that I think I understood something else. But that's fine. I'm not going to complain."
+That's not my problem 45 minutes away of analyzing days.
+"And then another hour doing something else that you don't even know what I was doing yesterday since I left you which you just texted me I was in class, then I left. From there to 12:30 I was working on that thing."
+"Because I already submitted I had it, but I was still working then I just got tired."
+Huh?
+"Yeah, but that should be easy then."
+"I'm doing that. So I just don't know where I am. I think I'm, okay, I've got the numbers, that's the array, so I need to create the array here, right?"
+To create the array?
+Or to fill up the array? I'm just a little slow today.
+No. That goes to the method?
+Oh. Okay.
+I think I got the method.
+No.
+"Oh, here, this one."
+Right here?
+Right.
+How do you have it?
+M.
+"I don't know why, but they put those question marks out. I don't know if that makes a difference, I just see that in the book they do it all over again. Okay, and right here is giving me an error. I don't know why."
+Here?
+"I don't need this anymore, right?"
+"Let me try to get the numbers. Oh no, never mind."
+That's all I have.
+Why are you putting in two arrays?
+I'm going to put this down. When you say any more [inaudible 00:29:39]?
+"I'm holding you down, right?"
+Sure.
+Let me see if it works on mine now. I was just two and three. Okay. All right. Good.
+Okay. Are we bringing down the array again or no?
+"Average, right?"
+[inaudible 00:30:40]
+What are we going to call it? M?
+I thought we were going to pull this one.
+I think so.
+But we're not done yet.
+Okay.
+"We also need a method, right? I mean, four loop?"
+On that one I want to follow you.
+"Because you have that, okay. You pulled L."
+What are you doing there?
+"Oh. You should tell me, go back to your computer and start typing."
+How did we get the length?
+But you don't have the array?
+"I'm sorry, I'm not trying to. What is that? Are you putting the whole thing in the name?"
+"And you called it [inaudible 00:32:51] array. Okay. I was like, never do that."
+"I don't know if you do it like that, so let's say. Eight and one. I'm just trying to catch up with you."
+"No, no, no. Go ahead. It's just me. Today I'm a little slow."
+I don't know.
+"All right, that's that one."
+"I think mine is called M. Oh, never mind. Let me see."
+J plus plus. Okay. What are we doing for this?
+Sum first.
+Did you declare sum in the top?
+"Okay, you can go with me later, where were we turning?"
+You're going to set it close to zero? We don't need it right?
+"Okay, so right there, that's the other, right? Into average."
+"Make it bigger, so I can... Divided by. How you make plan?"
+"Oh, okay. We're doing different things. I understand what you're saying. I'm sorry, it's just I've been using length. Whatever thing it's called, bad length or [inaudible 00:35:37], but I know what it is."
+"What? DOn't worry about that, they'll use it."
+"Yeah, go ahead. Because I think I was going to get a [crosstalk 00:36:01]. What problem do you have? I don't have a problem though."
+"So, you should, what is the name of it? The average, right?"
+"I got average, but I'll change it to get average."
+"We're just going to print it, right?"
+Now. What did you bring down? The M?
+"What do you mean, both Ns?"
+"Yeah, that's what I was saying."
+It worked?
+Did it work?
+For me it didn't.
+"That's for the whole array, right?"
+Okay.
+Let's make a calculation while you're waiting.
+"That's okay. Uh, I got an error."
+"I think it's right here, right?"
+"It should [inaudible 00:37:57] now. Okay, one and two. [inaudible 00:38:00]. It's still giving me an error."
+"Let's see if I choose three and four. Or two and three. One, two, three, four, five, six. It's here."
+"That's fine, right?"
+Got the arrow we're showing average. That looks fine.
+Sum is here.
+"Now here I've got get average, M0, hold on. I've got..."
+I don't have anything.
+Yeah.
+That's the array.
+So I should erase this?
+Right here.
+"One, two."
+So you have an arrow.
+Right there.
+"I've got N, I've got N1 and I have N2. Right here is 8 M, right? Here. That's fine, right?"
+Okay. The sum equals M I J.
+And I've got brackets.
+So that's fine.
+"Oh, that was a good catch."
+All right. Thank you very much. I should have stayed there.
+"Oh, we have another one?"
+He said not to put comments.
+"Oh, yeah, yeah, yeah. The average of array is whatever. Okay."
+Well it's basically the same thing. [inaudible 00:42:21] We had to look for the number.
+Where does it say that? 
+"Yeah, that's fine."
+"Okay, let's do it."
+"For me, I've got to be careful."
+Yeah. I will lose it.
+Okay. Character search. That's what I'm going to call mine.
+Oh my goodness. Copying the whole thing?
+Yeah. I think it's working.
+"The first one worked, and now we're working on the second problem."
+"Yeah, we've got that."
+I think it's something.
+I've got to change that.
+"Right now, no. But I might have later."
+Search.
+"Okay, let's do that. Don't waste time."
+"We're going to use some, I don't think we have to use unicode."
+"No. There's another way, an easier way, I just don't remember how. Okay, let's do it. Let's not waste time. Because right now I can't think."
+But we need to put in the numbers? The user has to put in the numbers for the array?
+[inaudible 00:46:02]
+Yeah.
+That's right.
+Pull out the arrays with the letters. I'm thinking about how to do that input.
+"Because I did that the other day, I was practicing with characters, and you have to cast it."
+But I just...
+How do you call your array again?
+"I'm going to call it matrix. Uh, no. Then we've got the N1. N2. Okay."
+They're already there.
+Okay.
+You already created them.
+"I'm not even late then. So that I can public static. What are you using, the tron?"
+getArray.
+Okay. 
+Okay.
+It's fine. That's fine with me. M equals... and that goes getArray.
+We need numbers from... hold on. I can't even use this.
+"Let's use unicode then, because we're going to have problems there."
+It is in the book. I just don't remember where.
+Can you get it?
+"It should be in chapter 3, I think."
+Eight?
+"No, you look in seven. I'll look over this way."
+I just want to see...
+Look. I think it's like this.
+Like that. Or not.
+"No, it's end."
+Less or equal is here.
+They're using
+"How do you print system, I got block by now."
+For what?
+I just want to show you the characters first.
+"We've got Pi, right?"
+But I got to [inaudible 00:52:37]. So we'll get that.
+"Hold on. Hold on. I can't do that, but let me just remember. Because [inaudible 00:52:59] and charts work together. They work the same."
+I think you'd have to-
+Or 8. I'm not sure if it's centered. That's for the other one.
+You see?
+Random? It's the same method.
+"Okay, so I'm little bit with you, right."
+"So we'll 8 I, right? Calling [inaudible 00:54:04] for you, right?"
+I is less or equals in this case.
+"Well on that part I'm going to follow you. Led us on N2. N1, right? Plus plus."
+Because I'm crazy.
+I'm a little cuckoo today.
+"Okay. We haven't the credit. Oh, yeah, we do. So we're going to fill the array, right?"
+I've called it [inaudible 00:55:26]
+Yeah. I. J. Equals-
+8
+"Or char, yeah. We'd have to-"
+"Okay. Let's do char like you're doing it, except I think we have to cast the whole thing."
+"But left dot Z, it should be Z."
+Y minus A.
+Yeah.
+I think it's int.
+No.
+Okay. So Z equal inside a parentheses?
+Okay. So Z minus A.
+Plus one.
+Lies minus one.
+Okay. Let's try that. I've never done this before. I just steer the way [inaudible 00:57:27]. Right?
+Okay.
+That should work.
+"No, that's not work."
+"No, you've had the return."
+"I would return the matrix, I mean the array."
+Yeah.
+I think just to make sure that it's the array.
+"Oh, yeah, yeah. No, no. I have another one. But we already called it. Right here. Oh never mind. "
+"Oh yeah, that's where it is."
+We have to run it.
+"So again for I, right?"
+It worked?
+Hm?
+"Oh, we have to print it."
+Okay.
+It's probably that.
+"Hold on. Let me finish with this. No, that's funny though. Let me see if mine works."
+"You keep using those numbers, too big. How about this, okay? This is random. Never mind. It didn't work for me."
+Okay.
+I don't want to use this.
+You did it?
+"Okay. So I erased the whole thing, so let me copy yours."
+Because I'm crazy. I don't know what I did. Right here.
+About me?
+Thank you for that. Okay. 
+That's it?
+Just to be safe?
+"I don't think we need that one, but that's fine."
+Okay. 
+Okay. But we're not getting eight.
+We're not getting eight.
+"I mean, you're [inaudible 01:02:54] either."
+So let's take [crosstalk 01:02:58]
+"Yeah, let's talk about this. I don't think we need one."
+We're at Z minus A plus A.
+Where do I need to put this? I think here. [crosstalk 01:03:50]
+Like this?
+"Probably. Okay, I got a whole bunch of things here."
+I got all [inaudible 01:04:19] but I still have that thing.
+You don't erase that one?
+"So, okay. "
+"I still get those one things. I don't know. Oh, it's minus. "
+No.
+"Yeah, that makes sense."
+I'm trying to remember what I did because...
+What's half of Z?
+"I have a question, we're trying to get random characters."
+But we're not getting the Z. And I don't know if we're going to arrive at one. 
+Right there?
+If A should [crosstalk 01:05:52]
+Zero.
+No. But I don't get the A.
+"The A is not there. B is there, but not the A."
+"I got the B before, B is right here, but not the A."
+"No, because then [crosstalk 01:06:27]. What if we erase this one? Just keep the A."
+Would that be A?
+Oh. [inaudible 01:08:07]
+"I changed that, I just raised that thing. But I [inaudible 01:08:13]"
+I erased the A. I'm still not getting the A.
+"Yeah, that could work."
+"That works, because-"
+Okay.
+You recite it?
+"Oh okay. I don't know the vowels, 'cause I was just trying to..."
+"Doesn't matter what the name is, right?"
+Can we create a loop?
+How do we...
+That one.
+"No, I mean..."
+"Because we don't know, right? How to set out so like-"
+Probably another loop. Or a while.
+I think that will supplement.
+Ugh.
+"The random number is index, right?"
+Nine is inclusive or exclusive?
+You had it.
+"Yeah I was thinking about the if, like how do you set that?"
+"And I think so, but I wanna evaluate the total type of evac."
+"Without looking at it, what are they? Let me catch up, okay?"
+"Assign, matrix so..."
+You got it?
+The thing I told you. It got it?
+What is the parameters for the matrix after the random cancel?
+Okay. Hold on.
+"So I, Index, right?"
+Is equal one.
+Huh?
+You think it's...
+It's probably because there's no ending.
+What is the... when you put the next line here?
+"Okay, so... then print."
+Really?
+Oh yes.
+To do it.
+Like this?
+But you can actually use a higher gain?
+"I am tempted. (laughs) I don't have time to. And that should be the length of what... of the columns, right?"
+"Yeah you're right. So rows is five, and five plus."
+Four. On both of them? Or just the first two?
+Column
+Okay.
+To print.
+"Oh, no. So that was the first part, right? Now my computer is not working."
+"Right there, right?"
+Huh?
+Yeah I think so.
+I meant to do that.
+Right here?
+"Okay. Uh... you can tell I'm not here today, right?"
+[inaudible 00:09:40] I need to do the date too. Do I need to put it at... the input in the back line whatever I need?
+So everything else?
+Like this?
+Right here?
+Because I used five.
+[inaudible 00:11:12] 
+All right that should work.
+Yeah but it only has one here. Or does random.
+"But yours starts from the third, right?"
+But it doesn't matter.
+Okay.
+Well that's how yours... okay.
+"That's gonna go right down here, right? Right at the end."
+"Okay, what does the loop do? Create a loop, nine times?"
+Like this?
+Right?
+"But then we create the if statement goes inside the loop, right?"
+Oh you need a [connor tree 00:13:13]
+"You're not returning that valid, right?"
+It's just whether they ring or not.
+Okay.
+That's... okay.
+Four.
+"On the matrix, it starts at zero. Zero, zero, right? Or the I, I. I'm sorry. I, J?"
+Then it's true. Otherwise it's false.
+"Oh, I'm sorry."
+Then what key goes to true?
+Nice. Okay. And it needs the um...
+Why it's giving me an array?
+"That's how this works, right?"
+Which is right here.
+That should be an if statement. If key is equal to the other...
+So if key is true
+Then they win.
+So if this is turned off... try not to take your time.
+I guess. I lost.
+"No, I lost."
+I tried.
+It has to give me a win. Otherwise... okay.
+So how do I know I win?
+I'm not convinced.
+I'm not convinced.
+Sounds good.
+I can't lose all the time.
+"Oh hey, what's the purpose of this program?"
+What?
+Yeah but what is the purpose? How do we win?
+"Oh, okay. So that's how that... I lose all the time."
+So it's okay. Okay. And that's it? We can go home?
+Good. I'm just commenting.
+Yeah. Wait what you been doing?
+We do not have to it.
+Let's see the description. I'm putting the submission first.
+"Sometimes it works, sometimes it doesn't... just..."
+Oh.
+I don't even know whether it's saved.
+Uh-oh.
+Mm-hmm (affirmative)
+Me neither.
+What? I can't do the exit form.
+It just won't allow me.
+These are supposed to be helpful.
+Okay.
+Not probably. Should I switch?
+Okay.
+"Uh, we'll probably have to call him."
+Hm?
+"Oh, okay."
+Okay. Be right back.
+Can I have [inaudible 00:32:29]?
+"She's planning, I don't know. Oh, sorry. I'm back alone here. I get it. We're done."
+One thing at a time.
